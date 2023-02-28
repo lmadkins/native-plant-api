@@ -1,0 +1,29 @@
+USER STORIES
+
+
+I want the photos to be standard dimensions, and small file size (as much as possible)
+
+I want capitalization to be standardized, and searches/results fetched to not be case-sensitive
+
+I want the results to be filterable by query
+
+
+Client-facing side:
+
+Plant Identification: 
+I want to be able to search the name of a plant (including scientific and common names) and get results
+  - if it is a native plant (if not, to be told so)
+  - information, photos about the plant
+
+I want to be able to browse/filter plants by color, if I don't know the name
+
+Landscaping/Gardening Planning:
+I want to be able to find out native plants compatible with the light and other conditions in my garden, and to filter out toxicity, type, etc.
+
+I want to have sources available for more information about where to get the plant
+
+
+
+
+
+

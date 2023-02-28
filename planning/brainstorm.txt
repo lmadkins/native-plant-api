@@ -1,0 +1,65 @@
+API of native &/or local plants
+
+MERN? Mongo?
+
+SCOPE
+  regions:
+    - PNW?
+    - NW OR/SW Washington? (Coast range, Willamette Valley, Cascades)
+    - Willamette Valley?
+
+  types:
+    - native only?
+    - common local
+
+Classifications/specs for listings
+    - type
+      - tree
+      - shrub
+      - fern
+      - grass
+      - flower
+        -(perennial, annual)
+    - scientific name 
+    - common name(s)
+    - USDA zones
+    - Eco region 
+    - Typical height/width
+    - Toxicity
+    - Edibility 
+    - Pollinator - y/n
+    - Light needed
+    - Specific conditions 
+      - Drought tolerant
+    - Images
+      - Find on NWPlants website- they have images under Creative Commons license 
+
+
+Resources for research: 
+
+https://www.nwplants.com/business/catalog/listcommonindex.html
+
+https://www.portland.gov/sites/default/files/2018-12/Portland_Plant_List_2016_Update_Final2.pdf
+
+https://www.oregonmetro.gov/sites/default/files/2020/06/30/native-plants-for-Willamette-Valley-yards-booklet-high-res-20200107.pdf 
+
+https://portlandnursery.com/docs/native-plants/portlandnativeplants.pdf
+
+https://backyardhabitats.org/resources/native-plants-2020/
+
+List of local native plant nurseries
+https://backyardhabitats.org/resources/native-plants-2020/find-native-plants/ 
+
+
+https://extension.oregonstate.edu/pub/ec-1577
+
+https://www.wildflower.org/collections/collection.php?collection=OR
+
+http://www.pnwplants.wsu.edu/CommonNames.aspx 
+http://www.pnwplants.wsu.edu/Search.aspx 
+http://www.pnwplants.wsu.edu/Thumbnails.aspx
+
+
+README on Repo:
+- Resources used/more reading 
+- Why local plants
