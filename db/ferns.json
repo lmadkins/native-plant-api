@@ -1,0 +1,171 @@
+[
+  {
+  "scientificName": "Adiantum aleuticum",
+  "commonNames": ["Northern maidenhair fern", "Maidenhair fern"],
+  "type": "Fern",
+  "lightNeeds": ["Part Shade","Shade"],
+  "waterNeeds": "Moist",
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": null,
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+{
+  "scientificName": "Asplenium trichomanes",
+  "commonNames": ["Maidenhair spleenwort"],
+  "type": "Fern",
+  "lightNeeds": [""],
+  "waterNeeds": "Moist",
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+{
+  "scientificName": "Athyrium filix-femina",
+  "commonNames": ["Lady fern"],
+  "type": "Fern",
+  "lightNeeds": ["Part Shade","Shade"],
+  "waterNeeds": "Moist",
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "Yes",
+  "evergreen": "Yes"
+},
+{
+  "scientificName": "Dryopteris expansa",
+  "commonNames": ["Northern Wood Fern","Spreading Wood Fern","Wood Fern"],
+  "type": "",
+  "lightNeeds": ["Part Sun", "Part Shade", "Shade"],
+  "waterNeeds": "Moist",
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "No"
+},
+{
+  "scientificName": "Gymnocarpium disjunctum",
+  "commonNames": ["Western oak fern","Oak fern"],
+  "type": "Fern",
+  "lightNeeds": ["Part Shade","Shade"],
+  "waterNeeds": "Moist",
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+{
+  "scientificName": "Polypodium glycyrrhiza",
+  "commonNames": ["Licorice fern"],
+  "type": "Fern",
+  "lightNeeds": ["Part Shade","Shade"],
+  "waterNeeds": ["Moist","Dry"],
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": ["Edible roots"],
+    "medicinalUse": [""],
+    "otherUse": ["Green Roofs"],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+{
+  "scientificName": "Polystichum munitum",
+  "commonNames": ["Sword Fern","Common Sword Fern"],
+  "type": "Fern",
+  "lightNeeds": ["Part Sun","Part Shade","Shade"],
+  "waterNeeds": ["Moist","Moist"],
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": ["Erosion Control, Green Roofs"],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+
+{
+  "scientificName": "Struthiopteris spicant",
+  "commonNames": ["Deer fern"],
+  "type": "Fern",
+  "lightNeeds": ["Part Shade","Shade"],
+  "waterNeeds": ["Moist","Wet"],
+  "flowerColor": null,
+  "wildlifeSupport": null,
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+}
+]

@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+["Bees","Hummingbirds","Butterflies"]
+
+SUN to PART SUN
+["Sun","Part Sun","Part Shade"]
+
+SUN
+["Sun","Part Sun"]
+
+SHADE
+["Part Shade","Shade"]
+
+["Dry","Moist","Wet"]
+
+["Moist","Dry"]
+
+["Moist"]
+["Dry"]
+
+["Moist","Wet"]
+
+
+{
+  "scientificName": "",
+  "commonNames": [],
+  "type": "",
+  "lightNeeds": [""],
+  "waterNeeds": "",
+  "flowerColor": [],
+  "wildlifeSupport": [],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "No"
+},
