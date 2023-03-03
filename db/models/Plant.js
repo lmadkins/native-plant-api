@@ -7,18 +7,46 @@ const PlantSchema = new mongoose.Schema({
   type: String,
   lightNeeds: [String],
   waterNeeds: [String],
-  flowerColor: [String],
-  wildlifeSupport: [String],
-  foodUse: [String],
-  medicinalUse: [String],
-  otherUse: [String],
+  flowerColor:  {
+    type: [String],
+    default: null
+  },
+  wildlifeSupport:  {
+    type: [String],
+    default: null
+  },
+  foodUse:  {
+    type: [String],
+    default: null
+  },
+  otherUse: {
+    type: [String],
+    default: null
+  },
   image: {
     medium: String,
     original: String
   },
-  toxic: "String",
-  spreadsVigorously: "String",
-  evergreen: "String"
+  toxic:  {
+    type: [String],
+    default: null
+  },
+  spreadsVigorously:  {
+    type: [String],
+    default: "No"
+  },
+  otherWarnings:  {
+    type: [String],
+    default: null
+  },
+  evergreen:  {
+    type: [String],
+    default: null
+  },
+  propagationNeeds:  {
+    type: [String],
+    default: null
+  },
 })
 
 // instantiate the model, calling it "Bookmark" and with the schema just made

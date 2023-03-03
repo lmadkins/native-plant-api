@@ -5,20 +5,12 @@
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Wet"],
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Erosion Control"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "otherUse": ["Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "No",
-    "spreadsVigorously": "No",
-    "evergreen": "No"
+    "propagationNeeds": "Stratification"
   },
   {
     "scientificName": "Carex obnupta",
@@ -26,20 +18,12 @@
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
     "waterNeeds": ["Moist","Wet"],
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Erosion Control"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "otherUse": ["Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "No",
-    "spreadsVigorously": "No",
-    "evergreen": "No"
+    "propagationNeeds": "Stratification"
   },
   {
     "scientificName": "Deschampsia cespitosa",
@@ -47,19 +31,11 @@
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": ["Moist","Dry"],
-    "flowerColor": null,
-    "wildlifeSupport": ["Birds"],
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Erosion Control"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "otherUse": ["Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "False",
-    "spreadsVigorously": "False",
     "evergreen": "Yes"
   },
   {
@@ -68,40 +44,10 @@
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": ["Dry","Moist"],
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": [""],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "False",
-    "spreadsVigorously": "False",
-    "evergreen": "Yes"
-  },
-  {
-    "scientificName": "Festuca californica",
-    "commonNames": ["California fescue","Fescue"],
-    "type": "Grass",
-    "lightNeeds": [""],
-    "waterNeeds": "",
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Erosion control"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
-    },
-    "toxic": "False",
-    "spreadsVigorously": "False",
     "evergreen": "Yes"
   },
   {
@@ -110,20 +56,11 @@
     "type": "",
     "lightNeeds": ["Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Dry"],
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Green Roofs"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
-    },
-    "toxic": "No",
-    "spreadsVigorously": "No",
-    "evergreen": "No"
+    "otherUse": ["Green Roofs"],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
   },
   {
     "scientificName": "Juncus balticus",
@@ -131,83 +68,57 @@
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Erosion Control"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "otherUse": ["Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "No",
-    "spreadsVigorously": "No",
-    "evergreen": "No"
+    "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": "Juncus effusus ssp. pacificus",
-    "commonNames": ["Pacific rush", "Pasture Rush"],
+    "scientificName": ["Juncus effusus ssp. pacificus","Juncus effusus"],
+    "commonNames": ["Pacific Rush", "Pasture Rush"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun"],
     "waterNeeds": ["Dry","Moist","Wet"],
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Erosion Control"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "otherUse": ["Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "False",
     "spreadsVigorously": "Yes",
-    "evergreen": "Yes"
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
   },
   {
     "scientificName": "Juncus ensifolius",
-    "commonNames": ["Dagger-leaf rush"],
+    "commonNames": ["Dagger-Leaf Rush","Dagger-Leaved Rush"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Erosion Control"],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "otherUse": ["Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "False",
     "spreadsVigorously": "Yes",
-    "evergreen": "Yes"
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
   },
   {
     "scientificName": "Juncus patens",
-    "commonNames": ["Spreading blue rush"],
+    "commonNames": ["Spreading Blue Rush","Spreading Rush"],
     "type": "Grass",
-    "lightNeeds": [""],
-    "waterNeeds": "",
-    "flowerColor": null,
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": [""],
-      "images": {
-        "medium": "",
-        "original": ""
-      }
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Moist",
+    "otherUse": ["Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
     },
-    "toxic": "False",
     "spreadsVigorously": "Yes",
-    "evergreen": "Yes"
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
   },
   {
     "scientificName": "Koeleria macrantha",
@@ -216,18 +127,12 @@
     "lightNeeds": ["Full Sun"],
     "waterNeeds": "Dry",
     "flowerColor": ["Yellow"],
-    "wildlifeSupport": null,
-    "uses": {
-      "foodUse": [""],
-      "medicinalUse": [""],
-      "otherUse": ["Green Roofs","Grazing","Rangeland Revegetation"],
+    "otherUse": ["Green Roofs","Grazing","Rangeland revegetation"],
       "images": {
         "medium": "",
         "original": ""
-      }
-    },
-    "toxic": "False",
-    "spreadsVigorously": "False",
-    "evergreen": "Yes"
+      },
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
   }
 ]

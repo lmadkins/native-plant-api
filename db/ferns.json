@@ -1,128 +1,76 @@
 [
   {
   "scientificName": "Adiantum aleuticum",
-  "commonNames": ["Northern maidenhair fern", "Maidenhair fern"],
+  "commonNames": ["Northern Maidenhair Fern", "Maidenhair Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": null,
-    "medicinalUse": [""],
-    "otherUse": [""],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "images": {
+    "medium": "",
+    "original": ""
   },
-  "toxic": "False",
-  "spreadsVigorously": "False",
   "evergreen": "Yes"
 },
 {
   "scientificName": "Asplenium trichomanes",
-  "commonNames": ["Maidenhair spleenwort"],
+  "commonNames": ["Maidenhair Spleenwort"],
   "type": "Fern",
   "lightNeeds": [""],
   "waterNeeds": "Moist",
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": [""],
-    "medicinalUse": [""],
-    "otherUse": [""],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "images": {
+    "medium": "",
+    "original": ""
   },
-  "toxic": "False",
-  "spreadsVigorously": "False",
   "evergreen": "Yes"
 },
 {
   "scientificName": "Athyrium filix-femina",
-  "commonNames": ["Lady fern"],
+  "commonNames": ["Lady Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": [""],
-    "medicinalUse": [""],
-    "otherUse": [""],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "images": {
+    "medium": "",
+    "original": ""
   },
-  "toxic": "False",
   "spreadsVigorously": "Yes",
   "evergreen": "Yes"
 },
 {
   "scientificName": "Dryopteris expansa",
   "commonNames": ["Northern Wood Fern","Spreading Wood Fern","Wood Fern"],
-  "type": "",
+  "type": "Fern",
   "lightNeeds": ["Part Sun", "Part Shade", "Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": [""],
-    "medicinalUse": [""],
-    "otherUse": [""],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
-  },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "No"
+  "images": {
+    "medium": "",
+    "original": ""
+  }
 },
 {
   "scientificName": "Gymnocarpium disjunctum",
-  "commonNames": ["Western oak fern","Oak fern"],
+  "commonNames": ["Western Oak Fern","Oak Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": [""],
-    "medicinalUse": [""],
-    "otherUse": [""],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "images": {
+    "medium": "",
+    "original": ""
   },
-  "toxic": "False",
-  "spreadsVigorously": "False",
   "evergreen": "Yes"
 },
 {
   "scientificName": "Polypodium glycyrrhiza",
-  "commonNames": ["Licorice fern"],
+  "commonNames": ["Licorice Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": ["Edible roots"],
-    "medicinalUse": [""],
-    "otherUse": ["Green Roofs"],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "foodUse": ["Edible roots"],
+  "otherUse": ["Green Roofs"],
+  "images": {
+    "medium": "",
+    "original": ""
   },
-  "toxic": "False",
-  "spreadsVigorously": "False",
   "evergreen": "Yes"
 },
 {
@@ -131,41 +79,23 @@
   "type": "Fern",
   "lightNeeds": ["Part Sun","Part Shade","Shade"],
   "waterNeeds": ["Moist","Moist"],
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": [""],
-    "medicinalUse": [""],
-    "otherUse": ["Erosion Control, Green Roofs"],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "otherUse": ["Erosion control, Green Roofs"],
+  "images": {
+    "medium": "",
+    "original": ""
   },
-  "toxic": "False",
-  "spreadsVigorously": "False",
   "evergreen": "Yes"
 },
-
 {
   "scientificName": "Struthiopteris spicant",
-  "commonNames": ["Deer fern"],
+  "commonNames": ["Deer Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Wet"],
-  "flowerColor": null,
-  "wildlifeSupport": null,
-  "uses": {
-    "foodUse": [""],
-    "medicinalUse": [""],
-    "otherUse": [""],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "images": {
+    "medium": "",
+    "original": ""
   },
-  "toxic": "False",
-  "spreadsVigorously": "False",
   "evergreen": "Yes"
 }
 ]

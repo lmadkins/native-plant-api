@@ -1,9 +1,78 @@
+Shrubs in at least 2:
+Viburnum ellipticum
+Vaccinium parvifolium
+Vaccinium ovatum
+Symphoricarpos albus
+Spiraea douglasii
+Spiraea betulifolia
+Sambucus racemosa
+Sambucus cerulean/mexicana
+Rubus spectabilis
+Rubus parviflorus
+Ribes sanguineum
+Rosa nutkana
+Rosa pisocarpa
+Rosa gymnocarpa
+Ribes sanguineum
+Ribes lobbii
+Ribes divaricatum
+Ribes bracteosum
+Rhododendron occidentale
+Rhamnus purshiana
+Prunus virginiana
+
+Physocarpus capitatus
+Philadelphus lewisii
+Oplopanax horridus
+Oemleria cerasiformis
+Mahonia nervosa (Berberis nervosa)
+Lonicera hispidula var. hispidula
+Lonicera involucrate
+Holodiscus discolor
+Gaultheria shallon
+Arctostaphylos uva-ursi
+Corylus cornuta
+Ceanothus velutinus
+Ceanothus thyrsiflorus
+Ceanothus sanguineus
+Mahonia (Berberis) nervosa
+Mahonia (Berberis) aquifolium
+Baccharis pilularis
+Arctostaphylos uva-ursi
+Arctostaphylos columbiana,
+Amelanchier alnifolia
+
+Small trees in at least 2
+Taxus brevifolia
+Salix sitchensis
+Rhamnus purshiana
+Malus fusca
+Prunus emarginata
+Crataegus suksdorfii/douglasii
+Acer circinatum
 
 
+Large trees in at least 2:
+Tsuga mertensiana
+Tsunga heterophylla
+Thuja plicata
 
+Salix lasiandra
+Salix scouleriana
+Quercus garryana
+Pseudotsuga menziesii
+Populus trichocarpa
+Populus tremuloides
+Pinus ponderosa
+Fraxinus latifolia
+Cornus nuttallii
+Calocedrus decurrens
+Arbutus menziesii
+Alnus rubra
+Acer macrophyllum
+Abies grandis
 
-
-
+"propagationNeeds": "Stratification"
 
 ["Bees","Hummingbirds","Butterflies"]
 
@@ -45,5 +114,375 @@ SHADE
   },
   "toxic": "No",
   "spreadsVigorously": "No",
-  "evergreen": "No"
+  "evergreen": "No",
+  "propagationNeeds": null
 },
+
+
+
+////// Ones listed in only one of 3 major sources ////
+
+////// 
+IN: WV Gardens
+NOT: Portland Plant List, Oregon Flora
+ ///// 
+ {
+  "scientificName": "Xerophyllum tenax",
+  "commonNames": ["Beargrass"],
+  "type": "Perennial",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Moist","Dry"],
+  "flowerColor": ["White"],
+  "wildlifeSupport": ["Bees","Butterflies"],
+  "uses": {
+    "foodUse": ["Rhizomes edible when cooked"],
+    "medicinalUse": [""],
+    "otherUse": ["Fragrant","Erosion control"],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+ {
+  "scientificName": "Lysimachia latifolia",
+  "commonNames": ["Western starflower"],
+  "type": "Perennial",
+  "lightNeeds": [""],
+  "waterNeeds": "",
+  "flowerColor": ["White","Pink"],
+  "wildlifeSupport": ["Bees"],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "False"
+},
+ {
+  "scientificName": "Micranthes rufidula",
+  "commonNames": ["Rusty-hair saxifrage","Saxifraga occidentalis "],
+  "type": "Perennial",
+  "lightNeeds": [""],
+  "waterNeeds": "",
+  "flowerColor": ["White","Pink"],
+  "wildlifeSupport": ["Bees"],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "False"
+},
+{
+  "scientificName": "Penstemon cardwellii",
+  "commonNames": ["Cardwell’s penstemon","Penstemon"],
+  "type": "Perennial",
+  "lightNeeds": [""],
+  "waterNeeds": "Dry",
+  "flowerColor": ["Purple","Pink"],
+  "wildlifeSupport": ["Bees","Hummingbirds"],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "False"
+},
+{
+  "scientificName": "Rudbeckia occidentalis",
+  "commonNames": ["Western buttercup","Western coneflower"],
+  "type": "Perennial",
+  "lightNeeds": ["Part Sun","Part Shade"],
+  "waterNeeds": ["Moist","Dry"],
+  "flowerColor": ["Green","Brown"],
+  "wildlifeSupport": ["Bees","Hummingbirds"],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "False"
+},
+{
+  "scientificName": "Phlox diffusa",
+  "commonNames": ["Spreading phlox"],
+  "type": "Perennial",
+  "lightNeeds": [""],
+  "waterNeeds": "Dry",
+  "flowerColor": ["Pink"],
+  "wildlifeSupport": ["Birds","Bees"],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+{
+  "scientificName": "Fragaria chiloensis",
+  "commonNames": ["Coastal strawberry"],
+  "type": "Perennial",
+  "lightNeeds": [""],
+  "waterNeeds": "",
+  "flowerColor": ["White"],
+  "wildlifeSupport": ["Bees"],
+  "uses": {
+    "foodUse": ["Edible berries"],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "Yes",
+  "evergreen": "Yes"
+},
+
+{
+  "scientificName": "Erigeron glaucus",
+  "commonNames": ["Seaside daisy"],
+  "type": "Perennial",
+  "lightNeeds": [""],
+  "waterNeeds": "",
+  "flowerColor": ["Yellow","Pink"],
+  "wildlifeSupport": [],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "False"
+},
+{
+  "scientificName": "Armeria maritima",
+  "commonNames": ["Sea pink","California thrift"],
+  "type": "Perennial",
+  "lightNeeds": ["Sun"],
+  "waterNeeds": "Dry",
+  "flowerColor": ["Pink","Purple"],
+  "wildlifeSupport": ["Bees","Butterflies","Hummingbirds"],
+  "uses": {
+    "foodUse": [""],
+    "medicinalUse": [""],
+    "otherUse": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    }
+  },
+  "toxic": "False",
+  "spreadsVigorously": "False",
+  "evergreen": "Yes"
+},
+  {
+    "scientificName": "Festuca californica",
+    "commonNames": ["California fescue","Fescue"],
+    "type": "Grass",
+    "lightNeeds": [""],
+    "waterNeeds": "",
+    "flowerColor": null,
+    "wildlifeSupport": null,
+    "uses": {
+      "foodUse": [""],
+      "medicinalUse": [""],
+      "otherUse": ["Erosion control"],
+      "images": {
+        "medium": "",
+        "original": ""
+      }
+    },
+    "toxic": "False",
+    "spreadsVigorously": "False",
+    "evergreen": "Yes",
+    "propagationNeeds": null
+  },
+
+  Oregon wintergreen
+  Gaultheria ovatifolia
+
+  Oregon boxwood
+  Paxistima myrsinites
+
+//// 
+IN: Oregon Flora for WV ecoregion 
+NOT: Portland Plants List, or WV yards //
+
+Sedum stenopetalum
+https://oregonflora.org/garden/index.php#:~:text=Sedum%20stenopetalum%0Astonecrop%2C%20wormleaf
+
+Sidalcea cusickii
+Cusick's sidalcea
+https://oregonflora.org/taxa/garden.php?taxon=8378
+
+
+Penstemon rydbergii
+penstemon, Rydberg's
+https://oregonflora.org/taxa/garden.php?taxon=7098
+
+
+Lupinus albicaulis
+lupine, sickle-keeled
+https://oregonflora.org/taxa/garden.php?taxon=6292
+
+
+Lomatium triternatum
+lomatium, nineleaf
+https://oregonflora.org/taxa/garden.php?taxon=6234
+
+
+Lomatium nudicaule
+barestem lomatium
+https://oregonflora.org/taxa/garden.php?taxon=6217
+
+
+Lomatium macrocarpum
+large-fruited desert parsley
+https://oregonflora.org/taxa/garden.php?taxon=6211
+
+mountain hollyhock
+Iliamna rivularis
+https://oregonflora.org/taxa/garden.php?taxon=5720
+
+alpine alumroot
+Heuchera cylindrica
+https://oregonflora.org/taxa/garden.php?taxon=5573
+
+Helianthus annuus
+sunflower, common
+https://oregonflora.org/taxa/garden.php?taxon=5524
+
+
+Geranium oreganum
+geranium, western
+https://oregonflora.org/taxa/garden.php?taxon=5329
+
+
+https://oregonflora.org/taxa/garden.php?taxon=5044
+Erythranthe cardinalis
+monkeyflower, scarlet
+
+
+Erysimum capitatum
+wallflower, western
+https://oregonflora.org/taxa/garden.php?taxon=5029
+
+
+https://oregonflora.org/taxa/garden.php?taxon=4178
+Clinopodium douglasii
+yerba buena
+
+
+https://oregonflora.org/taxa/garden.php?taxon=4163
+Claytonia sibirica
+candyflower
+
+
+Calochortus tolmiei
+cat's ear, Tolmie's
+https://oregonflora.org/taxa/garden.php?taxon=3524
+
+
+Brodiaea coronaria
+crown brodiaea
+https://oregonflora.org/garden/index.php#:~:text=Brodiaea%20coronaria%0Acrown%20brodiaea
+
+https://oregonflora.org/taxa/garden.php?taxon=3018
+Asclepias fascicularis
+milkweed, narrowleaf
+
+
+https://oregonflora.org/garden/index.php#:~:text=Aruncus%20dioicus%0Agoatsbeard%2C%20sylvan
+Aruncus dioicus
+goatsbeard, sylvan
+
+https://oregonflora.org/taxa/garden.php?taxon=2991
+Artemisia ludoviciana
+wormwood, western
+
+
+https://oregonflora.org/taxa/garden.php?taxon=2828
+Apocynum cannabinum
+Indian hemp
+
+https://oregonflora.org/taxa/garden.php?taxon=2827
+Apocynum androsaemifolium
+dogbane, spreading
+
+
+https://oregonflora.org/taxa/garden.php?taxon=2601
+Allium amplectens
+onion, slim-leaf
+
+(various grasses)
+
+shrubs:
+Umbellularia californica
+Oregon myrtle
+
+Rubus leucodermis
+blackcap
+
+Rubus nutkanus
+thimbleberry
+
+
+//// IN: Portland plants list
+ NOT: WV Gardens or OR flora
+
+ Potentilla glandulosa
+ Sticky cinquefoil
+
+ Ovate Penstemon 
+ Penstemon ovatus
+
+ Columbia Gorge/Broad-leaf Lupine Lupinus latifolius var. thompsonianus
+
+Smooth Alumroot Heuchera glabra
+
+Miner’s Lettuce Claytonia (Montia) perfoliata 
+
+Streambank Spring Beauty Claytonia (Montia) parviflora
+
+Hooker’s Onion/Taper-tip onion Allium accuminatum 
