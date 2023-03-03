@@ -1,11 +1,11 @@
 [
   {
-    "scientificName": "Carex densa",
+    "scientificNames": "Carex densa",
     "commonNames": ["Dense Sedge"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Wet"],
-    "otherUse": ["Erosion control"],
+    "otherUses": ["Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -13,12 +13,12 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": "Carex obnupta",
+    "scientificNames": "Carex obnupta",
     "commonNames": ["Slough Sedge"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
     "waterNeeds": ["Moist","Wet"],
-    "otherUse": ["Erosion control"],
+    "otherUses": ["Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -26,12 +26,12 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": "Deschampsia cespitosa",
+    "scientificNames": "Deschampsia cespitosa",
     "commonNames": ["Tufted hairgrass"],
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": ["Moist","Dry"],
-    "otherUse": ["Erosion control"],
+    "otherUses": ["Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -39,7 +39,7 @@
     "evergreen": "Yes"
   },
   {
-    "scientificName": "Elymus glaucus",
+    "scientificNames": "Elymus glaucus",
     "commonNames": ["Blue wildrye","Bunchgrass","Blue Wild Rye"],
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
@@ -51,24 +51,24 @@
     "evergreen": "Yes"
   },
   {
-    "scientificName": "Festuca occidentalis",
+    "scientificNames": "Festuca occidentalis",
     "commonNames": ["Western Fescue"],
     "type": "",
     "lightNeeds": ["Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Dry"],
-    "otherUse": ["Green Roofs"],
+    "otherUses": ["Green Roofs"],
     "images": {
       "medium": "",
       "original": ""
     }
   },
   {
-    "scientificName": "Juncus balticus",
+    "scientificNames": "Juncus balticus",
     "commonNames": ["Baltic Rush"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
-    "otherUse": ["Erosion control"],
+    "otherUses": ["Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -76,12 +76,12 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": ["Juncus effusus ssp. pacificus","Juncus effusus"],
+    "scientificNames": ["Juncus effusus ssp. pacificus","Juncus effusus"],
     "commonNames": ["Pacific Rush", "Pasture Rush"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun"],
     "waterNeeds": ["Dry","Moist","Wet"],
-    "otherUse": ["Erosion control"],
+    "otherUses": ["Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -91,12 +91,12 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": "Juncus ensifolius",
+    "scientificNames": "Juncus ensifolius",
     "commonNames": ["Dagger-Leaf Rush","Dagger-Leaved Rush"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
-    "otherUse": ["Erosion control"],
+    "otherUses": ["Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -106,12 +106,12 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": "Juncus patens",
+    "scientificNames": "Juncus patens",
     "commonNames": ["Spreading Blue Rush","Spreading Rush"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade"],
     "waterNeeds": "Moist",
-    "otherUse": ["Erosion control"],
+    "otherUses": ["Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -121,13 +121,13 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": "Koeleria macrantha",
+    "scientificNames": "Koeleria macrantha",
     "commonNames": ["Prairie junegrass","Junegrass"],
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": "Dry",
     "flowerColor": ["Yellow"],
-    "otherUse": ["Green Roofs","Grazing","Rangeland revegetation"],
+    "otherUses": ["Green Roofs","Grazing","Rangeland revegetation"],
       "images": {
         "medium": "",
         "original": ""

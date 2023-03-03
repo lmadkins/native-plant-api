@@ -1,14 +1,14 @@
 [
   {
-  "scientificName": "Achillea millefolium",
+  "scientificNames": "Achillea millefolium",
   "commonNames": ["Yarrow","Common Yarrow"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry"],
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "foodUse": ["Leaves, stems, flowers are edible"],
-  "otherUse": ["Various medicinal uses"],
+  "foodUses": ["Leaves, stems, flowers are edible"],
+  "otherUses": ["Various medicinal uses"],
   "images": {
     "medium": "",
     "original": ""
@@ -18,14 +18,14 @@
   "otherWarnings": "Spreads aggressively in its preferred conditions"
 },
 {
-  "scientificName": "Achlys triphylla",
+  "scientificNames": "Achlys triphylla",
   "commonNames": ["Vanilla Leaf"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist"],
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
-  "otherUse": ["Fragrant"],
+  "otherUses": ["Fragrant"],
   "images": {
     "medium": "",
     "original": ""
@@ -34,14 +34,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Actaea rubra",
+  "scientificNames": "Actaea rubra",
   "commonNames": ["Baneberry","Western Red Baneberry"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist"],
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Fragrant"],
+  "otherUses": ["Fragrant"],
   "images": {
     "medium": "",
     "original": ""
@@ -50,14 +50,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Allium accuminatum",
+  "scientificNames": "Allium accuminatum",
   "commonNames": ["Hooker’s Onion","Taper-Tip Onion"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Pink","Purple"],
+  "flowerColors": ["Pink","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUse": ["Bulbs edible raw, or cooked"],
+  "foodUses": ["Bulbs edible raw, or cooked"],
   "images": {
     "medium": "",
     "original": ""
@@ -66,15 +66,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Allium cernuum",
+  "scientificNames": "Allium cernuum",
   "commonNames": ["Nodding onion"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Dry"],
-  "flowerColor": ["Pink"],
+  "flowerColors": ["Pink"],
   "wildlifeSupport": ["Bees", "Hummingbirds", "Butterflies"],
-  "foodUse": ["Leaves and bulbs edible raw, or cooked"],
-  "otherUse": ["Green Roofs","Leaves repel insects"],
+  "foodUses": ["Leaves and bulbs edible raw, or cooked"],
+  "otherUses": ["Green Roofs","Leaves repel insects"],
   "images": {
     "medium": "",
     "original": ""
@@ -84,15 +84,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Anaphalis margaritacea",
+  "scientificNames": "Anaphalis margaritacea",
   "commonNames": ["Pearly everlasting"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Yellow"],
+  "flowerColors": ["White","Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "foodUse": ["Leaves edible when cooked"],
-  "otherUse": ["Erosion control"],
+  "foodUses": ["Leaves edible when cooked"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -101,12 +101,12 @@
   "spreadsVigorously": "Yes"
 },
 {
-  "scientificName": "Anemone deltoidea",
+  "scientificNames": "Anemone deltoidea",
   "commonNames": ["Columbian Windflower"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Bees"],
   "images": {
     "medium": "",
@@ -115,12 +115,12 @@
   "toxic": "No"
 },
 {
-  "scientificName": "Aquilegia formosa",
+  "scientificNames": "Aquilegia formosa",
   "commonNames": ["Red Columbine","Western Columbine"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist"],
-  "flowerColor": ["Red","Orange"],
+  "flowerColors": ["Red","Orange"],
   "wildlifeSupport": ["Bees","Butterflies","Hummingbirds"],
   "images": {
     "medium": "",
@@ -130,13 +130,13 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Asarum caudatum",
+  "scientificNames": "Asarum caudatum",
   "commonNames": ["Wild Ginger","Western Wild Ginger","Long-Tailed Wild Ginger"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Red","Purple"],
-  "foodUse": ["Roots edible"],
+  "flowerColors": ["Red","Purple"],
+  "foodUses": ["Roots edible"],
   "images": {
     "medium": "",
     "original": ""
@@ -145,14 +145,14 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Asclepias speciosa",
+  "scientificNames": "Asclepias speciosa",
   "commonNames": ["Showy milkweed"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Pink","White"],
+  "flowerColors": ["Pink","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUse": ["Fragrant"],
+  "otherUses": ["Fragrant"],
   "images": {
     "medium": "",
     "original": ""
@@ -162,12 +162,12 @@
 },
 
 {
-  "scientificName": "Boykinia major",
+  "scientificNames": "Boykinia major",
   "commonNames": ["Large Boykinia","Tall Boykinia"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -178,15 +178,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Camassia leichtlinii","Cammasia leichtlinii"],
+  "scientificNames": ["Camassia leichtlinii","Cammasia leichtlinii"],
   "commonNames": ["Great Camas","Tall Camas"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Purple","Blue","White"],
+  "flowerColors": ["Purple","Blue","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUse": ["Bulbs edible raw, or cooked"],
-  "otherUse": ["Green Roofs"],
+  "foodUses": ["Bulbs edible raw, or cooked"],
+  "otherUses": ["Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -195,15 +195,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Camassia quamash","Cammasia quamash"],
+  "scientificNames": ["Camassia quamash","Cammasia quamash"],
   "commonNames": ["Common Camas"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Purple","Blue","White"],
+  "flowerColors": ["Purple","Blue","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUse": ["Bulbs edible raw, or cooked"],
-  "otherUse": ["Green Roofs"],
+  "foodUses": ["Bulbs edible raw, or cooked"],
+  "otherUses": ["Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -212,12 +212,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Campanula rotundifolia",
+  "scientificNames": "Campanula rotundifolia",
   "commonNames": ["Common harebell"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Blue"],
+  "flowerColors": ["Blue"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
   "images": {
     "medium": "",
@@ -226,12 +226,12 @@
   "toxic": "No"
 },
 {
-  "scientificName": ["Aster subspicatus","Canadanthus modestus"],
+  "scientificNames": ["Aster subspicatus","Canadanthus modestus"],
   "commonNames": ["Great Northern Aster","Few-Flowered Aster"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Purple"],
+  "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",
@@ -241,15 +241,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Chamaenerion angustifolium",
+  "scientificNames": "Chamaenerion angustifolium",
   "commonNames": ["Fireweed"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Pink","Purple"],
+  "flowerColors": ["Pink","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUse": ["Leaves edible when cooked"],
-  "otherUse": ["Erosion control"],
+  "foodUses": ["Leaves edible when cooked"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -259,12 +259,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Circaea alpina","Circaea alpina ssp. pacifica"],
+  "scientificNames": ["Circaea alpina","Circaea alpina ssp. pacifica"],
   "commonNames": ["Enchanter’s Nightshade"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -274,12 +274,12 @@
   "spreadsVigorously": "Yes"
 },
 {
-  "scientificName": "Clarkia amoena",
+  "scientificNames": "Clarkia amoena",
   "commonNames": ["Farewell-to-spring","Farewell to Spring", "Clarkia"],
   "type": "Annual",
   "lightNeeds": ["Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Pink"],
+  "flowerColors": ["Pink"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -289,12 +289,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Collinsia parviflora",
+  "scientificNames": "Collinsia parviflora",
   "commonNames": ["Small Blue-Eyed Mary"],
   "type": "Annual",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Blue"],
+  "flowerColors": ["White","Blue"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -304,12 +304,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Collomia grandiflora","Collimia grandiflorum"],
+  "scientificNames": ["Collomia grandiflora","Collimia grandiflorum"],
   "commonNames": ["Collomia","Large Flowered Collomia"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Orange","White"],
+  "flowerColors": ["Orange","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -321,14 +321,14 @@
 },
 
 {
-  "scientificName": "Cornus unalaschkensis",
+  "scientificNames": "Cornus unalaschkensis",
   "commonNames": ["Bunchberry"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
-  "foodUse": ["Edible berries"],
+  "foodUses": ["Edible berries"],
     "images": {
       "medium": "",
       "original": ""
@@ -337,12 +337,12 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Corydalis scouleri",
+  "scientificNames": "Corydalis scouleri",
   "commonNames": ["Scouler’s corydalis"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Pink"],
+  "flowerColors": ["Pink"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -352,12 +352,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Dicentra formosa",
+  "scientificNames": "Dicentra formosa",
   "commonNames": ["Pacific Bleeding Heart","Woodland Bleeding Heart","Oregon Bleeding Heart"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Pink","Purple"],
+  "flowerColors": ["Pink","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -368,12 +368,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Dichelostemma congestum",
+  "scientificNames": "Dichelostemma congestum",
   "commonNames": ["Cluster Lily","Ookow","Clustered Ookow"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Purple"],
+  "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies","Hummingbirds"],
   "images": {
     "medium": "",
@@ -383,12 +383,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Dodecatheon hendersonii",
+  "scientificNames": "Dodecatheon hendersonii",
   "commonNames": ["Henderson’s shooting star"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part SHade"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Pink","Purple"],
+  "flowerColors": ["Pink","Purple"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -398,15 +398,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Erigeron speciosus",
+  "scientificNames": "Erigeron speciosus",
   "commonNames": ["Showy fleabane"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Yellow","Purple"],
+  "flowerColors": ["Yellow","Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "foodUse": ["Edible when boiled"],
-  "otherUse": ["Green Roofs"],
+  "foodUses": ["Edible when boiled"],
+  "otherUses": ["Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -416,14 +416,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Eriophyllum lanatum",
+  "scientificNames": "Eriophyllum lanatum",
   "commonNames": ["Oregon Sunshine"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Yellow"],
+  "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Erosion control","Green Roofs"],
+  "otherUses": ["Erosion control","Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -433,12 +433,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Erythranthe guttata",
+  "scientificNames": "Erythranthe guttata",
   "commonNames": ["Yellow monkey flower","Yellow Monkeyflower","Monkeyflower"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Yellow"],
+  "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -449,12 +449,12 @@
   "otherWarnings": "Spreads aggressively in its preferred conditions"
 },
 {
-  "scientificName": "Erythronium oregonum",
+  "scientificNames": "Erythronium oregonum",
   "commonNames": ["White fawn lily"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Yellow"],
+  "flowerColors": ["White","Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",
@@ -464,15 +464,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Fragaria vesca",
+  "scientificNames": "Fragaria vesca",
   "commonNames": ["Woodland strawberry"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Yellow"],
+  "flowerColors": ["White","Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "foodUse": ["Edible berries"],
-  "otherUse": ["Erosion control"],
+  "foodUses": ["Edible berries"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -482,15 +482,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Fragaria virginiana",
+  "scientificNames": "Fragaria virginiana",
   "commonNames": ["Wild Strawberry","Broad Petal Strawberry"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Yellow"],
+  "flowerColors": ["White","Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "foodUse": ["Edible berries"],
-  "otherUse": ["Erosion control"],
+  "foodUses": ["Edible berries"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -499,12 +499,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Fritillaria affinis",
+  "scientificNames": "Fritillaria affinis",
   "commonNames": ["Checker Lily","Chocolate Lily"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Yellow","Green","Purple","Brown"],
+  "flowerColors": ["Yellow","Green","Purple","Brown"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",
@@ -514,14 +514,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Gilia capitata","Gilia capitate"],
+  "scientificNames": ["Gilia capitata","Gilia capitate"],
   "commonNames": ["Globe gilia","Bluehead gilia"],
   "type": "Annual",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Blue","Purple"],
+  "flowerColors": ["Blue","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUse": ["Green Roofs"],
+  "otherUses": ["Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -531,12 +531,12 @@
 },
 
 {
-  "scientificName": "Goodyera oblongifolia",
+  "scientificNames": "Goodyera oblongifolia",
   "commonNames": ["Rattlesnake Plantain"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Dry",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -546,12 +546,12 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Heracleum maximum",
+  "scientificNames": "Heracleum maximum",
   "commonNames": ["Cow Parsnip"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",
@@ -562,12 +562,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Heuchera micrantha",
+  "scientificNames": "Heuchera micrantha",
   "commonNames": ["Small-flowered alumroot", "Alumroot","Heuchera"],
   "type": "Perennial",
   "lightNeeds": ["Shade","Part Shade","Part Sun","Sun"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -578,14 +578,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Hydrophyllum tenuipes",
+  "scientificNames": "Hydrophyllum tenuipes",
   "commonNames": ["Pacific Waterleaf"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Green"],
+  "flowerColors": ["White","Green"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Competes with English Ivy"],
+  "otherUses": ["Competes with English Ivy"],
     "images": {
       "medium": "",
       "original": ""
@@ -596,14 +596,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Iris tenax",
+  "scientificNames": "Iris tenax",
   "commonNames": ["Oregon Iris","Tough-Leaf Iris"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Purple","White","Yellow"],
+  "flowerColors": ["Purple","White","Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUse": ["Erosion control","Strong Fibers from leaves can be used for weaving and rope-making"],
+  "otherUses": ["Erosion control","Strong Fibers from leaves can be used for weaving and rope-making"],
     "images": {
       "medium": "",
       "original": ""
@@ -613,14 +613,14 @@
 },
 
 {
-  "scientificName": "Lilium columbianum",
+  "scientificNames": "Lilium columbianum",
   "commonNames": ["Tiger lily"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist"],
-  "flowerColor": ["Orange"],
+  "flowerColors": ["Orange"],
   "wildlifeSupport": ["Birds","Bees","Hummingbirds"],
-  "foodUse": ["Flowers, seeds, and bulbs edible"],
+  "foodUses": ["Flowers, seeds, and bulbs edible"],
   "images": {
     "medium": "",
     "original": ""
@@ -629,14 +629,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Linnaea borealis",
+  "scientificNames": "Linnaea borealis",
   "commonNames": ["Twinflower","Western Twinflower"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Dry","Moist"],
-  "flowerColor": ["White","Pink"],
+  "flowerColors": ["White","Pink"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Fragrant","Erosion control"],
+  "otherUses": ["Fragrant","Erosion control"],
     "images": {
       "medium": "",
       "original": ""
@@ -645,14 +645,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Lupinus polyphyllus",
+  "scientificNames": "Lupinus polyphyllus",
   "commonNames": ["Large-Leaved Lupine","Bigleaf Lupine"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Purple","Blue"],
+  "flowerColors": ["Purple","Blue"],
   "wildlifeSupport": ["Birds","Bees","Hummingbirds"],
-  "otherUse": ["Erosion control","Soil restoration"],
+  "otherUses": ["Erosion control","Soil restoration"],
     "images": {
       "medium": "",
       "original": ""
@@ -662,14 +662,14 @@
   "propagationNeeds": "Scarification"
 },
 {
-  "scientificName": "Lupinus rivularis",
+  "scientificNames": "Lupinus rivularis",
   "commonNames": ["Riverbank lupine","Lupine"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Purple","Blue"],
+  "flowerColors": ["Purple","Blue"],
   "wildlifeSupport": ["Birds","Bees","Hummingbirds"],
-  "otherUse": ["Erosion control","Soil restoration","Fragrant"],
+  "otherUses": ["Erosion control","Soil restoration","Fragrant"],
   "images": {
     "medium": "",
     "original": ""
@@ -679,14 +679,14 @@
   "propagationNeeds": "Scarification"
 },
 {
-  "scientificName": "Lysichiton americanus",
+  "scientificNames": "Lysichiton americanus",
   "commonNames": ["Skunk Cabbage"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Wet",
-  "flowerColor": ["Yellow","Green"],
+  "flowerColors": ["Yellow","Green"],
   "wildlifeSupport": ["Bees"],
-  "otherUse": ["Produces heat"],
+  "otherUses": ["Produces heat"],
   "images": {
     "medium": "",
     "original": ""
@@ -696,12 +696,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Maianthemum dilatatum",
+  "scientificNames": "Maianthemum dilatatum",
   "commonNames": ["False Lily-of-the-Valley","False Lily of the Valley"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Birds","Bees"],
   "images": {
     "medium": "",
@@ -712,14 +712,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Maianthemum racemosum","Smilacina Maianthemum racemosum"],
+  "scientificNames": ["Maianthemum racemosum","Smilacina Maianthemum racemosum"],
   "commonNames": ["False Solomon’s seal","Large False Solomon's Seal"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
-  "otherUse": ["Fragrant"],
+  "otherUses": ["Fragrant"],
   "images": {
     "medium": "",
     "original": ""
@@ -728,12 +728,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Maianthemum stellatum","Smilacina Maianthemum stellata"],
+  "scientificNames": ["Maianthemum stellatum","Smilacina Maianthemum stellata"],
   "commonNames": ["Starry False Solomon’s Seal","Small False Solomon's Seal"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -743,12 +743,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Mitella caulescens",
+  "scientificNames": "Mitella caulescens",
   "commonNames": ["Creeping miterwort"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Green"],
+  "flowerColors": ["Green"],
   "images": {
     "medium": "",
     "original": ""
@@ -756,12 +756,12 @@
   "toxic": "No"
 },
 {
-  "scientificName": "Olsynium douglasii",
+  "scientificNames": "Olsynium douglasii",
   "commonNames": ["Grasswidow","Grass Widow"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Purple"],
+  "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -770,14 +770,14 @@
   "toxic": "No"
 },
 {
-  "scientificName": "Oxalis oregana",
+  "scientificNames": "Oxalis oregana",
   "commonNames": ["Oregon Redwood Sorrel","Oregon Oxalis"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Pink"],
+  "flowerColors": ["White","Pink"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Erosion control"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -786,12 +786,12 @@
   "spreadsVigorously": "Yes"
 },
 {
-  "scientificName": "Penstemon richardsonii",
+  "scientificNames": "Penstemon richardsonii",
   "commonNames": ["Richardson’s Penstemon","Cut-Leaved Penstemon","Cutleaf Beardtongue"],
   "type": "Perennial",
   "lightNeeds": [""],
   "waterNeeds": ["Dry","Moist"],
-  "flowerColor": ["Purple","Pink"],
+  "flowerColors": ["Purple","Pink"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
   "images": {
     "medium": "",
@@ -801,12 +801,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Penstemon serrulatus",
+  "scientificNames": "Penstemon serrulatus",
   "commonNames": ["Cascade Penstemon","Cascades Penstemon"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Purple"],
+  "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -817,12 +817,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Potentilla gracilis",
+  "scientificNames": "Potentilla gracilis",
   "commonNames": ["Graceful cinquefoil","Slender cinquefoil"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Yellow"],
+  "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Butterflies","Bees"],
   "images": {
     "medium": "",
@@ -832,14 +832,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Prosartes hookeri","Prosartes Disporumhookeri"],
+  "scientificNames": ["Prosartes hookeri","Prosartes Disporumhookeri"],
   "commonNames": ["Hooker's Fairybells","Hooker's Bells","Drops of Gold","Drops-of-Gold"],
   "type": "",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
-  "otherUse": ["Erosion control"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -849,12 +849,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": ["Prosartes smithii","Prosartes Disporumsmithii"],
+  "scientificNames": ["Prosartes smithii","Prosartes Disporumsmithii"],
   "commonNames": ["Smith’s fairy lantern","Smith's Bells"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
   "images": {
     "medium": "",
@@ -864,14 +864,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Prunella vulgaris",
+  "scientificNames": "Prunella vulgaris",
   "commonNames": ["Self-Heal","Heal-All","Heal All","Self Heal"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Purple"],
+  "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Various medicinal uses"],
+  "otherUses": ["Various medicinal uses"],
   "images": {
     "medium": "",
     "original": ""
@@ -882,14 +882,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Sagittaria latifolia",
+  "scientificNames": "Sagittaria latifolia",
   "commonNames": ["Broadleaf Arrowhead","Wapato"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": "Wet",
-  "flowerColor": ["White","Yellow"],
+  "flowerColors": ["White","Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUse": ["Erosion control","Improves water quality"],
+  "otherUses": ["Erosion control","Improves water quality"],
   "images": {
     "medium": "",
     "original": ""
@@ -898,14 +898,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Sedum oreganum",
+  "scientificNames": "Sedum oreganum",
   "commonNames": ["Oregon stonecrop"],
   "type": "Perennial",
   "lightNeeds": ["Sun"],
   "waterNeeds": ["Dry"],
-  "flowerColor": ["Yellow"],
+  "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Green Roofs"],
+  "otherUses": ["Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -914,14 +914,14 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Sedum spathulifolium",
+  "scientificNames": "Sedum spathulifolium",
   "commonNames": ["Broadleaf stonecrop"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": "Dry",
-  "flowerColor": ["Yellow","Red"],
+  "flowerColors": ["Yellow","Red"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUse": ["Green Roofs"],
+  "otherUses": ["Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -930,12 +930,12 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Sidalcea campestris",
+  "scientificNames": "Sidalcea campestris",
   "commonNames": ["Meadow checkermallow","Meadow Checkermallow","Willamette Valley Checkermallow"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Pink","White"],
+  "flowerColors": ["Pink","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -945,12 +945,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Sisyrinchium bellum",
+  "scientificNames": "Sisyrinchium bellum",
   "commonNames": ["Western blue-eyed grass","Blue Eyed Grass","Blue-Eyed Grass"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist"],
-  "flowerColor": ["Blue","Purple"],
+  "flowerColors": ["Blue","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -960,12 +960,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Sisyrinchium californicum",
+  "scientificNames": "Sisyrinchium californicum",
   "commonNames": ["Golden-eyed grass","Golden Eyed Grass"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Orange","Yellow"],
+  "flowerColors": ["Orange","Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
     "medium": "",
@@ -976,14 +976,14 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Sisyrinchium idahoense",
+  "scientificNames": "Sisyrinchium idahoense",
   "commonNames": ["Idaho blue-eyed grass"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist"],
-  "flowerColor": ["Blue","Purple"],
+  "flowerColors": ["Blue","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUse": ["Erosion control","Green Roofs"],
+  "otherUses": ["Erosion control","Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -992,15 +992,15 @@
     "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Solidago elongata",
+  "scientificNames": "Solidago elongata",
   "commonNames": ["Canada goldenrod","Narrow Goldenrod"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Yellow"],
+  "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUse": ["Flowers, and seeds are edible raw"],
-  "otherUse": ["Erosion control"],
+  "foodUses": ["Flowers, and seeds are edible raw"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -1010,14 +1010,14 @@
   "otherWarnings": "Spreads aggressively in its preferred conditions"
 },
 {
-  "scientificName": "Symphyotrichum subspicatum",
+  "scientificNames": "Symphyotrichum subspicatum",
   "commonNames": ["Douglas’ aster","Aster subspicatus"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist"],
-  "flowerColor": ["Purple","White"],
+  "flowerColors": ["Purple","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUse": ["Erosion control"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -1026,12 +1026,12 @@
   "spreadsVigorously": "Yes"
 },
 {
-  "scientificName": "Synthyris reniformis",
+  "scientificNames": "Synthyris reniformis",
   "commonNames": ["Spring queen"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Purple","Blue"],
+  "flowerColors": ["Purple","Blue"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -1040,14 +1040,14 @@
   "toxic": "No"
 },
 {
-  "scientificName": "Tellima grandiflora",
+  "scientificNames": "Tellima grandiflora",
   "commonNames": ["Fringe cup"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["Pink","White"],
+  "flowerColors": ["Pink","White"],
   "wildlifeSupport": ["Hummingbirds","Bees"],
-  "otherUse": ["Erosion control"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -1057,13 +1057,13 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Thalictrum occidentale",
+  "scientificNames": "Thalictrum occidentale",
   "commonNames": ["Western meadow rue"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Red","Pink"],
-  "otherUse": ["Erosion control"],
+  "flowerColors": ["Red","Pink"],
+  "otherUses": ["Erosion control"],
   "images": {
     "medium": "",
     "original": ""
@@ -1073,12 +1073,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Tiarella trifoliata",
+  "scientificNames": "Tiarella trifoliata",
   "commonNames": ["Foam Flower","Sugar-Scoop"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "flowerColor": ["White","Pink"],
+  "flowerColors": ["White","Pink"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -1087,12 +1087,12 @@
   "toxic": "No"
 },
 {
-  "scientificName": "Tolmiea menziesii",
+  "scientificNames": "Tolmiea menziesii",
   "commonNames": ["Piggyback plant"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Red","Pink"],
+  "flowerColors": ["Red","Pink"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",
@@ -1103,12 +1103,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Trillium albidum",
+  "scientificNames": "Trillium albidum",
   "commonNames": ["Sweet trillium","Giant trillium"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -1118,12 +1118,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Trillium ovatum",
+  "scientificNames": "Trillium ovatum",
   "commonNames": ["Western trillium"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist"],
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -1133,13 +1133,13 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Typha latifolia",
+  "scientificNames": "Typha latifolia",
   "commonNames": ["Common cattail","Cattail"],
   "type": "Grass",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": "Wet",
-  "foodUse": ["Inner shoots, spikes, rhizome core, and pollen are edible"],
-  "otherUse": ["Erosion control","Improves water quality"],
+  "foodUses": ["Inner shoots, spikes, rhizome core, and pollen are edible"],
+  "otherUses": ["Erosion control","Improves water quality"],
   "images": {
     "medium": "",
     "original": ""
@@ -1150,12 +1150,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Vancouveria hexandra",
+  "scientificNames": "Vancouveria hexandra",
   "commonNames": ["Inside-out flower"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Dry",
-  "flowerColor": ["White"],
+  "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
     "medium": "",
@@ -1166,12 +1166,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Veronica americana",
+  "scientificNames": "Veronica americana",
   "commonNames": ["American Brooklime"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Wet"],
-  "flowerColor": ["Purple"],
+  "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",
@@ -1181,15 +1181,15 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Viola adunca",
+  "scientificNames": "Viola adunca",
   "commonNames": ["Early blue violet"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
   "waterNeeds":["Moist","Dry"],
-  "flowerColor": ["Purple","Pink"],
+  "flowerColors": ["Purple","Pink"],
   "wildlifeSupport": ["Butterflies","Bees"],
-  "foodUse": ["Edible flowers"],
-  "otherUse": ["Fragrant"],
+  "foodUses": ["Edible flowers"],
+  "otherUses": ["Fragrant"],
   "images": {
     "medium": "",
     "original": ""
@@ -1198,12 +1198,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Viola glabella",
+  "scientificNames": "Viola glabella",
   "commonNames": ["Stream violet"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist"],
-  "flowerColor": ["Yellow"],
+  "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",
@@ -1214,12 +1214,12 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificName": "Viola sempervirens",
+  "scientificNames": "Viola sempervirens",
   "commonNames": ["Evergreen Violet"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "flowerColor": ["Yellow"],
+  "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
     "medium": "",

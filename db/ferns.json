@@ -1,6 +1,6 @@
 [
   {
-  "scientificName": "Adiantum aleuticum",
+  "scientificNames": "Adiantum aleuticum",
   "commonNames": ["Northern Maidenhair Fern", "Maidenhair Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
@@ -12,7 +12,7 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Asplenium trichomanes",
+  "scientificNames": "Asplenium trichomanes",
   "commonNames": ["Maidenhair Spleenwort"],
   "type": "Fern",
   "lightNeeds": [""],
@@ -24,7 +24,7 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Athyrium filix-femina",
+  "scientificNames": "Athyrium filix-femina",
   "commonNames": ["Lady Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
@@ -37,7 +37,7 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Dryopteris expansa",
+  "scientificNames": "Dryopteris expansa",
   "commonNames": ["Northern Wood Fern","Spreading Wood Fern","Wood Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Sun", "Part Shade", "Shade"],
@@ -48,7 +48,7 @@
   }
 },
 {
-  "scientificName": "Gymnocarpium disjunctum",
+  "scientificNames": "Gymnocarpium disjunctum",
   "commonNames": ["Western Oak Fern","Oak Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
@@ -60,12 +60,12 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Polypodium glycyrrhiza",
+  "scientificNames": "Polypodium glycyrrhiza",
   "commonNames": ["Licorice Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
-  "foodUse": ["Edible roots"],
+  "foodUses": ["Edible roots"],
   "otherUse": ["Green Roofs"],
   "images": {
     "medium": "",
@@ -74,12 +74,12 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Polystichum munitum",
+  "scientificNames": "Polystichum munitum",
   "commonNames": ["Sword Fern","Common Sword Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Sun","Part Shade","Shade"],
   "waterNeeds": ["Moist","Moist"],
-  "otherUse": ["Erosion control, Green Roofs"],
+  "otherUses": ["Erosion control, Green Roofs"],
   "images": {
     "medium": "",
     "original": ""
@@ -87,7 +87,7 @@
   "evergreen": "Yes"
 },
 {
-  "scientificName": "Struthiopteris spicant",
+  "scientificNames": "Struthiopteris spicant",
   "commonNames": ["Deer Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],

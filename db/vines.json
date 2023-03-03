@@ -1,11 +1,11 @@
 [
   {
-    "scientificName": "Lonicera ciliosa",
+    "scientificNames": "Lonicera ciliosa",
     "commonNames": ["Orange Honeysuckle","Orange Honeysuckle Vine"],
     "type": "Vine",
     "lightNeeds": ["Part Sun","Part Shade","Shade"],
     "waterNeeds": ["Moist","Dry"],
-    "flowerColor": ["Red","Orange"],
+    "flowerColors": ["Red","Orange"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
     "images": {
       "medium": "",
@@ -14,12 +14,12 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificName": "Rubus ursinus",
+    "scientificNames": "Rubus ursinus",
     "commonNames": ["Dewberry","Pacific Blackberry"],
     "type": "",
     "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
     "waterNeeds": ["Moist","Dry"],
-    "flowerColor": ["White"],
+    "flowerColors": ["White"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
     "foodUse": ["Edible berries"],
     "images": {
