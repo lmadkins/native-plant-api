@@ -2,7 +2,7 @@ const mongoose = require('../connection')
 
 // Makes schema and assigns it to a variable
 const PlantSchema = new mongoose.Schema({
-  scientificNames: String,
+  scientificNames: [String],
   commonNames: [String],
   type: String,
   lightNeeds: [String],
@@ -17,22 +17,21 @@ const PlantSchema = new mongoose.Schema({
   },
   foodUses:  {
     type: [String],
-    default: null
   },
   otherUses: {
     type: [String],
     default: null
   },
   images: {
-    medium: String,
+    small: String,
     original: String
   },
   toxic:  {
-    type: [String],
+    type: String,
     default: null
   },
   spreadsVigorously:  {
-    type: [String],
+    type: String,
     default: "No"
   },
   otherWarnings:  {

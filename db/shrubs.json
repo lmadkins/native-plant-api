@@ -10,7 +10,7 @@
     "foodUses": [""],
     "otherUses": [""],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "toxic": "No",
@@ -30,7 +30,7 @@
     "foodUses": [""],
     "otherUses": [""],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "toxic": "No",
@@ -50,7 +50,7 @@
     "foodUses": [""],
     "otherUses": [""],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "toxic": "No",
@@ -70,7 +70,7 @@
     "foodUses": [""],
     "otherUses": [""],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "toxic": "No",

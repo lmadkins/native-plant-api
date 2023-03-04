@@ -10,7 +10,7 @@
   "foodUses": ["Leaves, stems, flowers are edible"],
   "otherUses": ["Various medicinal uses","Fragrant"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DSCN9159_1558124797_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN9159_1558124797_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN9159.jpg"
   },
   "toxic": "No",
@@ -28,7 +28,7 @@
   "wildlifeSupport": ["Bees"],
   "otherUses": ["Fragrant"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/misc/201905/ACH_TRI_1677B_1558125847_tn.jpg",
+    "small": "https://oregonflora.org/imglib/misc/201905/ACH_TRI_1677B_1558125847_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/ACH_TRI_1677B.jpg"
   },
   "toxic": "No",
@@ -44,7 +44,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Fragrant"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/ACT_RUB_2745B_1558125746_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/ACT_RUB_2745B_1558125746_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ACT_RUB_2745B.jpg"
   },
   "toxic": ["Edible to birds","Toxic to humans"],
@@ -60,7 +60,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "foodUses": ["Bulbs edible raw, or cooked"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/ALL_ACU_2909B_1558125725_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/ALL_ACU_2909B_1558125725_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ALL_ACU_2909B.jpg"
   },
   "toxic": "No",
@@ -77,7 +77,7 @@
   "foodUses": ["Leaves and bulbs edible raw, or cooked"],
   "otherUses": ["Green Roofs","Leaves repel insects"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG34602_1558125717_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG34602_1558125717_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2014/DIG34602.jpg"
   },
   "toxic": "No",
@@ -95,7 +95,7 @@
   "foodUses": ["Leaves edible when cooked"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG11354_1558124785_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11354_1558124785_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11354.jpg"
   },
   "toxic": "No",
@@ -110,7 +110,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/ANE_DEL_4694B_1492399168_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/ANE_DEL_4694B_1492399168_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ANE_DEL_4694B.jpg"
   },
   "toxic": "No"
@@ -124,7 +124,7 @@
   "flowerColors": ["Red","Orange"],
   "wildlifeSupport": ["Bees","Butterflies","Hummingbirds"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG30613_1558125701_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30613_1558125701_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30613.jpg"
   },
   "toxic": "No",
@@ -140,7 +140,7 @@
   "flowerColors": ["Red","Purple"],
   "foodUses": ["Roots edible"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG11469_1558125727_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11469_1558125727_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11469.jpg"
   },
   "toxic": ["Toxic in large amounts"],
@@ -156,7 +156,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "otherUses": ["Fragrant"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/ASC_SPE_2386B_1558125660_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/ASC_SPE_2386B_1558125660_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ASC_SPE_2386B.jpg"
   },
   "toxic": "No",
@@ -172,7 +172,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/202107/DIG33546_APPCROP_1627520179_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/202107/DIG33546_APPCROP_1627520179_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG33546_APPCROP.jpg"
   },
   "toxic": "No",
@@ -190,7 +190,7 @@
   "foodUses": ["Bulbs edible raw, or cooked"],
   "otherUses": ["Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG3596_1558125759_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG3596_1558125759_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1127/DIG3596.jpg"
   },
   "toxic": "No",
@@ -209,7 +209,7 @@
   "foodUses": ["Bulbs edible raw, or cooked"],
   "otherUses": ["Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DSCN3222_1558124568_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN3222_1558124568_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN3222.jpg"
   },
   "toxic": "No",
@@ -226,7 +226,7 @@
   "flowerColors": ["Blue"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN1612B_1492399067_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN1612B_1492399067_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN1612B.jpg"
   },
   "toxic": "No"
@@ -240,7 +240,7 @@
   "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG14782_1558124890_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14782_1558124890_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14782.jpg"
   },
   "toxic": "No",
@@ -257,7 +257,7 @@
   "foodUses": ["Leaves edible when cooked"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/DIG3685_1492399250_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG3685_1492399250_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1127/DIG3685.jpg"
   },
   "toxic": "No",
@@ -273,7 +273,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/CIR_ALP_PAC_4165B_1492398912_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/CIR_ALP_PAC_4165B_1492398912_tn.jpg",
     "original": "https://oregonflora.org/imglib/_OFPFP/201704/CIR_ALP_PAC_4165B_1492398912_tn.jpg"
   },
   "toxic": "No",
@@ -288,7 +288,7 @@
   "flowerColors": ["Pink"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/CIMG5780_1492399145_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/CIMG5780_1492399145_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1280/CIMG5780.jpg"
   },
   "toxic": "No",
@@ -304,7 +304,7 @@
   "flowerColors": ["White","Blue","Purple"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/COL_PAR_4696B_1492398798_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/COL_PAR_4696B_1492398798_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/COL_PAR_4696B.jpg"
   },
   "toxic": "No",
@@ -320,7 +320,7 @@
   "flowerColors": ["Blue","Orange","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14870_1492399167_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14870_1492399167_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14870.jpg"
   },
   "toxic": "No",
@@ -338,7 +338,7 @@
   "wildlifeSupport": ["Bees"],
   "foodUses": ["Edible berries"],
     "images": {
-      "medium": "https://oregonflora.org/imglib/OF_FP/201905/COR_UNA_5122B_1558124687_tn.jpg",
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/COR_UNA_5122B_1558124687_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/COR_UNA_5122B.jpg"
     },
   "toxic": "No",
@@ -353,7 +353,7 @@
   "flowerColors": ["Pink"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/COR_SCO_0878B_1558125703_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/COR_SCO_0878B_1558125703_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/COR_SCO_0878B.jpg"
   },
   "toxic": "No",
@@ -368,7 +368,7 @@
   "flowerColors": ["Pink","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG30127_1558124664_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30127_1558124664_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30127.jpg"
   },
   "toxic": "No",
@@ -384,7 +384,7 @@
   "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies","Hummingbirds"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG12166_1558124729_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG12166_1558124729_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1250/DIG12166.jpg"
   },
   "toxic": "No",
@@ -399,7 +399,7 @@
   "flowerColors": ["Pink","Purple"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DOD_HEN_0535B_1558124923_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DOD_HEN_0535B_1558124923_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/DOD_HEN_0535B.jpg"
   },
   "toxic": "No",
@@ -416,7 +416,7 @@
   "foodUses": ["Edible when boiled"],
   "otherUses": ["Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG43199_1558124972_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG43199_1558124972_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG43199.jpg"
   },
   "toxic": ["No"],
@@ -433,7 +433,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Erosion control","Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG30654_1558124591_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30654_1558124591_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30654.jpg"
   },
   "toxic": "No",
@@ -451,7 +451,7 @@
   "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/09SL048MAR0903_1558124913_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/09SL048MAR0903_1558124913_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1401/09SL048MAR0903.jpg"
   },
   "toxic": "No",
@@ -468,7 +468,7 @@
   "flowerColors": ["White","Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG46333_1558125705_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG46333_1558125705_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2017/DIG46333.jpg"
   },
   "toxic": "No",
@@ -485,7 +485,7 @@
   "foodUses": ["Edible berries"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/FRA_VES_BRA_1757B_1558124643_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/FRA_VES_BRA_1757B_1558124643_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/FRA_VES_BRA_1757B.jpg"
   },
   "toxic": "No",
@@ -503,7 +503,7 @@
   "foodUses": ["Edible berries"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/misc/201905/FRA_VIR_PLA_7288B_1558125929_tn.jpg",
+    "small": "https://oregonflora.org/imglib/misc/201905/FRA_VIR_PLA_7288B_1558125929_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/FRA_VIR_PLA_7288B.jpg"
   },
   "toxic": "No",
@@ -518,7 +518,7 @@
   "flowerColors": ["Yellow","Green","Purple","Brown"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/09FRILAN_HAL88369_FL_1558124821_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/09FRILAN_HAL88369_FL_1558124821_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1384/09FRILAN_HAL88369_FL.jpg"
   },
   "toxic": "No",
@@ -534,7 +534,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "otherUses": ["Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/DIG12591_1492398461_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG12591_1492398461_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1251/DIG12591.jpg"
   },
   "toxic": "No",
@@ -551,7 +551,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/GOODYERA_OBLONGIFOLIA1_1492399681_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/GOODYERA_OBLONGIFOLIA1_1492399681_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/91/GOODYERA_OBLONGIFOLIA1.jpg"
   },
   "toxic": "No",
@@ -566,7 +566,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/HER_LAN_4239B_1558124913_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/HER_LAN_4239B_1558124913_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/HER_LAN_4239B.jpg"
   },
   "toxic": "No",
@@ -582,7 +582,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/15HEU_MIC_MIC_2679B_1492398856_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/15HEU_MIC_MIC_2679B_1492398856_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15HEU_MIC_MIC_2679B.jpg"
   },
   "toxic": "No",
@@ -599,7 +599,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Competes with English Ivy"],
     "images": {
-      "medium": "https://oregonflora.org/imglib/OF_FP/201905/HYD_TEN_2072B_1558124777_tn.jpg",
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/HYD_TEN_2072B_1558124777_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/HYD_TEN_2072B.jpg"
     },
   "toxic": "No",
@@ -617,7 +617,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "otherUses": ["Erosion control","Strong Fibers from leaves can be used for weaving and rope-making"],
     "images": {
-      "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG43580_1558124852_tn.jpg",
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG43580_1558124852_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG43580.jpg"
     },
   "toxic": "No",
@@ -635,7 +635,7 @@
   "wildlifeSupport": ["Birds","Bees","Hummingbirds"],
   "foodUses": ["Flowers, seeds, and bulbs edible"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG4160_1558124749_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG4160_1558124749_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1128/DIG4160.jpg"
   },
   "toxic": "No",
@@ -651,7 +651,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Fragrant","Erosion control"],
     "images": {
-      "medium": "https://oregonflora.org/imglib/misc/201905/LIN_BOR_LON_5105B_1558125853_tn.jpg",
+      "small": "https://oregonflora.org/imglib/misc/201905/LIN_BOR_LON_5105B_1558125853_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/LIN_BOR_LON_5105B.jpg"
     },
   "toxic": "No",
@@ -667,7 +667,7 @@
   "wildlifeSupport": ["Birds","Bees","Hummingbirds"],
   "otherUses": ["Erosion control","Soil restoration"],
     "images": {
-      "medium": "https://oregonflora.org/imglib/OF_FP/201905/08AL00606_1558125764_tn.jpg",
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/08AL00606_1558125764_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1279/08AL00606.jpg"
     },
   "toxic": "Yes",
@@ -685,7 +685,7 @@
   "wildlifeSupport": ["Birds","Bees","Hummingbirds"],
   "otherUses": ["Erosion control","Soil restoration","Fragrant"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/LUP_RIV_0783B_1558124993_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/LUP_RIV_0783B_1558124993_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/LUP_RIV_0783B.jpg"
   },
   "toxic": "Yes",
@@ -703,7 +703,7 @@
   "wildlifeSupport": ["Bees"],
   "otherUses": ["Produces heat"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG7716_1558124654_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7716_1558124654_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1170/DIG7716.jpg"
   },
   "toxic": "No",
@@ -719,7 +719,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Birds","Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/MAI_DIL_3225B_1558125742_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/MAI_DIL_3225B_1558125742_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/MAI_DIL_3225B.jpg"
   },
   "toxic": "No",
@@ -736,7 +736,7 @@
   "wildlifeSupport": ["Bees"],
   "otherUses": ["Fragrant"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/MAI_RAC_2076B_1492399170_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/MAI_RAC_2076B_1492399170_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/MAI_RAC_2076B.jpg"
   },
   "toxic": "No",
@@ -751,7 +751,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG4328_1558125753_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG4328_1558125753_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1128/DIG4328.jpg"
   },
   "toxic": "No",
@@ -765,7 +765,7 @@
   "waterNeeds": "Moist",
   "flowerColors": ["Green"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN0975_1492398686_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN0975_1492398686_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/39/DSCN0975.jpg"
   },
   "toxic": "No"
@@ -779,7 +779,7 @@
   "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/AL04953_1492398415_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/AL04953_1492398415_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1149/AL04953.jpg"
   },
   "toxic": "No"
@@ -794,7 +794,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/OXA_ORE_2333B_1558125714_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/OXA_ORE_2333B_1558125714_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/OXA_ORE_2333B.jpg"
   },
   "toxic": "No",
@@ -809,7 +809,7 @@
   "flowerColors": ["Purple","Pink"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/PEN_RIC_3644B_1492399029_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/PEN_RIC_3644B_1492399029_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PEN_RIC_3644B.jpg"
   },
   "toxic": "No",
@@ -824,7 +824,7 @@
   "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/PEN_SER_3496B_1558124640_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/PEN_SER_3496B_1558124640_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PEN_SER_3496B.jpg"
   },
   "toxic": "No",
@@ -840,7 +840,7 @@
   "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Butterflies","Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/AL02927_1558124808_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/AL02927_1558124808_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1149/AL02927.jpg"
   },
   "toxic": "No",
@@ -856,7 +856,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/PRO_HOO_2353B_1558125025_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/PRO_HOO_2353B_1558125025_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/PRO_HOO_2353B.jpg"
   },
   "toxic": "No",
@@ -872,7 +872,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/PRO_SMI_4554B_1492399712_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/PRO_SMI_4554B_1492399712_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/PRO_SMI_4554B.jpg"
   },
   "toxic": "No",
@@ -888,7 +888,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Various medicinal uses"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/misc/201905/PRU_VUL_LAN_3119B_1558125859_tn.jpg",
+    "small": "https://oregonflora.org/imglib/misc/201905/PRU_VUL_LAN_3119B_1558125859_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PRU_VUL_LAN_3119B.jpg"
   },
   "toxic": "No",
@@ -907,7 +907,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "otherUses": ["Erosion control","Improves water quality"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG21964_1558125747_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21964_1558125747_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21964.jpg"
   },
   "toxic": "No",
@@ -923,7 +923,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/SED_OREGA_6735B_1558125724_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/SED_OREGA_6735B_1558125724_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SED_OREGA_6735B.jpg"
   },
   "toxic": "No",
@@ -939,7 +939,7 @@
   "wildlifeSupport": ["Bees","Butterflies"],
   "otherUses": ["Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG30409_1558124766_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30409_1558124766_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30409.jpg"
   },
   "toxic": "No",
@@ -954,7 +954,7 @@
   "flowerColors": ["Pink","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/09SIDCAM_HAL9685_FL2_1558124847_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/09SIDCAM_HAL9685_FL2_1558124847_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1385/09SIDCAM_HAL9685_FL2.jpg"
   },
   "toxic": "No",
@@ -970,7 +970,7 @@
   "flowerColors": ["Blue","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG14196_1558124694_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14196_1558124694_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1254/DIG14196.jpg"
   },
   "toxic": "No",
@@ -986,7 +986,7 @@
   "flowerColors": ["Orange","Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG22105_1558124625_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22105_1558124625_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG22105_1558124625_tn.jpg"
   },
   "toxic": "No",
@@ -1003,7 +1003,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "otherUses": ["Erosion control","Green Roofs"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/SIS_SAR_2822B_1558125737_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/SIS_SAR_2822B_1558125737_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SIS_SAR_2822B.jpg"
   },
   "toxic": "No",
@@ -1020,7 +1020,7 @@
   "foodUses": ["Flowers, and seeds are edible raw"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/SOL_ELO_7944B_1492398927_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/SOL_ELO_7944B_1492398927_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SOL_ELO_7944B.jpg"
   },
   "toxic": "No",
@@ -1038,7 +1038,7 @@
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg"
   },
   "toxic": "No",
@@ -1053,7 +1053,7 @@
   "flowerColors": ["Purple","Blue"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DSCN0406_1558124661_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN0406_1558124661_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN0406.jpg"
   },
   "toxic": "No",
@@ -1069,7 +1069,7 @@
   "wildlifeSupport": ["Hummingbirds","Bees"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DSCN0641_1558125023_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN0641_1558125023_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/39/DSCN0641.jpg"
   },
   "toxic": "No",
@@ -1085,7 +1085,7 @@
   "flowerColors": ["Red","Pink"],
   "otherUses": ["Erosion control"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/15THA_OCC_0884B_1558125734_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/15THA_OCC_0884B_1558125734_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15THA_OCC_0884B.jpg"
   },
   "toxic": "No",
@@ -1101,7 +1101,7 @@
   "flowerColors": ["White","Pink"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/misc/201905/TIA_TRI_UNI_5941B_1558125913_tn.jpg",
+    "small": "https://oregonflora.org/imglib/misc/201905/TIA_TRI_UNI_5941B_1558125913_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/TIA_TRI_UNI_5941B.jpg"
   },
   "toxic": "No"
@@ -1115,7 +1115,7 @@
   "flowerColors": ["Red","Pink"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/TOL_MEN_2387B_1492398350_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/TOL_MEN_2387B_1492398350_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/TOL_MEN_2387B.jpg"
   },
   "toxic": "No",
@@ -1131,7 +1131,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14417_1492399373_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14417_1492399373_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1254/DIG14417.jpg"
   },
   "toxic": "No",
@@ -1146,7 +1146,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN0458_1492398770_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN0458_1492398770_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN0458.jpg"
   },
   "toxic": "No",
@@ -1161,7 +1161,7 @@
   "foodUses": ["Inner shoots, spikes, rhizome core, and pollen are edible"],
   "otherUses": ["Erosion control","Improves water quality"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG4892_1558125719_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG4892_1558125719_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG4892_1558125719_tn.jpg"
   },
   "toxic": "No",
@@ -1178,7 +1178,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/VAN_HEX_2669B_1558125682_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/VAN_HEX_2669B_1558125682_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/VAN_HEX_2669B.jpg"
   },
   "toxic": "No",
@@ -1194,7 +1194,7 @@
   "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG22360_1558125742_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22360_1558125742_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22360.jpg"
   },
   "toxic": "No",
@@ -1211,7 +1211,7 @@
   "foodUses": ["Edible flowers"],
   "otherUses": ["Fragrant"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/_OFPFP/201704/15VIO_ADU_3195B_1492399219_tn.jpg",
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/15VIO_ADU_3195B_1492399219_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15VIO_ADU_3195B.jpg"
   },
   "toxic": "No",
@@ -1226,7 +1226,7 @@
   "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/VIO_GLA_0887B_1558124689_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/VIO_GLA_0887B_1558124689_tn.jpg",
     "original": ""
   },
   "toxic": "No",
@@ -1242,7 +1242,7 @@
   "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "images": {
-    "medium": "https://oregonflora.org/imglib/OF_FP/201905/VIO_SEM_3139B_1558125688_tn.jpg",
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/VIO_SEM_3139B_1558125688_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/VIO_SEM_3139B.jpg"
   },
   "toxic": "No",

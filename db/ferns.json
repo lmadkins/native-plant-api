@@ -1,15 +1,17 @@
 [
   {
-  "scientificNames": "Adiantum aleuticum",
+  "scientificNames": ["Adiantum aleuticum","Adiantum pedatum"],
   "commonNames": ["Northern Maidenhair Fern", "Maidenhair Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
+  "otherUses": ["Various medicinal uses"],
   "images": {
-    "medium": "",
-    "original": ""
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7326_1558125740_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7326.jpg"
   },
-  "evergreen": "Yes"
+  "evergreen": "Yes",
+  "toxic": "No"
 },
 {
   "scientificNames": "Asplenium trichomanes",
@@ -18,9 +20,10 @@
   "lightNeeds": [""],
   "waterNeeds": "Moist",
   "images": {
-    "medium": "",
-    "original": ""
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/ASPTRICH_ANGORAPEAK_1492398511_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1497/ASPTRICH_ANGORAPEAK.jpg"
   },
+  "toxic": "No",
   "evergreen": "Yes"
 },
 {
@@ -29,10 +32,13 @@
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
+  "foodUses": ["Leaves, roots, shoots edible when cooked"],
+  "otherUses": ["Various medicinal uses"],
   "images": {
-    "medium": "",
-    "original": ""
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23352_1558124728_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG23352.jpg"
   },
+  "toxic": "No",
   "spreadsVigorously": "Yes",
   "evergreen": "Yes"
 },
@@ -42,21 +48,25 @@
   "type": "Fern",
   "lightNeeds": ["Part Sun", "Part Shade", "Shade"],
   "waterNeeds": "Moist",
+  "foodUses": ["Leaves, roots, shoots edible when cooked"],
+  "otherUses": ["Various medicinal uses","Erosion control"],
   "images": {
-    "medium": "",
-    "original": ""
-  }
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7366_1558125743_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7366.jpg"
+  },
+  "toxic": "No"
 },
 {
-  "scientificNames": "Gymnocarpium disjunctum",
+  "scientificNames": ["Gymnocarpium disjunctum","Gymnocarpium dryopteris"],
   "commonNames": ["Western Oak Fern","Oak Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
   "images": {
-    "medium": "",
-    "original": ""
+    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG32087_1492399259_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1540/DIG32087.jpg"
   },
+  "toxic": "No",
   "evergreen": "Yes"
 },
 {
@@ -66,24 +76,27 @@
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
   "foodUses": ["Edible roots"],
-  "otherUse": ["Green Roofs"],
+  "otherUse": ["Various medicinal uses","Green Roofs"],
   "images": {
-    "medium": "",
-    "original": ""
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21767_1558125647_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21767.jpg"
   },
+  "toxic": "No",
   "evergreen": "Yes"
 },
 {
   "scientificNames": "Polystichum munitum",
-  "commonNames": ["Sword Fern","Common Sword Fern"],
+  "commonNames": ["Sword Fern","Common Sword Fern","Giant Holly Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Sun","Part Shade","Shade"],
-  "waterNeeds": ["Moist","Moist"],
-  "otherUses": ["Erosion control, Green Roofs"],
+  "waterNeeds": ["Moist"],
+  "foodUses": "Roots edible when cooked",
+  "otherUses": ["Various medicinal uses","Erosion control", "Green Roofs"],
   "images": {
-    "medium": "",
-    "original": ""
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7331_1558125720_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7331.jpg"
   },
+  "toxic": "No",
   "evergreen": "Yes"
 },
 {
@@ -92,10 +105,13 @@
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Wet"],
+  "foodUses": "Roots edible when cooked",
+  "otherUses": ["Various medicinal uses"],
   "images": {
-    "medium": "",
+    "small": "",
     "original": ""
   },
+  "toxic": "No",
   "evergreen": "Yes"
 }
 ]

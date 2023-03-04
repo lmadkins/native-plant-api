@@ -7,7 +7,7 @@
     "waterNeeds": ["Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "propagationNeeds": "Stratification"
@@ -20,7 +20,7 @@
     "waterNeeds": ["Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "propagationNeeds": "Stratification"
@@ -33,7 +33,7 @@
     "waterNeeds": ["Moist","Dry"],
     "otherUses": ["Erosion control"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "evergreen": "Yes"
@@ -45,7 +45,7 @@
     "lightNeeds": ["Full Sun"],
     "waterNeeds": ["Dry","Moist"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "evergreen": "Yes"
@@ -58,7 +58,7 @@
     "waterNeeds": ["Moist","Dry"],
     "otherUses": ["Green Roofs"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     }
   },
@@ -70,7 +70,7 @@
     "waterNeeds": ["Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "propagationNeeds": "Stratification"
@@ -83,7 +83,7 @@
     "waterNeeds": ["Dry","Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "spreadsVigorously": "Yes",
@@ -98,7 +98,7 @@
     "waterNeeds": ["Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "spreadsVigorously": "Yes",
@@ -113,7 +113,7 @@
     "waterNeeds": "Moist",
     "otherUses": ["Erosion control"],
     "images": {
-      "medium": "",
+      "small": "",
       "original": ""
     },
     "spreadsVigorously": "Yes",
@@ -129,7 +129,7 @@
     "flowerColor": ["Yellow"],
     "otherUses": ["Green Roofs","Grazing","Rangeland revegetation"],
       "images": {
-        "medium": "",
+        "small": "",
         "original": ""
       },
     "evergreen": "Yes",
