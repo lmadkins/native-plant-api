@@ -20,7 +20,6 @@ Ribes bracteosum
 Rhododendron occidentale
 Rhamnus purshiana
 Prunus virginiana
-
 Physocarpus capitatus
 Philadelphus lewisii
 Oplopanax horridus
@@ -41,6 +40,8 @@ Baccharis pilularis
 Arctostaphylos uva-ursi
 Arctostaphylos columbiana,
 Amelanchier alnifolia
+
+
 
 Small trees in at least 2
 Taxus brevifolia
@@ -94,28 +95,31 @@ SHADE
 
 ["Moist","Wet"]
 
+  "otherWarnings": "May take a few years to bloom if established from seed.",
+
+  "plantingSeason": ["Winter","Fall","Spring"]
+  ,
+  "plantingSeason": ["Spring","Fall","Winter]
 
 {
-  "scientificName": "",
-  "commonNames": [],
-  "type": "",
-  "lightNeeds": [""],
-  "waterNeeds": "",
-  "flowerColor": [],
+  "scientificNames": [""],
+  "commonNames": [""],
+  "type": "Shrub",
+  "lightNeeds": ,
+  "waterNeeds": ,
+  "flowerColors": [""],
   "wildlifeSupport": [],
-  "uses": {
-    "foodUse": [""],
-    "medicinalUse": [""],
-    "otherUse": [""],
-    "images": {
-      "medium": "",
-      "original": ""
-    }
+  "foodUses": [""],
+  "otherUses": [""],
+  "images": {
+    "medium": "",
+    "original": ""
   },
   "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "No",
-  "propagationNeeds": null
+  "spreadsVigorously": "Yes",
+  "otherWarnings": [""],
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
 },
 
 

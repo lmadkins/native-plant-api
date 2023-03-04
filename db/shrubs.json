@@ -1,0 +1,82 @@
+[
+  {
+    "scientificNames": [""],
+    "commonNames": [""],
+    "type": "Shrub",
+    "lightNeeds": ,
+    "waterNeeds": ,
+    "flowerColors": [""],
+    "wildlifeSupport": [],
+    "foodUses": [""],
+    "otherUses": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": [""],
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": [""],
+    "commonNames": [""],
+    "type": "Shrub",
+    "lightNeeds": ,
+    "waterNeeds": ,
+    "flowerColors": [""],
+    "wildlifeSupport": [],
+    "foodUses": [""],
+    "otherUses": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": [""],
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": [""],
+    "commonNames": [""],
+    "type": "Shrub",
+    "lightNeeds": ,
+    "waterNeeds": ,
+    "flowerColors": [""],
+    "wildlifeSupport": [],
+    "foodUses": [""],
+    "otherUses": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": [""],
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": [""],
+    "commonNames": [""],
+    "type": "Shrub",
+    "lightNeeds": ,
+    "waterNeeds": ,
+    "flowerColors": [""],
+    "wildlifeSupport": [],
+    "foodUses": [""],
+    "otherUses": [""],
+    "images": {
+      "medium": "",
+      "original": ""
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": [""],
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
+  },
+]

@@ -8,8 +8,8 @@
     "flowerColors": ["Red","Orange"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
     "images": {
-      "medium": "",
-      "original": ""
+      "medium": "https://oregonflora.org/imglib/OF_FP/201905/DIG15075_1558124758_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1418/DIG15075.jpg"
     },
     "propagationNeeds": "Stratification"
   },
@@ -23,11 +23,11 @@
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
     "foodUse": ["Edible berries"],
     "images": {
-      "medium": "",
-      "original": ""
+      "medium": "https://oregonflora.org/imglib/OF_FP/202107/DIG29916_ROT_1627520219_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG29916_ROT.jpg"
     },
     "spreadsVigorously": "Yes",
-    "spreadsAggressively": "Yes",
+    "otherWarnings": "Adaptable and spreads aggressively",
     "evergreen": "Yes",
     "propagationNeeds": "Stratification"
   }

@@ -47,6 +47,10 @@ const PlantSchema = new mongoose.Schema({
     type: [String],
     default: null
   },
+  plantingSeason:  {
+    type: [String],
+    default: null
+  },
 })
 
 // instantiate the model, calling it "Bookmark" and with the schema just made
