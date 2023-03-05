@@ -11,16 +11,10 @@ router.get('/plants', async(req, res, next) => {
     const plants = await Plant.find({})
     res.status(200).json(plants)
   } 
-  catch(err) {
+  catch (err) {
     next(err)
   }
 })
-
-// router.get('/plants', (req, res, next) => {
-// 	Plant.find()
-// 		.then((plants) => res.json(plants))
-// 		.catch(next);
-// });
 
 
 // SHOW
@@ -35,8 +29,40 @@ router.get('/:id', async (req, res, next) => {
   }
 })
 
+// CREATE
+// POST a new plant
+// localhost:4000/api/plants/
+router.post('/', async (req, res, next) => {
+  try {
+    const newPlant = await Plant.create(req.body)
+    res.status(201).json(newPlant)
+  } catch (err) {
+    next(err)
+  }
+})
+
+// UPDATE
+// PATCH update a plant, after locating it by id
+// localhost:4000/api/plants/:id
+router.patch('/:id', async(req, res, next) => {
+  try {
+    const updatedPlant = await Plant.findOneAndUpdate(
+      req.params.id,
+      req.body,
+      { new: true }
+    )
+    if (updatedPlant) {
+      res.status(200).json(updatedPlant)
+    } else {
+      res.sendStatus(404)
+    }
+  } catch (error) {
+    next(err)
+  }
+})
+
 // DESTROY
-// DELETE a plant after locating it by id
+// DELETE a plant, after locating it by id
 // localhost:4000/api/plants/:id
 
 router.delete('/:id', async (req, res, next) => {

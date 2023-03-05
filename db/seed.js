@@ -8,13 +8,13 @@ const vinesData = require('./vines.json')
 const fernsData = require('./ferns.json')
 const grassesData = require('./grasses.json')
 
-// Plant.insertMany(vinesData)
-//       .then(function () {
-//         console.log(vinesData);
-//       })
-//       .catch(function (err) {
-//         console.log(err);
-//       });
+Plant.insertMany(vinesData)
+      .then(function () {
+        console.log(vinesData);
+      })
+      .catch(function (err) {
+        console.log(err);
+      });
 
 // Plant.insertMany(fernsData)
 // .then(function () {
