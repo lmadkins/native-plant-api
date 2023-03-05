@@ -6,14 +6,7 @@ const Plant = require('./models/Plant')
 // Seed Data
 const vinesData = require('./vines.json')
 const fernsData = require('./ferns.json')
-
-// Plant.insertMany(vinesData, (err, vine) => {
-//   if (err) {
-//     console.log(err)
-//   }
-//   console.log('Added vines data', vine)
-//   mongoose.connection.close()
-// })
+const grassesData = require('./grasses.json')
 
 // Plant.insertMany(vinesData)
 //       .then(function () {
@@ -23,10 +16,18 @@ const fernsData = require('./ferns.json')
 //         console.log(err);
 //       });
 
-Plant.insertMany(fernsData)
-.then(function () {
-  console.log(vinesData);
-})
-.catch(function (err) {
-  console.log(err);
-});
+// Plant.insertMany(fernsData)
+// .then(function () {
+//   console.log(vinesData);
+// })
+// .catch(function (err) {
+//   console.log(err);
+// });
+
+Plant.insertMany(grassesData)
+  .then(function () {
+    console.log('Success!')
+  })
+  .catch(function (err) {
+    console.log(err)
+  })
