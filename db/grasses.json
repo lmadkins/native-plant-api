@@ -1,7 +1,7 @@
 [
   {
     "scientificNames": "Carex densa",
-    "commonNames": ["Dense Sedge"],
+    "commonNames": "Dense Sedge",
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Wet"],
@@ -16,7 +16,7 @@
   },
   {
     "scientificNames": "Carex obnupta",
-    "commonNames": ["Slough Sedge"],
+    "commonNames": "Slough Sedge",
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
     "waterNeeds": ["Moist","Wet"],
@@ -60,7 +60,7 @@
   },
   {
     "scientificNames": "Festuca occidentalis",
-    "commonNames": ["Western Fescue"],
+    "commonNames": "Western Fescue",
     "type": "",
     "lightNeeds": ["Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Dry"],
@@ -74,7 +74,7 @@
   },
   {
     "scientificNames": "Juncus balticus",
-    "commonNames": ["Baltic Rush"],
+    "commonNames": "Baltic Rush",
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],

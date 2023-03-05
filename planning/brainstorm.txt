@@ -59,6 +59,10 @@ http://www.pnwplants.wsu.edu/CommonNames.aspx
 http://www.pnwplants.wsu.edu/Search.aspx 
 http://www.pnwplants.wsu.edu/Thumbnails.aspx
 
+https://pfaf.org/user/Default.aspx
+https://oregonflora.org/garden/index.php
+https://www.oregonmetro.gov/sites/default/files/2020/06/30/native-plants-for-Willamette-Valley-yards-booklet-high-res-20200107.pdf
+https://backyardhabitats.org/wp-content/uploads/2021/01/Condensed-Portland-Plant-List-Plants-by-Condition.pdf
 
 README on Repo:
 - Resources used/more reading 

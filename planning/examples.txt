@@ -112,11 +112,11 @@ SHADE
   "foodUses": [""],
   "otherUses": [""],
   "images": {
-    "medium": "",
+    "small": "",
     "original": ""
   },
   "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "spreadsVigorously": "No",
   "otherWarnings": [""],
   "evergreen": "Yes",
   "propagationNeeds": "Stratification"

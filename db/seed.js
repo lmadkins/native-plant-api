@@ -24,10 +24,10 @@ const grassesData = require('./grasses.json')
 //   console.log(err);
 // });
 
-Plant.insertMany(grassesData)
-  .then(function () {
-    console.log('Success!')
-  })
-  .catch(function (err) {
-    console.log(err)
-  })
+// Plant.insertMany(grassesData)
+//   .then(function () {
+//     console.log('Success!')
+//   })
+//   .catch(function (err) {
+//     console.log(err)
+//   })
