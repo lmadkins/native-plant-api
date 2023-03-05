@@ -13,7 +13,7 @@ app.use(express.urlencoded({extended: true}))
 // app.use(cors());
 // Redirect
 app.get('/', (req, res) => {
-	res.redirect('/api/');
+	res.redirect('/api/plants');
 });
 
 // Controllers
