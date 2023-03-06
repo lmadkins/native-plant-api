@@ -151,7 +151,7 @@
   },
   {
     "scientificNames": "Typha latifolia",
-    "commonNames": ["Common cattail","Cattail"],
+    "commonNames": ["Common cattail","Cattail","Broad-leaf cat-tail"],
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade"],
     "waterNeeds": "Wet",

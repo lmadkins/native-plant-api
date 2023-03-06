@@ -1,5 +1,5 @@
 ## Why choose native plants?
-Native plants have adapted to the sun, soil, and space where you are to plant them. 
+Native plants have adapted to the sun, soil, and space where you are to plant them. They require less maintenance, and have co-evolved with animals and insects of the region.
 Many are important food sources for local pollinators- bees, butterflies, beneficial insects, etc., which benefit your garden and yard, and biodiversity 
 
 
@@ -25,6 +25,8 @@ Plant images are sourced from individual plant profile pages on Oregon Flora, wh
 [Portland Plant List](https://www.portland.gov/sites/default/files/2018-12/Portland_Plant_List_2016_Update_Final2.pdf)
 
 [Oregon Flora](https://oregonflora.org/garden/index.php)
+
+[Washington Native Plant Society](https://www.wnps.org/native-plant-directory?start=0)
 
 [Plants For A Future](https://pfaf.org/USER/Default.aspx)
 
