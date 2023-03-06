@@ -5,7 +5,7 @@
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
-  "otherUses": ["Various medicinal uses"],
+  "otherUses": ["Various medicinal uses reported"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7326_1558125740_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7326.jpg"
@@ -17,7 +17,7 @@
   "scientificNames": "Asplenium trichomanes",
   "commonNames": ["Maidenhair Spleenwort"],
   "type": "Fern",
-  "lightNeeds": [""],
+  "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
   "images": {
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/ASPTRICH_ANGORAPEAK_1492398511_tn.jpg",
@@ -33,7 +33,7 @@
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": "Moist",
   "foodUses": ["Leaves, roots, shoots edible when cooked"],
-  "otherUses": ["Various medicinal uses"],
+  "otherUses": ["Various medicinal uses reported"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23352_1558124728_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG23352.jpg"
@@ -49,7 +49,7 @@
   "lightNeeds": ["Part Sun", "Part Shade", "Shade"],
   "waterNeeds": "Moist",
   "foodUses": ["Leaves, roots, shoots edible when cooked"],
-  "otherUses": ["Various medicinal uses","Erosion control"],
+  "otherUses": ["Various medicinal uses reported","Erosion control"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7366_1558125743_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7366.jpg"
@@ -76,7 +76,7 @@
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Dry"],
   "foodUses": ["Edible roots"],
-  "otherUse": ["Various medicinal uses","Green Roofs"],
+  "otherUse": ["Various medicinal uses reported","Green Roofs"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21767_1558125647_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21767.jpg"
@@ -91,7 +91,7 @@
   "lightNeeds": ["Part Sun","Part Shade","Shade"],
   "waterNeeds": ["Moist"],
   "foodUses": "Roots edible when cooked",
-  "otherUses": ["Various medicinal uses","Erosion control", "Green Roofs"],
+  "otherUses": ["Various medicinal uses reported","Erosion control", "Green Roofs"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7331_1558125720_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7331.jpg"
@@ -106,10 +106,10 @@
   "lightNeeds": ["Part Shade","Shade"],
   "waterNeeds": ["Moist","Wet"],
   "foodUses": "Roots edible when cooked",
-  "otherUses": ["Various medicinal uses"],
+  "otherUses": ["Various medicinal uses reported"],
   "images": {
-    "small": "",
-    "original": ""
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7331_1558125720_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7331.jpg"
   },
   "toxic": "No",
   "evergreen": "Yes"

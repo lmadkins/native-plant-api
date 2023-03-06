@@ -11,7 +11,6 @@
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/CAR_DEN_1790B.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No",
     "propagationNeeds": "Stratification"
   },
   {
@@ -26,7 +25,6 @@
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11723.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No",
     "propagationNeeds": "Stratification"
   },
   {
@@ -41,8 +39,8 @@
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14915.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No",
-    "evergreen": "Yes"
+    "evergreen": "Yes",
+    "plantingSeason": ["Fall"]
   },
   {
     "scientificNames": "Elymus glaucus",
@@ -56,13 +54,13 @@
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN1591.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No",
-    "evergreen": "Yes"
+    "evergreen": "Yes",
+    "plantingSeason": ["Winter","Spring"]
   },
   {
     "scientificNames": "Festuca occidentalis",
     "commonNames": "Western Fescue",
-    "type": "",
+    "type": "Grass",
     "lightNeeds": ["Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Dry"],
     "otherUses": ["Green Roofs"],
@@ -71,7 +69,7 @@
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1251/DIG12491.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No"
+    "plantingSeason": ["Spring, Fall"]
   },
   {
     "scientificNames": "Juncus balticus",
@@ -85,7 +83,6 @@
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/DIG38912.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No",
     "propagationNeeds": "Stratification"
   },
   {
@@ -150,7 +147,23 @@
         "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG12792_1558124777_tn.jpg"
       },
     "toxic": "No",
-    "spreadsVigorously": "No",
+    "plantingSeason": "Spring"
+  },
+  {
+    "scientificNames": "Typha latifolia",
+    "commonNames": ["Common cattail","Cattail"],
+    "type": "Grass",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Wet",
+    "foodUses": ["Inner shoots, spikes, rhizome core, and pollen are edible"],
+    "otherUses": ["Erosion control","Improves water quality"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG4892_1558125719_tn.jpg",
+      "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG4892_1558125719_tn.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "evergreen": "Yes",
     "propagationNeeds": "Stratification"
   }
 ]
