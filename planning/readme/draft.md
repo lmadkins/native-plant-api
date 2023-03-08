@@ -35,6 +35,8 @@ Plants requiring longer periods of stratification are best planted in Fall. Plan
 ## Disclaimer on Uses & Toxicity
 Information about toxicity, edibility, and medicinal uses based on available information from sources below.
 
+If information about its toxicity was not found, its toxicity is not listed.
+
 A plant is listed "No" as toxic if information has clearly stated it is not toxic to humans, or if it is stated by multiple sources as edible. 
 Plants listed "No" as toxic to humans may be toxic to pets, or be harmful in large quantities. These are listed under the plant's "Other Warnings"
 

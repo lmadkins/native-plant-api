@@ -16,6 +16,22 @@
     "propagationNeeds": "Stratification"
   },
   {
+    "scientificNames": "Lonicera hispidulaa",
+    "commonNames": ["Pink Honeysuckle","Hairy Honeysuckle","California Honeysuckle"],
+    "type": "Vine",
+    "lightNeeds": ["Part Sun","Part Shade"],
+    "waterNeeds": ["Dry"],
+    "flowerColors": ["Pink","Purple"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7859_1558125639_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7859.jpg"
+    },
+    "spreadsVigorously": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
     "scientificNames": "Rubus ursinus",
     "commonNames": ["Dewberry","Pacific Blackberry"],
     "type": "Vine",

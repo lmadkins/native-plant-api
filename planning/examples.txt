@@ -1,83 +1,399 @@
 Shrubs in at least 2:
 Viburnum ellipticum
+Shrub
+Common Viburnum, Oval-leaved viburnum
+Edible berriesnon-toxic
+Scarification
+white
+dry
+butterflies, bees
+erosion control
+stratification
+sun, part sun, part shade
+
 Vaccinium parvifolium
+Red Huckleberry, Red Bilberry, 
+Shrub
+Edible berries 
+Medicinal uses
+yellow, pink 
+part shade, shade
+dry
+["Bees","Hummingbirds","Butterflies"]
+stratificerosion control
+
+
 Vaccinium ovatum
+Evergreen Huckleberry
+Shrub
+Edible berries 
+Medicinal uses
+evergreen
+pink
+part sun, part shade, shade 
+dry
+bees, butterflies, hummingbirds
+stratificaiton
+erosion
+
 Symphoricarpos albus
+Shrub
+Snowberry
+Berries edible when cooked. Toxic to some creatures, such as fish.
+Medicinal uses
+Erosion control
+part sun, part shade
+moist, dry
+purple, white
+bees, butterflies, hummingbirds
+erosion cont
+strat
+spreads vig
+
+
 Spiraea douglasii
-Spiraea betulifolia
-Sambucus racemosa
-Sambucus cerulean/mexicana
-Rubus spectabilis
-Rubus parviflorus
-Ribes sanguineum
-Rosa nutkana
-Rosa pisocarpa
-Rosa gymnocarpa
-Ribes sanguineum
-Ribes lobbii
-Ribes divaricatum
-Ribes bracteosum
-Rhododendron occidentale
-Rhamnus purshiana
-Prunus virginiana
-Physocarpus capitatus
-Philadelphus lewisii
-Oplopanax horridus
-Oemleria cerasiformis
-Mahonia nervosa (Berberis nervosa)
-Lonicera hispidula var. hispidula
-Lonicera involucrate
-Holodiscus discolor
-Gaultheria shallon
-Arctostaphylos uva-ursi
-Corylus cornuta
-Ceanothus velutinus
-Ceanothus thyrsiflorus
-Ceanothus sanguineus
-Mahonia (Berberis) nervosa
-Mahonia (Berberis) aquifolium
-Baccharis pilularis
-Arctostaphylos uva-ursi
-Arctostaphylos columbiana,
-Amelanchier alnifolia
+Rose Spiraea, Steeplebrush, Hardhack
+Srub
+No edible uses listed but no known haxards
+Medicinal uses (minor)
+sun, part sun, part shade
+pink 
+erosion control
+moist
+butterflies, bees
+spreads vig
+strateifi
+
+
+Spiraea betulifolia, Spiraea lucida
+Shrub
+Birchelaf Spirea, shinyleaf spirea
+No edible uses listed but no known haxards
+Leaves edible for tea
+white
+part sun, part shade,
+dry, moist
+bees, 
 
 
 
-Small trees in at least 2
+
+Small-medium trees in at least 2:
 Taxus brevifolia
-Salix sitchensis
-Rhamnus purshiana
-Malus fusca
-Prunus emarginata
-Crataegus suksdorfii/douglasii
-Acer circinatum
+Pacific Yew
+med tree
+evergreen
+toxic: yes! fruit edible raw, but every other part is poisonous
+dry or moist 
+full shade part shade, part sun 
+wood has many uses, easy to carve 
+mixing its wood chips with oil makes a red paint 
+tolerates strong winds, pollution
+erosion control
 
+
+Salix sitchensis
+Sitka Willow 
+smal tree
+moist or wet, full or part sun 
+inner bark edible dried ground into powder 
+stems, roots in basket aking
+"Various medicinal uses reported"
+green yellow flowers
+spreads vigorously
+erosio control
+["Bees","Hummingbirds","Butterflies"]
+
+Rhamnus purshiana
+small-med tree
+Cascara, Cascara Sagrada
+evergreen
+Medicinal uses
+Medicinal uses
+In excess causes cramps, diarrhea
+Green
+moist
+bees, butterflies, hummingbirds
+erosion control
+stratification
+sun, part sun, part shade
+drought tolerant
+
+
+Malus fusca
+oregon crab, oregon crab apple
+small tree 
+white blooms 
+small tree
+fruits edible, dont eat seeds in large quantities 
+source of pectin 
+wood has various uses
+"Various medicinal uses reported"
+moist soil 
+sun,part sun, part shade 
+["Bees","Hummingbirds","Butterflies"]
+
+
+Prunus emarginata
+Bitter Cherry
+small tree 
+fruit raw or cooked though bitter taste
+beongs to genus with small quanitites of toxin. dont eat in large quanitites 
+"Various medicinal uses reported"
+dye from leaves, fruit. bark for making baskets, mats, ornaments etc. excellent fuel
+fragrant
+moist 
+part sun, part shade 
+white flowers
+["Bees","Hummingbirds","Butterflies"]
+erosion control
+stratific
+
+
+Acer circinatum
+vine maple
+sm tree 
+moist
+sun, part sun, shade 
+sap for sweetener
+"Various medicinal uses reported"
+wood useful, shoots for basketmaking, charcoal from it can make black paint
+butterflies, bees
+stratificatino
+erosion control
+
+Salix lasiandra
+pacific Willow
+sm tree
+sun or part sun
+moist, wet 
+not toxicm
+medcinal uses
+stems, branches, twigs  for basket making
+bees
+erosion control
+
+
+Crataegus suksdorfii/douglasii
+black hawthorn
+sm tree
+not toxic
+scented
+spines used as needles. wood tough for tool handles 
+moist or wet soilfull sun, part sun 
+fruit raw or cooked
+tolerates pollution, strong winds
+drought tolerant
+white blossoms
 
 Large trees in at least 2:
 Tsuga mertensiana
-Tsunga heterophylla
+mountain hemlock
+lg tree
+any sun besides shade 
+oist soil
+inner bark dried ground into powder for thickener
+tea from young leaves and shoot tipes
+"Various medicinal uses reported"
+Fragrant
+brown dye from bark
+stratification
+erosion control
+stratification
+
+Tsuga heterophylla
+western hemlock
+evergreen
+lg tree
+full shade, semi shade
+moist
+inner bark 
+thickening agent, sweetener, flavoring. herbal tea from leaves and shoot tips, gum 
+"Various medicinal uses reported" 
+red-brown dye. wood uses. slow borning wood 
+cant handle pollution 
+stratificatino
+relatively shallow roots may make it succeptible to high winds 
+
+
+
 Thuja plicata
+western red cedar, giant cedar, incense cedar, western red cedar
+moist
+evergreen
+semi-shade, semi-sun, sun 
+inner bark for thickening agent etc, pitch for gum 
+"Various medicinal uses reported"
+bark can be used as sponge, clothing, padding, mats, roofing materials, basket making. roots for basket making. bark for insulation and shelter roofing. branches for rope. green dye from leaves and twigs. 
+fragrant
+resistant to decay
+wood used for wide range
+wood good fuel though burns quickly 
+erosion control
 
-Salix lasiandra
+
+
 Salix scouleriana
-Quercus garryana
-Pseudotsuga menziesii
-Populus trichocarpa
-Populus tremuloides
-Pinus ponderosa
-Fraxinus latifolia
-Cornus nuttallii
-Calocedrus decurrens
-Arbutus menziesii
-Alnus rubra
-Acer macrophyllum
-Abies grandis
+Scouler's Willow
+md tree
+not toxic
+bees
+moist or wet
+drought tolerant
+sun or part sun 
+"Various medicinal uses reported" 
+stems, roots for basket making
+bark for rope
 
+Quercus garryana
+Oregon white oak, Garry oak
+lg tree
+sun, part sun, part shade
+moist, dry 
+seeds raw or cooked for thickener, powder etc. roasted seed as coffee substitute 
+"Various medicinal uses reported"
+mulch of leaves repels slugs, grubs, etc. wood many uses. 
+tolerates strong winds
+drought tolerant
+
+Pseudotsuga menziesii
+douglas fir, rocky maountain douglas fir
+evergreen
+lg tree
+sun part sun 
+moist or wet 
+young shoot tips 
+tea from leaves and twigscoffee substitute
+fragrant
+resin for gum
+"Various medicinal uses reported"
+light brown dy efrom bark. bark source of tanins, cork substitutebark contains pitch, good for fuel. plant has insecitical properties. resin from trunk very useful. wood many uses
+tolerates strong winds
+
+ 
+Populus trichocarpa
+western basalm poplar, black cottonwood 
+lg tree
+part sun, Sun
+moist
+inner bark edible raw or dried
+"Various medicinal uses reported"
+extract or shoot as rooting hormone, yellow dye from leaf buds, cork from bark, gum makes glue, waterproofing. string and bakset making and young braches form roots. seed fluff as stuffing mateirals. wood ashes as soap substitute. inner bark for scouring pad.  wood for many uses and fuel 
+scented 
+
+Populus tremuloides
+american aspen, - poplar, quaking aspen
+lg tree
+dry or moist
+sun or part sun 
+inner bark raw or cooked, ground into powder as flour or thickener. sap drink. catkins raw or cooked. 
+"Various medicinal uses reported"
+grows vigorously- root systems grows aggressively 
+bark for cordage
+wood widely used for pulp. paper 
+drought tolerant
+
+Pinus ponderosa
+Ponderosa pine, washoe pine
+sun, part sun 
+dry, or moist
+inner bark raw or cooked (dried and ground into powder)
+seeds crushed into meal. resi chewed as gum. flavoring form resins 
+"Various medicinal uses reported"
+tan or green dye from needsles, yellow dye form pollen, lue dye from roots. 
+branches as stewingherb, Good source of resin. root fibres for basket. burns well. pitch from resin various uses. cones make quick fire, trunk bark and wood burn well. important lumber tree. some are very rot-resistant 
+tolerates strong winds 
+drought tolerant
+
+Fraxinus latifolia
+Oregon Ash 
+lg tree
+part sun, sun
+moist
+not toxic
+medical uses
+wood for tiber, fuel 
+tolerates pollution 
+
+Cornus nuttallii
+mountain dogwood, pacific dogwood, western dogwoood 
+lg tree
+white blooms
+semi shade, part sun, sun
+dry or moist
+not toxic
+medicial uses
+brown dye from bark, preservative
+wood various useful. 
+
+Calocedrus decurrens
+incense cedar
+lg tree
+evergreen
+semi shade, part sun, sun
+dry or moist 
+"Various medicinal uses reported"
+fragrant!
+boughs and twigs for brooms, roots and barks for weaving and baskets. wood  various uses. 
+mature trees often infected by dry rot 
+
+Arbutus menziesii
+madrona, pacific madrone, 
+
+semi shade, part sun
+dry or moist 
+fruit raw or cooked 
+"Various medicinal uses reported" 
+brown dy efrom bark, source of tannin. wood good for carving, charcoal 
+fragrant
+evergreen
+
+Alnus rubra
+red alder
+oregon alder
+lg tree 
+part shade part sun
+moist or wet 
+catkins raw or cooked, inner bark dried powder, thickening agent or mixed with cereals. 
+"Various medicinal uses reported"
+erosion control
+soil improvmenet
+tanin from bark
+roots and young shoots for baskets
+red-brown dy efrom bark
+wood for lumber, cheap furniture
+good charcoal
+
+Acer macrophyllum
+oregon maple, bigleaf maple
+lg tree
+yellow-green blooms
+semi-shade, part sun, sun
+moist
+sap for sugar, sweetener
+inner bark died, powder.
+flower clusters raw, young shoots 
+leaves preserving items. gum and fibre from inner bark various uses. young stems as coarse twine. wood valued for timber. excellent fuel 
+spreads vigorously
+
+Abies grandis
+grand fir, giant fir 
+lg tree
+full shade, part shade, part sun, 
+moist 
+inner bark dried groundgum for chewing gum, young shoot tipes for tea
+"Various medicinal uses reported"
+low tolerance for pollution 
+fragrant
+leaves moth repellant, incense. pin kdye form bark, pitch chewed, powdered from leaves as baby powder. bark as waterproofing material. lumber mainly for pulp and fuel 
+
+///////////
 "propagationNeeds": "Stratification"
 
 ["Bees","Hummingbirds","Butterflies"]
 
 SUN to PART SUN
+["Sun","Part Sun","Part Shade","Shade"]
 ["Sun","Part Sun","Part Shade"]
 
 SUN
@@ -92,7 +408,9 @@ SHADE
 
 ["Moist"]
 ["Dry"]
-
+"Drought tolerant"
+"Erosion control"
+"Various medicinal uses reported"
 ["Moist","Wet"]
 
   "otherWarnings": "May take a few years to bloom if established from seed.",
@@ -118,7 +436,7 @@ SHADE
   "toxic": "No",
   "spreadsVigorously": "No",
   "otherWarnings": [""],
-  "evergreen": "Yes",
+  "evergreen": "No",
   "propagationNeeds": "Stratification"
 },
 

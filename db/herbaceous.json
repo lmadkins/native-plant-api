@@ -8,7 +8,7 @@
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "foodUses": ["Leaves, stems, flowers are edible"],
-  "otherUses": ["Various medicinal uses reported","Fragrant"],
+  "otherUses": ["Various medicinal uses reported","Fragrant","Drought tolerant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN9159_1558124797_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN9159.jpg"
@@ -324,6 +324,7 @@
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Blue","Orange","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "otherUses":"Drought tolerant",
   "images": {
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14870_1492399167_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14870.jpg"
@@ -890,7 +891,7 @@
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
-  "otherUses": ["Erosion control"],
+  "otherUses": ["Erosion control","Drought tolerant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/PRO_HOO_2353B_1558125025_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/PRO_HOO_2353B.jpg"
@@ -922,7 +923,7 @@
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUses": ["Various medicinal uses reported"],
+  "otherUses": ["Various medicinal uses reported","Drought tolerant"],
   "images": {
     "small": "https://oregonflora.org/imglib/misc/201905/PRU_VUL_LAN_3119B_1558125859_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PRU_VUL_LAN_3119B.jpg"
@@ -1075,7 +1076,7 @@
   "waterNeeds": ["Dry","Moist"],
   "flowerColors": ["Purple","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUses": ["Erosion control"],
+  "otherUses": ["Erosion control","Drought tolerant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg"

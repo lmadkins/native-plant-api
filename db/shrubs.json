@@ -1,22 +1,571 @@
 [
   {
-    "scientificNames": [""],
-    "commonNames": [""],
+    "scientificNames": "Amelanchier alnifolia",
+    "commonNames": ["Serviceberry", "Saskatoon", "Saskatoon serviceberry"],
     "type": "Shrub",
-    "lightNeeds": ,
-    "waterNeeds": ,
-    "flowerColors": [""],
-    "wildlifeSupport": [],
-    "foodUses": [""],
-    "otherUses": [""],
+    "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+    "waterNeeds": ["Moist"],
+    "flowerColors": "White",
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible raw or cooked"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
     "images": {
-      "small": "",
-      "original": ""
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/09SL085AUG1904_1492398778_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1405/09SL085AUG1904.jpg"
+    },
+    "toxic": "No",
+    "evergreen": "No",
+    "spreadsVigorously": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Arctostaphylos columbiana"],
+    "commonNames": ["Hairy manzanita","Bristly manzanita"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun"],
+    "waterNeeds": ["Dry"],
+    "flowerColors": ["White","Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible raw or cooked"],
+    "otherUses": ["Wood has various uses and burns brightly","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23177_1558125705_tn.jpg",
+      "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG23177_1558125705_tn.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Slow growing"],
+    "evergreen": "Yes",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Arctostaphylos uva-ursi"],
+    "commonNames": ["Kinnikinnick","Bearberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["White","Pink","Red"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible raw or cooked"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/ARC_UVA_2064B_1558125680_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/ARC_UVA_2064B.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "Yes",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Baccharis pilularis"],
+    "commonNames": ["Chaparral broom","Coyotebrush"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Butterflies","Bees"],
+    "otherUses": ["Fragrant","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/15BAC_PIL_9919B_1492398525_tn.jpg",
+      "original": "https://oregonflora.org/imglib/_OFPFP/201704/15BAC_PIL_9919B_1492398525_tn.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "Yes"
+  },
+  {
+    "scientificNames": ["Berberis aquifolium","Mahonia aquifolium"],
+    "commonNames": ["Oregon grape","Shining Oregon Grape","Mahonia","Oregon Holly"],
+    "type": "Shrub",
+    "lightNeeds": "Part shade",
+    "waterNeeds": "Dry",
+    "flowerColors": ["Yellow"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Edible berries"],
+    "otherUses": ["Various medicinal uses reported","Erosion control","Drought tolerant"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/BER_AQU_9173B_1558124907_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/BER_AQU_9173B.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "Yes"
+  },
+  {
+    "scientificNames": ["Berberis nervosa","Mahonia nervosa"],
+    "commonNames": ["Cascade Oregon Grape","Dull Oregon Grape","Oregon Grape","Cascade Barberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["Yellow"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible- raw or cooked"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/BER_NER_3157B_1558125745_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/BER_NER_3157B.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Ceanothus sanguineus"],
+    "commonNames": ["Oregon Tea Tree, Red stem Ceanothus"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Various medicinal uses reported","Erosion control","Soil improvement"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7435_1558124723_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7435.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "No",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Ceanothus thyrsiflorus"],
+    "commonNames": ["Blue Blossom","Blue Brush"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["Blue"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG48418_1558124598_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2017/DIG48418.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+  
+    "evergreen": "Yes",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Ceanothus velutinus"],
+    "commonNames": ["Sticky Laurel","Snowbrush"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": [""],
+    "otherUses": ["Various medicinal uses reported","Soil improvement","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/07SL081AUG1904_1558125038_tn.jpg",
+      "original": "https://oregonflora.org/imglib/OF_FP/201905/07SL081AUG1904_1558125038_tn.jpg"
     },
     "toxic": "No",
     "spreadsVigorously": "Yes",
-    "otherWarnings": [""],
     "evergreen": "Yes",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Corylus cornuta"],
+    "commonNames": ["California Hazel","California Hazelnut", "Beaked Hazel"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["Green","Red"],
+    "wildlifeSupport": ["Butterflies"],
+    "foodUses": ["Seeds edible raw or cooked/dried"],
+    "otherUses": ["Erosion control","Shoots used for rope","Branches used for basketry"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/09SL082AUG2304_1492398616_tn.jpg",
+      "original": "https://oregonflora.org/imglib/_OFPFP/201704/09SL082AUG2304_1492398616_tn.jpg"
+    },
+    "toxic": "No",
+    "evergreen": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Thicket forming"],
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Gaultheria shallon"],
+    "commonNames": ["Salal","Shallon"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Shade","Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["Pink","White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Edible berries"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/GAU_SHA_4325B_1558125742_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/GAU_SHA_4325B.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Holodiscus discolor"],
+    "commonNames": ["Oceanspray","Creambrush"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Butterflies","Bees"],
+    "foodUses": ["Fruit edible raw or cooked"],
+    "otherUses": ["Various medicinal uses reported","Wood has various uses","Erosion control","Drought tolerant"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/15DIG24535_1558125709_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15DIG24535.jpg"
+    },
+    "toxic": "No",
+    "evergreen": "No",
+    "spreadsVigorously": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Lonicera involucrate"],
+    "commonNames": ["Black Twinberry","Bearberry Honeysuckle","Twinberry Honeysckle"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Moist",
+    "flowerColors": ["Yellow","Red"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": [""],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7465_1558125669_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7465.jpg"
+    },
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Reports of toxicity vary. Berries edible to animals, may not be to humans"],
+    "evergreen": "No",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Oemleria cerasiformis"],
+    "commonNames": ["Oso Berry","Indian Plumb"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Sun","Part Shade"],
+    "waterNeeds": ["Dry","Moist"],
+    "flowerColors": ["White","Yellow"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Fragrant","Erosion control","Various medicinal uses reported"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7479_1558124925_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7479.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["May be toxic in large quantities"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Oplopanax horridus"],
+    "commonNames": ["Devil's Club"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Shade","Shade"],
+    "waterNeeds": "Moist",
+    "flowerColors": ["Red","White"],
+    "wildlifeSupport": ["Bees"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7480_1558124691_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7480.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Dense spikes"],
+    "evergreen": "No"
+  },
+  {
+    "scientificNames": ["Philadelphus lewisii"],
+    "commonNames": ["Lewis' Mock Orange","Mock Orange"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+    "waterNeeds": ["Dry","Moist"],
+    "flowerColors": ["White","Yellow"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/PHI_LEW_3540B_1558124926_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PHI_LEW_3540B.jpg"
+    },
+    "spreadsVigorously": "No",
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+
+  },
+  {
+    "scientificNames": ["Physocarpus capitatus"],
+    "commonNames": ["Pacific Ninebark"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Sun","Part Shade"],
+    "waterNeeds": "Moist",
+    "flowerColors": ["White","Yellow"],
+    "wildlifeSupport": ["Bees","Butterflies"],
+    "otherUses": ["Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG13493_1558124709_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1252/DIG13493.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Prunus virginiana"],
+    "commonNames": ["Chokecherry","Western Chokecherry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun"],
+    "waterNeeds": "Moist",
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit and seeds edible raw (usually dried), or cooked"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG13690_1492398902_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1253/DIG13690.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["May be toxic in large quantities"],
+    "evergreen": "No"
+  },
+  {
+    "scientificNames": ["Rhododendron occidentale"],
+    "commonNames": ["Western Azalea"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Shade","Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["White","Pink","Yellow"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG25791_1558125732_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG25791.jpg"
+    },
+    "toxic": "Yes",
+    "spreadsVigorously": "No",
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Ribes bracteosum"],
+    "commonNames": ["Stink Currant","Blue Currant"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Shade","Shade"],
+    "waterNeeds": "Moist",
+    "flowerColors": ["White","Green"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible raw or cooked"],
+    "otherUses": ["Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/RIB_BRA_1789B_1558125724_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/RIB_BRA_1789B.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["May cause upse stomach in large quantities"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Ribes divaricatum"],
+    "commonNames": ["Spreading Gooseberry","Coastal Black Gooseberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Shade"],
+    "waterNeeds": "Moist",
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible raw or cooked"],
+    "otherUses": ["Long thorns for removing splinters, tattooing","Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/AL00296_1558124632_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/AL00296.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Long thorns","Thicket forming"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Ribes lobbii"],
+    "commonNames": ["Gummy Gooseberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun"],
+    "waterNeeds": "Moist",
+    "flowerColors": ["Red","Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible raw or cooked"],
+    "otherUses": ["Long thorns for removing splinters, tattooing","Various medicinal uses reported"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/202106/21DIG7512_1623464284_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/21DIG7512.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Long thorns"],
+    "evergreen": "No",
+  },
+  {
+    "scientificNames": ["Rosa gymnocarpa"],
+    "commonNames": ["Baldhip Rose","Wood Rose","Dwarf Rose"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Shade","Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["Pink","White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruits, young shoots, petals edible raw or cooked"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/ROS_GYM_1236B_1558124566_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/ROS_GYM_1236B.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": ["Thorns"],
+    "evergreen": "No",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Rosa nutkana"],
+    "commonNames": ["Nootka Rose"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruits, young shoots, petals edible raw or cooked"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/SL006JAN1409_1492399316_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1330/SL006JAN1409.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Thicket forming","Thorns"],
+    "evergreen": "No",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Rosa pisocarpa"],
+    "commonNames": ["Cluster Rose"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruits, young shoots, petals edible raw or cooked"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG33982_1558124767_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1542/DIG33982.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Thorns","Thicket forming"],
+    "evergreen": "No",
+    "propagationNeeds": ["Stratification","Scarification"]
+  },
+  {
+    "scientificNames": ["Ribes sanguineum"],
+    "commonNames": ["Red-Flowering Currant","Blood Currant"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Dry",
+    "flowerColors": ["Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Edible berries"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/CIMG2892_1492398749_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1280/CIMG2892.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Rosa nutkanus","Rubus parviflorus"],
+    "commonNames": ["Thimbleberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruits, young shoots, petals edible raw or cooked"],
+    "otherUses": ["Various medicinal uses reported","Erosion control","Dye"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/15RUB_PAR_5144B_1558125680_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15RUB_PAR_5144B.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": ["Thicket forming"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Rubus spectabilis"],
+    "commonNames": ["Salmonberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruits, young shoots, petals edible raw or cooked"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21949_1558124729_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21949.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": ["Thicket-forming"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Sambucus mexicana","Sambucus cerulean"],
+    "commonNames": ["Blue Elderberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Various medicinal uses reported","Erosion control","Drought tolerant","Fragrant","Dye"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201807/DIG49446_1532541180_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2017/DIG49446.jpg"
+    },
+    "spreadsVigorously": "No",
+    "otherWarnings": ["No specific mention for this species, but in some members of this genus the leaves and stems are toxic. ","Fruits may be mildly toxic but likely edible cooked."],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Sambucus racemosa"],
+    "commonNames": ["Red Elderberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Sun","Part Shade","Shade"],
+    "waterNeeds": ["Dry","Moist"],
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/SAM_RAC_6089B_1492399646_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SAM_RAC_6089B.jpg"
+    },
+
+    "spreadsVigorously": "No",
+    "otherWarnings": ["No specific mention for this species, but in some members of this genus the leaves and stems are toxic. ","Fruits must be cooked before human consumption"],
+    "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
   {
@@ -26,17 +575,17 @@
     "lightNeeds": ,
     "waterNeeds": ,
     "flowerColors": [""],
-    "wildlifeSupport": [],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
     "foodUses": [""],
-    "otherUses": [""],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
     "images": {
       "small": "",
       "original": ""
     },
     "toxic": "No",
-    "spreadsVigorously": "Yes",
+    "spreadsVigorously": "No",
     "otherWarnings": [""],
-    "evergreen": "Yes",
+    "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
   {
@@ -46,37 +595,17 @@
     "lightNeeds": ,
     "waterNeeds": ,
     "flowerColors": [""],
-    "wildlifeSupport": [],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
     "foodUses": [""],
-    "otherUses": [""],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
     "images": {
       "small": "",
       "original": ""
     },
     "toxic": "No",
-    "spreadsVigorously": "Yes",
+    "spreadsVigorously": "No",
     "otherWarnings": [""],
-    "evergreen": "Yes",
-    "propagationNeeds": "Stratification"
-  },
-  {
-    "scientificNames": [""],
-    "commonNames": [""],
-    "type": "Shrub",
-    "lightNeeds": ,
-    "waterNeeds": ,
-    "flowerColors": [""],
-    "wildlifeSupport": [],
-    "foodUses": [""],
-    "otherUses": [""],
-    "images": {
-      "small": "",
-      "original": ""
-    },
-    "toxic": "No",
-    "spreadsVigorously": "Yes",
-    "otherWarnings": [""],
-    "evergreen": "Yes",
+    "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
 ]

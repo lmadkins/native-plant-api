@@ -1,11 +1,24 @@
+Abies grandis
+grand fir, giant fir 
+lg tree
+
+Acer circinatum
+vine maple
+small-medtree 
+
+Acer macrophyllum
+oregon maple, bigleaf maple
+lg tree
+
 
 Achillea millefolium,
 Yarrow, Common Yarrow,
 Perennial
 
 Achlys triphylla,
-Vanilla Leaf,Deer's Foot,
+Vanilla Leaf,Sweet After Death, 
 Perennial
+
 
 Actaea rubra,
 Baneberry,Western Red Baneberry,
@@ -23,6 +36,15 @@ Allium accuminatum,
 Hooker’s Onion,Taper-Tip Onion,
 Perennial
 
+Alnus rubra
+red alder
+oregon alder
+lg tree 
+
+Amelanchier alnifolia
+Shrub
+Serviceberry, Saskatoon, Saskatoon serviceberry
+
 Anaphalis margaritacea,
 Pearly everlasting,
 Perennial
@@ -34,6 +56,18 @@ Perennial
 Aquilegia formosa,
 Red Columbine,Western Columbine,Sitka Columbine,Crimson Columbine,
 Perennial
+
+Arbutus menziesii
+madrona, pacific madrone, 
+lg tree
+
+Arctostaphylos columbiana
+Shrub
+hairy manzanita
+
+Arctostaphylos uva-ursi
+kinnikinnick, bearberry, manzanita
+Shrub
 
 Asarum caudatum,
 Wild Ginger,Western Wild Ginger,Long-Tailed Wild Ginger,
@@ -55,9 +89,17 @@ Athyrium filix-femina,
 Lady Fern,
 Fern,
 
+Baccharis pilularis
+dwarf chaparral broom, coyotebrush, chaparral broom
+Shrub
+
 Boykinia major,
 Large Boykinia,Tall Boykinia,
 Perennial
+
+Calocedrus decurrens
+incense cedar
+lg tree
 
 Camassia leichtlinii,Cammasia leichtlinii,
 Great Camas,Tall Camas,
@@ -79,6 +121,18 @@ Carex obnupta,
 Slough Sedge,
 Grass,
 
+Ceanothus sanguineus
+oregon tea tree,
+Shrub
+
+Ceanothus thyrsiflorus
+Blue brush, blueblossom
+Shrub
+
+Ceanothus velutinus
+Sticky laurel
+Shrub
+
 Chamaenerion angustifolium,
 Fireweed,
 Perennial
@@ -99,13 +153,24 @@ Collomia grandiflora,Collimia grandiflorum,
 Collomia,Large Flowered Collomia,
 Perennial
 
+Cornus nuttallii
+mountain dogwood, pacific dogwood, western dogwoood 
+lg tree
+
 Cornus unalaschkensis,
 Bunchberry,
 Perennial
 
+Corylus cornuta
+Beaked hazel, california hazelnut
+
 Corydalis scouleri,
 Scouler’s corydalis,
 Perennial
+
+Crataegusdouglasii
+black hawthorn
+sm-md tree
 
 Deschampsia cespitosa,
 Tufted hairgrass,
@@ -159,9 +224,17 @@ Fragaria virginiana,
 Wild Strawberry,Broad Petal Strawberry,
 Perennial
 
+Fraxinus latifolia
+Oregon Ash 
+lg tree
+
 Fritillaria affinis,
 Checker Lily,Chocolate Lily,
 Perennial
+
+Gaultheria shallon
+Shallon, Salal
+Shrub
 
 Gilia capitata,Gilia capitate,
 Globe gilia,Bluehead gilia,
@@ -182,6 +255,9 @@ Perennial
 Heuchera micrantha,
 Small-flowered alumroot, Alumroot,Heuchera,
 Perennial
+
+Holodiscus discolor
+Creambrush, Oceanspray
 
 Hydrophyllum tenuipes,
 Pacific Waterleaf,
@@ -223,6 +299,14 @@ Lonicera ciliosa,
 Orange Honeysuckle,Orange Honeysuckle Vine,
 Vine
 
+Lonicera hispidula var. hispidula
+Vine
+Pink honeysuckle
+
+Lonicera involucrate
+Shrub
+Twinberry, Twinberry honeysuckle
+
 Lupinus polyphyllus,
 Large-Leaved Lupine,Bigleaf Lupine,
 Perennial
@@ -234,6 +318,14 @@ Perennial
 Lysichiton americanus,
 Skunk Cabbage,
 Perennial
+
+Mahonia (Berberis) aquifolium
+oregon grape, oregon holly, oregon holly grape
+Shrub
+
+Mahonia (Berberis) nervosa
+oregon grape, cascade barberry
+Shrub
 
 Maianthemum dilatatum,
 False Lily-of-the-Valley,False Lily of the Valley,Beadruby,
@@ -247,9 +339,17 @@ Maianthemum stellatum,Smilacina Maianthemum stellata,
 Starry False Solomon’s Seal,Small False Solomon's Seal,
 Perennial
 
+Malus fusca
+oregon crab, oregon crab apple
+small tree 
+
 Mitella caulescens,
 Creeping miterwort,
 Perennial
+
+Oemleria cerasiformis
+Shrub
+Oso Berry, Indian plum
 
 Olsynium douglasii,
 Grasswidow,Grass Widow,
@@ -267,6 +367,13 @@ Penstemon serrulatus,
 Cascade Penstemon,Cascades Penstemon,
 Perennial
 
+Physocarpus capitatus
+shrub
+pacific ninebark
+
+Pinus ponderosa
+Ponderosa pine, washoe pine
+
 Polypodium glycyrrhiza,
 Licorice Fern,
 Fern
@@ -274,6 +381,14 @@ Fern
 Polystichum munitum,
 Sword Fern,Common Sword Fern,Giant Holly Fern,
 Fern
+
+Populus tremuloides
+american aspen, - poplar, quaking aspen
+lg tree
+
+Populus trichocarpa
+western basalm poplar, black cottonwood 
+lg tree
 
 Potentilla gracilis,
 Graceful cinquefoil,Slender cinquefoil,
@@ -287,6 +402,23 @@ Prosartes smithii,Prosartes Disporumsmithii,
 Smith’s fairy lantern,Fairy lanterns,Smith's Bells,
 Perennial
 
+Prunus emarginata
+Bitter Cherry
+small tree 
+
+Pseudotsuga menziesii
+douglas fir, rocky maountain douglas fir
+evergreen
+lg tree
+
+Quercus garryana
+Oregon white oak, Garry oak
+lg tree
+
+Rhamnus purshiana
+small tree
+Cascara, Cascara Sagrada
+
 Rubus ursinus,
 Dewberry,Pacific Blackberry,
 Vine
@@ -294,6 +426,19 @@ Vine
 Prunella vulgaris,
 Self-Heal,Heal-All,Heal All,Self Heal,
 Perennial
+
+Salix lasiandra
+pacific Willow
+sm-md tree
+
+
+Salix scouleriana
+Scouler's Willow
+md tree
+
+Salix sitchensis
+Sitka Willow 
+smal tree
 
 Sagittaria latifolia,
 Broadleaf Arrowhead,Wapato,
@@ -339,6 +484,10 @@ Synthyris reniformis,Veronica regina-nivalis,
 Spring queen,Native Figwort,Snow Queen,
 Perennial
 
+Taxus brevifolia
+Pacific Yew
+small tree
+
 Tellima grandiflora,
 Fringe cup,
 Perennial
@@ -346,6 +495,9 @@ Perennial
 Thalictrum occidentale,
 Western Meadow Rue,
 Perennial
+
+Thuja plicata
+western red cedar, giant cedar, incense cedar, western red cedar
 
 Tiarella trifoliata,
 Foam Flower,Sugar-Scoop,
@@ -362,6 +514,15 @@ Perennial
 Trillium ovatum,
 Western trillium,
 Perennial
+
+Tsuga heterophylla
+western hemlock
+evergreen
+lg tree
+
+Tsuga mertensiana
+mountain hemlock
+lg tree
 
 Typha latifolia,
 Common cattail,Cattail,
