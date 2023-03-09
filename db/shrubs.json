@@ -156,7 +156,6 @@
     "waterNeeds": "Dry",
     "flowerColors": ["White"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-    "foodUses": [""],
     "otherUses": ["Various medicinal uses reported","Soil improvement","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/07SL081AUG1904_1558125038_tn.jpg",
@@ -184,7 +183,7 @@
     "toxic": "No",
     "evergreen": "No",
     "spreadsVigorously": "No",
-    "otherWarnings": ["Thicket forming"],
+    "otherWarnings": ["Thicket-forming"],
     "propagationNeeds": "Stratification"
   },
   {
@@ -233,7 +232,6 @@
     "waterNeeds": "Moist",
     "flowerColors": ["Yellow","Red"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-    "foodUses": [""],
     "otherUses": ["Various medicinal uses reported","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7465_1558125669_tn.jpg",
@@ -389,7 +387,7 @@
     },
     "toxic": "No",
     "spreadsVigorously": "No",
-    "otherWarnings": ["Long thorns","Thicket forming"],
+    "otherWarnings": ["Long thorns","Thicket-forming"],
     "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
@@ -410,7 +408,7 @@
     "toxic": "No",
     "spreadsVigorously": "No",
     "otherWarnings": ["Long thorns"],
-    "evergreen": "No",
+    "evergreen": "No"
   },
   {
     "scientificNames": ["Rosa gymnocarpa"],
@@ -448,7 +446,7 @@
     },
     "toxic": "No",
     "spreadsVigorously": "No",
-    "otherWarnings": ["Thicket forming","Thorns"],
+    "otherWarnings": ["Thicket-forming","Thorns"],
     "evergreen": "No",
     "propagationNeeds": ["Stratification","Scarification"]
   },
@@ -468,7 +466,7 @@
     },
     "toxic": "No",
     "spreadsVigorously": "No",
-    "otherWarnings": ["Thorns","Thicket forming"],
+    "otherWarnings": ["Thorns","Thicket-forming"],
     "evergreen": "No",
     "propagationNeeds": ["Stratification","Scarification"]
   },
@@ -507,7 +505,7 @@
     },
     "toxic": "No",
     "spreadsVigorously": "Yes",
-    "otherWarnings": ["Thicket forming"],
+    "otherWarnings": ["Thicket-forming"],
     "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
@@ -569,43 +567,117 @@
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificNames": [""],
-    "commonNames": [""],
+    "scientificNames": ["Spiraea betulifolia","Spiraea lucida"],
+    "commonNames": ["Birchleaf Spirea"],
     "type": "Shrub",
-    "lightNeeds": ,
-    "waterNeeds": ,
-    "flowerColors": [""],
-    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-    "foodUses": [""],
-    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "lightNeeds": ["Part Sun","Part Shade"],
+    "waterNeeds": ["Dry","Moist"],
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Butterflies"],
     "images": {
-      "small": "",
-      "original": ""
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG34084_1492398648_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1542/DIG34084.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No",
-    "otherWarnings": [""],
+    "spreadsVigorously": "Yes",
     "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
   {
-    "scientificNames": [""],
-    "commonNames": [""],
+    "scientificNames": ["Spiraea douglasii"],
+    "commonNames": ["Douglas' Spirea","Hardhack"],
     "type": "Shrub",
-    "lightNeeds": ,
-    "waterNeeds": ,
-    "flowerColors": [""],
-    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-    "foodUses": [""],
-    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": "Moist",
+    "flowerColors": ["Pink"],
+    "wildlifeSupport": ["Bees","Butterflies"],
+    "otherUses": ["Erosion control"],
     "images": {
-      "small": "",
-      "original": ""
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14236_1492398945_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1254/DIG14236.jpg"
     },
     "toxic": "No",
-    "spreadsVigorously": "No",
-    "otherWarnings": [""],
+    "spreadsVigorously": "Yes",
+    "otherWarnings": ["Thicket-forming"],
     "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
+  {
+    "scientificNames": ["Symphoricarpos albus"],
+    "commonNames": ["Snowberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Sun","Part Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["White","Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "otherUses": ["Erosion control","Various medicinal uses reported"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/misc/201905/DIG7573_1558125835_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7573.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": ["Berries are edible to humans when cooked, according to some sources","Berries toxic to some creatures, such as fish"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Vaccinium ovatum"],
+    "commonNames": ["Evergreen Huckleberry","California Huckleberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": ["Dry"],
+    "flowerColors": ["White","Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Berries edible"],
+    "otherUses": ["Erosion control","Various medicinal uses reported"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG40465_1558124668_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG40465.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Thicket-forming"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Vaccinium parvifolium"],
+    "commonNames": ["Red Huckleberry","Red Bilberry"],
+    "type": "Shrub",
+    "lightNeeds": ["Part Shade","Shade"],
+    "waterNeeds": ["Dry"],
+    "flowerColors": ["Yellow","Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Edible berries"],
+    "otherUses": ["Erosion control","Various medicinal uses reported"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG34216_1558124590_tn.jpg",
+      "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG34216_1558124590_tn.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Thicket-forming"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Viburnum ellipticum"],
+    "commonNames": ["Common Viburnum","Oval-Leaved Viburnum"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": ["Dry"],
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Butterflies"],
+    "foodUses": ["Edible berries"],
+    "otherUses": ["Erosion control","Various medicinal uses reported","Drought tolerant"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11024_1558125719_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG11024.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  }
 ]

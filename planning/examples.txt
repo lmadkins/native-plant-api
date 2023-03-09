@@ -1,81 +1,3 @@
-Shrubs in at least 2:
-Viburnum ellipticum
-Shrub
-Common Viburnum, Oval-leaved viburnum
-Edible berriesnon-toxic
-Scarification
-white
-dry
-butterflies, bees
-erosion control
-stratification
-sun, part sun, part shade
-
-Vaccinium parvifolium
-Red Huckleberry, Red Bilberry, 
-Shrub
-Edible berries 
-Medicinal uses
-yellow, pink 
-part shade, shade
-dry
-["Bees","Hummingbirds","Butterflies"]
-stratificerosion control
-
-
-Vaccinium ovatum
-Evergreen Huckleberry
-Shrub
-Edible berries 
-Medicinal uses
-evergreen
-pink
-part sun, part shade, shade 
-dry
-bees, butterflies, hummingbirds
-stratificaiton
-erosion
-
-Symphoricarpos albus
-Shrub
-Snowberry
-Berries edible when cooked. Toxic to some creatures, such as fish.
-Medicinal uses
-Erosion control
-part sun, part shade
-moist, dry
-purple, white
-bees, butterflies, hummingbirds
-erosion cont
-strat
-spreads vig
-
-
-Spiraea douglasii
-Rose Spiraea, Steeplebrush, Hardhack
-Srub
-No edible uses listed but no known haxards
-Medicinal uses (minor)
-sun, part sun, part shade
-pink 
-erosion control
-moist
-butterflies, bees
-spreads vig
-strateifi
-
-
-Spiraea betulifolia, Spiraea lucida
-Shrub
-Birchelaf Spirea, shinyleaf spirea
-No edible uses listed but no known haxards
-Leaves edible for tea
-white
-part sun, part shade,
-dry, moist
-bees, 
-
-
 
 
 Small-medium trees in at least 2:
@@ -420,25 +342,24 @@ SHADE
   "plantingSeason": ["Spring","Fall","Winter]
 
 {
-  "scientificNames": [""],
-  "commonNames": [""],
-  "type": "Shrub",
-  "lightNeeds": ,
-  "waterNeeds": ,
-  "flowerColors": [""],
-  "wildlifeSupport": [],
-  "foodUses": [""],
-  "otherUses": [""],
-  "images": {
-    "small": "",
-    "original": ""
+    "scientificNames": [""],
+    "commonNames": [""],
+    "type": "Tree",
+    "lightNeeds": [],
+    "waterNeeds": [],
+    "flowerColors": [],
+    "foodUses": [],
+    "otherUses": ["Erosion control","Various medicinal uses reported"],
+    "images": {
+      "small": "",
+      "original": ""
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": [],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "otherWarnings": [""],
-  "evergreen": "No",
-  "propagationNeeds": "Stratification"
-},
 
 
 
