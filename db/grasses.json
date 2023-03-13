@@ -18,8 +18,8 @@
     "commonNames": "Slough Sedge",
     "type": "Grass",
     "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
-    "waterNeeds": ["Moist","Wet"],
-    "otherUses": ["Erosion control","Drought tolerant"],
+    "waterNeeds": ["Moist","Wet","Drought tolerant"],
+    "otherUses": ["Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11723_1558124761_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11723.jpg"
@@ -62,8 +62,8 @@
     "commonNames": "Western Fescue",
     "type": "Grass",
     "lightNeeds": ["Part Sun","Part Shade"],
-    "waterNeeds": ["Moist","Dry"],
-    "otherUses": ["Green Roofs","Drought tolerant"],
+    "waterNeeds": ["Moist","Dry","Drought tolerant"],
+    "otherUses": ["Green Roofs"],
     "images": {
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG12491_1492398816_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1251/DIG12491.jpg"

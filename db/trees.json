@@ -1,0 +1,415 @@
+[
+  {
+    "scientificNames": ["Abies grandis"],
+    "commonNames": ["Grand Fir","Giant Fir"],
+    "type": "Tree",
+    "lightNeeds": ["Sun,","Part Sun","Part Shade"],
+    "waterNeeds": ["Dry"],
+    "foodUses": ["Inner bark used as gum","Young shoot tips for tea"],
+    "otherUses": ["Erosion control","Various medicinal uses reported","Fragrant","Windbreak","Pulp","Fuel","Incense","Insect Repellent","Incense","Dye","Waterproofing Material"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7590_1558125738_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7590.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "No",
+    "otherWarnings": ["Low pollution tolerance"],
+    "evergreen": "Yes",
+    "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Acer macrophyllum"],
+  "commonNames": ["Bigleaf Maple","Oregon Maple"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Moist"],
+  "flowerColor": ["White","Green"],
+  "foodUses": ["Sap for sugar, sweetener","Flower clusters and young shoots edible raw"],
+  "otherUses": ["Erosion control","Windbreak","Inner bark for gum","Inner bark dried and ground for thickening and baking","Young stems for coarse twine","Wood for timber","Excellent fuel"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7599_1558125719_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7599.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "Yes",
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Alnus rubra"],
+  "commonNames": ["Red Alder","Oregon Alder"],
+  "type": "Tree",
+  "lightNeeds": ["Part Sun","Part Shade"],
+  "waterNeeds": ["Moist","Wet"],
+  "foodUses": ["Catkins edible raw or cooked","Inner bark dried and ground for thickening and baking"],
+  "otherUses": ["Erosion control","Soil improvement","Various medicinal uses reported","Windbreak","Bark for tanin","Roots and young shoots for basketry and weaving","Bark for red-brown dye","Wood for lumber","Good as charcoal"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/09SL017FEB1603_1558124949_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1389/09SL017FEB1603.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "Yes",
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Arbutus menziesii"],
+  "commonNames": ["Pacific Madrone","Madrona"],
+  "type": "Tree",
+  "lightNeeds": ["Part Sun","Part Shade"],
+  "waterNeeds": ["Dry","Moist","Drought tolerant"],
+  "flowerColor": ["White"],
+  "foodUses": ["Fruit edible raw or cooked"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Fragrant","Windbreak","Bark for tanin","Bark for brown dye","Wood for carving","Wood for charcoal"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG46238_1558124596_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2017/DIG46238.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Calocedrus decurrens"],
+  "commonNames": ["Incense Cedar"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Dry","Moist"],
+  "otherUses": ["Fragrant","Erosion control","Various medicinal uses reported","Windbreak","Boughs and twigs for brooms","Roots and barks for basketry and weaving","Wood for various uses"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7615_1558125697_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7615.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Mature trees often infected by dry rot"],
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Cornus nuttallii"],
+  "commonNames": ["Pacific Dogwood","Western Dogwood","Mountain Dogwood"],
+  "type": "Tree",
+  "lightNeeds": ["Part Sun","Part Shade","Shade"],
+  "waterNeeds": ["Dry","Moist"],
+  "flowerColor": ["White"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Wood for various uses","Bark for brown dye"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14883_1558124878_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14883.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Can be difficult to establish"],
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Fraxinus latifolia"],
+  "commonNames": ["Oregon Ash"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Moist","Wet"],
+  "foodUses": [],
+  "flowerColor": ["Green"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Tolerates pollution","Wood for timber"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/FRA_LAT_5873B_1558125640_tn.jpg",
+    "original": "https://oregonflora.org/imglib/OF_FP/201905/FRA_LAT_5873B_1558125640_tn.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Malus fusca"],
+  "commonNames": ["Oregon Crabapple","Pacific Crabapple"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Moist","Wet"],
+  "flowerColor": ["White"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "foodUses": ["Fruits edible","Pectin from fruit"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Tolerates a variety of soil types","Wood for various uses"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG13103_1558124702_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1252/DIG13103.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Don't eat seeds in large quantities"],
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Pinus ponderosa"],
+  "commonNames": ["Ponderosa Pine","Washoe Pine","Lodgepole Pine"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun"],
+  "waterNeeds": ["Dry","Moist","Drought tolerant"],
+  "foodUses": ["Inner bark dried and ground for thickening and baking","Seeds crushed into meal","Resin used as gum","Resin used for flavoring","Branches as stewing herb"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Tolerates wind","Roots for basketry and weaving","Pitch from resin for various uses","Cones for quick fire fuel","Wood for fuel","Wood for lumber","Burns well"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/AL03171_1558124810_tn.jpg",
+    "original": "https://oregonflora.org/imglib/OF_FP/201905/AL03171_1558124810_tn.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Populus tremuloides"],
+  "commonNames": ["Quaking Aspen","American Aspen"],
+  "type": "Tree",
+  "lightNeeds": [],
+  "waterNeeds": ["Moist","Drought tolerant"],
+  "foodUses": ["Inner bark dried and ground for thickening and baking","Catkins edible raw or cooked"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Bark for cordage","Wood for pulp, paper"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG34440_1558124855_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2014/DIG34440.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "Yes",
+  "otherWarnings": ["Root systems grow aggressively"],
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+"scientificNames": ["Populus trichocarpa"],
+"commonNames": ["Black Cottonwood","Western Basalm Poplar"],
+"type": "Tree",
+"lightNeeds": ["Sun","Part Sun"],
+"waterNeeds": ["Moist"],
+"foodUses": ["Inner bark edible raw or dried"],
+"otherUses": ["Erosion control","Fragrant","Various medicinal uses reported","Windbreak","Extract of shoots as rooting hormone","Leaf buds for yellow dye","Bark for cork","Gum for glue","Gum for waterproofing","Roots and young branches for basketry","Seed fluff as stuffing material","Wood ashes as soap substitute","Inner bark for scouring pad","Wood for various uses","Wood for fuel"],
+"images": {
+  "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7647_1558125692_tn.jpg",
+  "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7647.jpg"
+},
+"toxic": "No",
+"spreadsVigorously": "No",
+"otherWarnings": ["Brittle branches","Grows quickly"],
+"evergreen": "No",
+"propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Pseudotsuga menziesii"],
+  "commonNames": ["Douglas Fir","Douglas-Fir"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun"],
+  "waterNeeds": ["Moist","Dry"],
+  "foodUses": ["Resin for gum","Leaves for tea","Young shoot tips edible"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Tolerates wind","Wood for various uses","Bark for brown dye","Bark for tanin","Bark for pitch","Bark for cork","Insect repellent","Resin for various uses","Wood for fuel"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7653_1558124952_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7653.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Quercus garryana"],
+  "commonNames": ["Oregon White Oak","Garry Oak"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Dry","Moist","Drought tolerant"],
+  "foodUses": ["Seeds raw","Seeds crushed into meal for thickener and baking","Seed roasted as coffee substitute"],
+  "flowerColor": ["Green"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Leaf mulch repels slugs, grubs","Wood for various uses","Tolerates wind"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN3032_1558124636_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN3032.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Rhamnus purshiana"],
+  "commonNames": ["Cascara","Cascara Sagrada"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+  "waterNeeds": ["Moist","Drought tolerant"],
+  "flowerColor": ["Green"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "foodUses": [],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG39421_1558125693_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/DIG39421.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "No",
+  "otherWarnings": ["Consumption in excess causes cramps, diarrhea"],
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Salix scouleriana"],
+  "commonNames": ["Scouler's Willow"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Moist","Dry","Drought tolerant"],
+  "foodUses": [],
+  "flowerColor": ["Yellow","Green"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Roots and young branches for basketry","Bark for rope"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG36245_1558124796_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2014/DIG36245.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "Yes",
+  "otherWarnings": ["Grows quickly"],
+  "evergreen": "No"
+},
+{
+  "scientificNames": ["Salix sitchensis"],
+  "commonNames": ["Sitka Willow"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun"],
+  "waterNeeds": ["Moist","Wet"],
+  "flowerColor": ["Green","Yellow"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "foodUses": ["Inner bark dried and ground for thickening and baking"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Roots and stems for basketry"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/15SALSIT_F_32807010_1558125642_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15SALSIT_F_32807010.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "Yes",
+  "evergreen": "No"
+},
+{
+  "scientificNames": ["Taxus brevifolia"],
+  "commonNames": ["Pacific Yew"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+  "waterNeeds": ["Moist","Dry"],
+  "foodUses": ["Fruits edible"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Tolerates pollution","Tolerates wind","Wood for various uses"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7677_1558125663_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7677.jpg"
+  },
+  "toxic": "Yes",
+  "spreadsVigorously": "No",
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Thuja plicata"],
+  "commonNames": ["Western Red Cedar","Giant Cedar","Incense Cedar"],
+  "type": "Tree",
+  "lightNeeds": ["Part Shade","Shade"],
+  "waterNeeds": ["Moist"],
+  "foodUses": ["Inner bark dried and ground for thickening and baking","Pitch for gum"],
+  "otherUses": ["Erosion control","Fragrant","Various medicinal uses reported","Windbreak","Bark for insulation, shelter, padding","Branches for rope","Roots for basketry and weaving","Leaves for green dye","Wood for various uses","Resistant to decay","Wood burns quickly"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22255_1558125652_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22255.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "Yes"
+},
+{
+  "scientificNames": ["Tsuga heterophylla"],
+  "commonNames": ["Western Hemlock"],
+  "type": "Tree",
+  "lightNeeds": ["Part Sun","Part Shade","Shade"],
+  "waterNeeds": ["Moist"],
+  "foodUses": ["Inner bark dried and ground for thickening and baking","Inner bark as sweetner and flavoring","Leaves and shoot tips for tea"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Wood for various uses","Slow burning wood","Bark for brown dye"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22339_1558125693_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22339.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Shallow roots","Succeptible to winds","Low pollution tolerance"],
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Tsuga mertensiana"],
+  "commonNames": ["Mountain Hemlock"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Moist"],
+  "foodUses": ["Inner bark dried and ground for thickening and baking","Leaves and shoot tips for tea"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Fragrant","Bark for brown dye"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22340_1558125649_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22340.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "Yes",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Crataegus douglasii","Crataegus suksdorfii"],
+  "commonNames": ["Black Hawthorn","Douglas' Thornapple"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Dry","Moist"],
+  "flowerColor": ["White"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "foodUses": ["Fruit edible raw or cooked"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Fragrant","Spines used as needle","Wood for carving","Tolerates pollution","Tolerates wind"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23880_1558124641_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG23880.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Thicket-forming","Thorns","Grows slowly"],
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Salix lasiandra"],
+  "commonNames": ["Pacific Willow","Shining Willow"],
+  "type": "Tree",
+  "lightNeeds": ["Sun","Part Sun"],
+  "waterNeeds": ["Moist","Wet"],
+  "wildlifeSupport": ["Bees"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Stems, branches,  twigs for basketry"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/202106/DIG51622_1623464300_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG51622.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Grows quickly"],
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
+  "scientificNames": ["Acer circinatum"],
+  "commonNames": ["Vine Maple","Multi-Trunked Vine Maple"],
+  "type": "Tree",
+  "lightNeeds": ["Part Sun","Part Shade","Shade"],
+  "waterNeeds": ["Dry","Moist"],
+  "flowerColor": ["White"],
+  "foodUses": ["Sap for sugar, sweetener"],
+  "wildlifeSupport": ["Bees","Butterflies"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Wood for various uses","Shoots for basketry","Charcoal from wood for black paint"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/ACE_CIR_1270B_1558125653_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ACE_CIR_1270B.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+}
+]

@@ -4,11 +4,11 @@
   "commonNames": ["Yarrow","Common Yarrow"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
-  "waterNeeds": ["Dry"],
+  "waterNeeds": ["Dry","Drought tolerant"],
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Butterflies"],
   "foodUses": ["Leaves, stems, flowers are edible"],
-  "otherUses": ["Various medicinal uses reported","Fragrant","Drought tolerant"],
+  "otherUses": ["Various medicinal uses reported","Fragrant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN9159_1558124797_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN9159.jpg"
@@ -321,10 +321,9 @@
   "commonNames": ["Collomia","Large Flowered Collomia","Grand collomia"],
   "type": "Annual",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
-  "waterNeeds": ["Moist","Dry"],
+  "waterNeeds": ["Moist","Dry","Drought tolerant"],
   "flowerColors": ["Blue","Orange","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUses":"Drought tolerant",
   "images": {
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14870_1492399167_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14870.jpg"
@@ -888,10 +887,10 @@
   "commonNames": ["Hooker's Fairybells","Hooker's Bells","Drops of Gold","Drops-of-Gold"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Shade"],
-  "waterNeeds": ["Moist","Dry"],
+  "waterNeeds": ["Moist","Dry","Drought tolerant"],
   "flowerColors": ["White"],
   "wildlifeSupport": ["Bees","Hummingbirds"],
-  "otherUses": ["Erosion control","Drought tolerant"],
+  "otherUses": ["Erosion control"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/PRO_HOO_2353B_1558125025_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/PRO_HOO_2353B.jpg"
@@ -920,10 +919,10 @@
   "commonNames": ["Self-Heal","Heal-All","Heal All","Self Heal"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
-  "waterNeeds": ["Moist","Dry"],
+  "waterNeeds": ["Moist","Dry","Drought tolerant"],
   "flowerColors": ["Purple"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUses": ["Various medicinal uses reported","Drought tolerant"],
+  "otherUses": ["Various medicinal uses reported"],
   "images": {
     "small": "https://oregonflora.org/imglib/misc/201905/PRU_VUL_LAN_3119B_1558125859_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PRU_VUL_LAN_3119B.jpg"
@@ -1073,10 +1072,10 @@
   "commonNames": ["Douglas’ aster","Aster subspicatus"],
   "type": "Perennial",
   "lightNeeds": ["Sun","Part Sun","Part Shade"],
-  "waterNeeds": ["Dry","Moist"],
+  "waterNeeds": ["Dry","Moist","Drought tolerant"],
   "flowerColors": ["Purple","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUses": ["Erosion control","Drought tolerant"],
+  "otherUses": ["Erosion control"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg"

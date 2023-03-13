@@ -4,8 +4,8 @@
   "commonNames": ["Northern Maidenhair Fern", "Maidenhair Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Shade"],
-  "waterNeeds": "Moist",
-  "otherUses": ["Various medicinal uses reported","Drought tolerant"],
+  "waterNeeds": ["Moist","Drought tolerant"],
+  "otherUses": ["Various medicinal uses reported"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7326_1558125740_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7326.jpg"

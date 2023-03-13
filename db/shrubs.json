@@ -79,11 +79,11 @@
     "commonNames": ["Oregon grape","Shining Oregon Grape","Mahonia","Oregon Holly"],
     "type": "Shrub",
     "lightNeeds": "Part shade",
-    "waterNeeds": "Dry",
+    "waterNeeds": ["Dry","Drought tolerant"],
     "flowerColors": ["Yellow"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
     "foodUses": ["Edible berries"],
-    "otherUses": ["Various medicinal uses reported","Erosion control","Drought tolerant"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/BER_AQU_9173B_1558124907_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/BER_AQU_9173B.jpg"
@@ -210,11 +210,11 @@
     "commonNames": ["Oceanspray","Creambrush"],
     "type": "Shrub",
     "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
-    "waterNeeds": "Dry",
+    "waterNeeds": ["Dry","Drought tolerant"],
     "flowerColors": ["White"],
     "wildlifeSupport": ["Butterflies","Bees"],
     "foodUses": ["Fruit edible raw or cooked"],
-    "otherUses": ["Various medicinal uses reported","Wood has various uses","Erosion control","Drought tolerant"],
+    "otherUses": ["Various medicinal uses reported","Wood has various uses","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/15DIG24535_1558125709_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15DIG24535.jpg"
@@ -312,6 +312,25 @@
     },
     "toxic": "No",
     "spreadsVigorously": "No",
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": ["Prunus emarginata"],
+    "commonNames": ["Bitter Cherry"],
+    "type": "Shrub",
+    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "waterNeeds": ["Dry","Moist"],
+    "flowerColor": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruit edible cooked, though bitter tasting"],
+    "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Leaves and fruit for dye","Roots and barks for basketry and weaving","Wood for fuel"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG28886_1492399696_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1539/DIG28886.jpg"
+    },
+    "spreadsVigorously": "No",
+    "otherWarnings": ["No specific mention for this species, Some members of this genus are mildly toxic.","Avoid consuming in large quantities"],
     "evergreen": "No",
     "propagationNeeds": "Stratification"
   },
@@ -534,10 +553,10 @@
     "commonNames": ["Blue Elderberry"],
     "type": "Shrub",
     "lightNeeds": ["Sun","Part Sun","Part Shade"],
-    "waterNeeds": ["Moist","Dry"],
+    "waterNeeds": ["Moist","Dry","Drought tolerant"],
     "flowerColors": ["White"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-    "otherUses": ["Various medicinal uses reported","Erosion control","Drought tolerant","Fragrant","Dye"],
+    "otherUses": ["Various medicinal uses reported","Erosion control","Fragrant","Dye"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201807/DIG49446_1532541180_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2017/DIG49446.jpg"
@@ -666,11 +685,11 @@
     "commonNames": ["Common Viburnum","Oval-Leaved Viburnum"],
     "type": "Shrub",
     "lightNeeds": ["Sun","Part Sun","Part Shade"],
-    "waterNeeds": ["Dry"],
+    "waterNeeds": ["Dry","Drought tolerant"],
     "flowerColors": ["White"],
     "wildlifeSupport": ["Bees","Butterflies"],
     "foodUses": ["Edible berries"],
-    "otherUses": ["Erosion control","Various medicinal uses reported","Drought tolerant"],
+    "otherUses": ["Erosion control","Various medicinal uses reported"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11024_1558125719_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG11024.jpg"
