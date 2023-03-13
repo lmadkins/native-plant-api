@@ -3,7 +3,7 @@
     "scientificNames": "Carex densa",
     "commonNames": "Dense Sedge",
     "type": "Grass",
-    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
@@ -17,7 +17,7 @@
     "scientificNames": "Carex obnupta",
     "commonNames": "Slough Sedge",
     "type": "Grass",
-    "lightNeeds": ["Sun","Part Sun","Part Shade","Shade"],
+    "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
     "waterNeeds": ["Moist","Wet","Drought tolerant"],
     "otherUses": ["Erosion control"],
     "images": {
@@ -75,7 +75,7 @@
     "scientificNames": "Juncus balticus",
     "commonNames": "Baltic Rush",
     "type": "Grass",
-    "lightNeeds": ["Sun","Part Sun"],
+    "lightNeeds": ["Full Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
@@ -89,7 +89,7 @@
     "scientificNames": ["Juncus effusus ssp. pacificus","Juncus effusus"],
     "commonNames": ["Pacific Rush", "Pasture Rush"],
     "type": "Grass",
-    "lightNeeds": ["Sun","Part Sun"],
+    "lightNeeds": ["Full Sun","Part Sun"],
     "waterNeeds": ["Dry","Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
@@ -105,7 +105,7 @@
     "scientificNames": "Juncus ensifolius",
     "commonNames": ["Dagger-Leaf Rush","Dagger-Leaved Rush"],
     "type": "Grass",
-    "lightNeeds": ["Sun","Part Sun"],
+    "lightNeeds": ["Full Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
     "otherUses": ["Erosion control"],
     "images": {
@@ -121,7 +121,7 @@
     "scientificNames": "Juncus patens",
     "commonNames": ["Spreading Blue Rush","Spreading Rush"],
     "type": "Grass",
-    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
     "waterNeeds": "Moist",
     "otherUses": ["Erosion control"],
     "images": {
@@ -153,7 +153,7 @@
     "scientificNames": "Typha latifolia",
     "commonNames": ["Common cattail","Cattail","Broad-leaf cat-tail"],
     "type": "Grass",
-    "lightNeeds": ["Sun","Part Sun","Part Shade"],
+    "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
     "waterNeeds": "Wet",
     "foodUses": ["Inner shoots, spikes, rhizome core, and pollen are edible"],
     "otherUses": ["Erosion control","Improves water quality"],

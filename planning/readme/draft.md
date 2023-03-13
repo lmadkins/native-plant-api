@@ -47,7 +47,9 @@ Plants listed "No" as toxic to humans may be toxic to pets, or be harmful in lar
 
 [Oregon Flora](https://oregonflora.org/garden/index.php)
 
-[Washington Native Plant Society](https://www.wnps.org/native-plant-directory?start=0)
+[Washington Native Plant Society](https://www.wnps.org/native-plant-directory)
+
+[Gardenia](https://www.gardenia.net/plants/plant-types)
 
 [Plants For A Future](https://pfaf.org/USER/Default.aspx)
 
