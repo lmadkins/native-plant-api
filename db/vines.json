@@ -2,11 +2,11 @@
   {
     "scientificNames": "Lonicera ciliosa",
     "commonNames": ["Orange Honeysuckle","Orange Honeysuckle Vine","Western Trumpet Honeysuckle"],
-    "type": "Vine",
+    "type": ["Vine"],
     "lightNeeds": ["Part Sun","Part Shade","Full Shade"],
     "waterNeeds": ["Moist","Dry"],
     "flowerColors": ["Red","Orange"],
-    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
     "foodUses": ["Fruit, nectar, and leaves are edible"],
     "otherUses": ["Various medicinal uses reported"],
     "images": {
@@ -18,11 +18,11 @@
   {
     "scientificNames": "Lonicera hispidulaa",
     "commonNames": ["Pink Honeysuckle","Hairy Honeysuckle","California Honeysuckle"],
-    "type": "Vine",
+    "type": ["Small Shrub","Vine"],
     "lightNeeds": ["Part Sun","Part Shade"],
     "waterNeeds": ["Dry"],
     "flowerColors": ["Pink","Purple"],
-    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
     "otherUses": ["Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7859_1558125639_tn.jpg",
@@ -34,7 +34,7 @@
   {
     "scientificNames": "Rubus ursinus",
     "commonNames": ["Dewberry","Pacific Blackberry"],
-    "type": "Vine",
+    "type": ["Small Shrub","Vine"],
     "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
     "waterNeeds": ["Moist","Dry"],
     "flowerColors": ["White"],

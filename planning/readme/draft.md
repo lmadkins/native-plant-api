@@ -51,6 +51,8 @@ Plants listed "No" as toxic to humans may be toxic to pets, or be harmful in lar
 
 [Gardenia](https://www.gardenia.net/plants/plant-types)
 
+[USDA Plants Database](https://plants.usda.gov/home)
+
 [Plants For A Future](https://pfaf.org/USER/Default.aspx)
 
 [Native Plants for Willamette Valley Yards](https://www.oregonmetro.gov/sites/default/files/2020/06/30/native-plants-for-Willamette-Valley-yards-booklet-high-res-20200107.pdf)

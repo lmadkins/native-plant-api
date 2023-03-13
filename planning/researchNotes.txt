@@ -1,3 +1,13 @@
+Small tree 20-30ft
+
+Large Shrubs- (5ft to 20 ft)
+
+small shrubs- up to 5ft
+
+Large Tree - 
+
+
+
 Abies grandis
 grand fir, giant fir 
 lg tree
@@ -1070,6 +1080,7 @@ NOT: Portland Plant List, Oregon Flora
       "original": ""
     }
   },
+  "spreadsVigorously": "False",
   "toxic": "False",
   "spreadsVigorously": "False",
   "evergreen": "Yes"

@@ -2,9 +2,10 @@
   {
     "scientificNames": ["Abies grandis"],
     "commonNames": ["Grand Fir","Giant Fir"],
-    "type": "Tree",
+    "type": ["Large Tree"],
     "lightNeeds": ["Sun,","Part Sun","Part Shade"],
     "waterNeeds": ["Dry","Moist"],
+    "wildlifeSupport": ["Deer resistant"],
     "foodUses": ["Inner bark used as gum","Young shoot tips for tea"],
     "otherUses": ["Erosion control","Various medicinal uses reported","Fragrant","Windbreak","Pulp","Fuel","Incense","Insect Repellent","Incense","Dye","Waterproofing Material"],
     "images": {
@@ -20,7 +21,7 @@
 {
   "scientificNames": ["Acer circinatum"],
   "commonNames": ["Vine Maple","Multi-Trunked Vine Maple"],
-  "type": "Tree",
+  "type": ["Small Tree"],
   "lightNeeds": ["Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColor": ["White"],
@@ -39,7 +40,7 @@
 {
   "scientificNames": ["Acer macrophyllum"],
   "commonNames": ["Bigleaf Maple","Oregon Maple"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColor": ["White","Green"],
@@ -57,7 +58,7 @@
 {
   "scientificNames": ["Alnus rubra"],
   "commonNames": ["Red Alder","Oregon Alder"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Wet"],
   "foodUses": ["Catkins edible raw or cooked","Inner bark dried and ground for thickening and baking"],
@@ -74,7 +75,7 @@
 {
   "scientificNames": ["Arbutus menziesii"],
   "commonNames": ["Pacific Madrone","Madrona"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Drought tolerant"],
   "flowerColor": ["White"],
@@ -92,9 +93,9 @@
 {
   "scientificNames": ["Calocedrus decurrens"],
   "commonNames": ["Incense Cedar"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
-  "waterNeeds": ["Dry","Moist"],
+  "waterNeeds": ["Dry","Moist","Drought tolerant"],
   "otherUses": ["Fragrant","Erosion control","Various medicinal uses reported","Windbreak","Boughs and twigs for brooms","Roots and barks for basketry and weaving","Wood for various uses"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7615_1558125697_tn.jpg",
@@ -109,7 +110,7 @@
 {
   "scientificNames": ["Cornus nuttallii"],
   "commonNames": ["Pacific Dogwood","Western Dogwood","Mountain Dogwood"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColor": ["White"],
@@ -125,12 +126,33 @@
   "propagationNeeds": "Stratification"
 },
 {
+  "scientificNames": ["Crataegus douglasii","Crataegus suksdorfii"],
+  "commonNames": ["Black Hawthorn","Douglas' Thornapple"],
+  "type": ["Small Tree","Shrub"],
+  "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
+  "waterNeeds": ["Dry","Moist"],
+  "flowerColor": ["White"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "foodUses": ["Fruit edible raw or cooked"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Fragrant","Spines used as needle","Wood for carving","Tolerates pollution","Tolerates wind"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23880_1558124641_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG23880.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Thicket-forming","Thorns","Grows slowly"],
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
   "scientificNames": ["Fraxinus latifolia"],
   "commonNames": ["Oregon Ash"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Wet"],
   "flowerColor": ["Green"],
+  "wildlifeSupport": ["Deer resistant"],
   "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Tolerates pollution","Wood for timber"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/FRA_LAT_5873B_1558125640_tn.jpg",
@@ -144,7 +166,7 @@
 {
   "scientificNames": ["Malus fusca"],
   "commonNames": ["Western Crabapple","Oregon Crabapple","Pacific Crabapple"],
-  "type": "Tree",
+  "type": ["Small Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Wet"],
   "flowerColor": ["White"],
@@ -164,7 +186,7 @@
 {
   "scientificNames": ["Pinus ponderosa"],
   "commonNames": ["Ponderosa Pine","Washoe Pine","Lodgepole Pine"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Dry","Moist","Drought tolerant"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Seeds crushed into meal","Resin used as gum","Resin used for flavoring","Branches as stewing herb"],
@@ -181,7 +203,7 @@
 {
   "scientificNames": ["Populus tremuloides"],
   "commonNames": ["Quaking Aspen","American Aspen"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun"],
   "waterNeeds": ["Moist","Drought tolerant"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Catkins edible raw or cooked"],
@@ -199,7 +221,7 @@
 {
 "scientificNames": ["Populus trichocarpa"],
 "commonNames": ["Black Cottonwood","Western Basalm Poplar"],
-"type": "Tree",
+"type": ["Large Tree"],
 "lightNeeds": ["Full Sun","Part Sun"],
 "waterNeeds": ["Moist"],
 "foodUses": ["Inner bark edible raw or dried"],
@@ -217,7 +239,7 @@
 {
   "scientificNames": ["Prunus emarginata"],
   "commonNames": ["Bitter Cherry"],
-  "type": "Shrub",
+  "type": ["Small Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist"],
   "flowerColor": ["White"],
@@ -234,28 +256,9 @@
   "propagationNeeds": "Stratification"
 },
 {
-  "scientificNames": ["Prunus virginiana"],
-  "commonNames": ["Chokecherry","Western Chokecherry"],
-  "type": "Shrub",
-  "lightNeeds": ["Full Sun","Part Sun"],
-  "waterNeeds": "Moist",
-  "flowerColors": ["White"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUses": ["Fruit and seeds edible raw (usually dried), or cooked"],
-  "otherUses": ["Various medicinal uses reported","Erosion control"],
-  "images": {
-    "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG13690_1492398902_tn.jpg",
-    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1253/DIG13690.jpg"
-  },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "otherWarnings": ["May be toxic in large quantities"],
-  "evergreen": "No"
-},
-{
   "scientificNames": ["Pseudotsuga menziesii"],
   "commonNames": ["Douglas Fir","Douglas-Fir"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
   "foodUses": ["Resin for gum","Leaves for tea","Young shoot tips edible"],
@@ -272,9 +275,10 @@
 {
   "scientificNames": ["Quercus garryana"],
   "commonNames": ["Oregon White Oak","Garry Oak"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist","Drought tolerant"],
+  "wildlifeSupport": ["Deer resistant"],
   "foodUses": ["Seeds raw","Seeds crushed into meal for thickener and baking","Seed roasted as coffee substitute"],
   "flowerColor": ["Green"],
   "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Leaf mulch repels slugs, grubs","Wood for various uses","Tolerates wind"],
@@ -290,7 +294,7 @@
 {
   "scientificNames": ["Rhamnus purshiana"],
   "commonNames": ["Cascara","Cascara Sagrada"],
-  "type": "Tree",
+  "type": ["Small Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Drought tolerant"],
   "flowerColor": ["Green"],
@@ -309,7 +313,7 @@
 {
   "scientificNames": ["Salix scouleriana"],
   "commonNames": ["Scouler's Willow"],
-  "type": "Tree",
+  "type": ["Small Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry","Drought tolerant"],
   "flowerColor": ["Yellow","Green"],
@@ -324,9 +328,27 @@
   "evergreen": "No"
 },
 {
+  "scientificNames": ["Salix lasiandra"],
+  "commonNames": ["Pacific Willow","Shining Willow"],
+  "type": ["Small Tree","Large Tree"],
+  "lightNeeds": ["Full Sun","Part Sun"],
+  "waterNeeds": ["Moist","Wet"],
+  "wildlifeSupport": ["Bees"],
+  "otherUses": ["Erosion control","Various medicinal uses reported","Stems, branches,  twigs for basketry"],
+  "images": {
+    "small": "https://oregonflora.org/imglib/OF_FP/202106/DIG51622_1623464300_tn.jpg",
+    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG51622.jpg"
+  },
+  "toxic": "No",
+  "spreadsVigorously": "No",
+  "otherWarnings": ["Grows quickly"],
+  "evergreen": "No",
+  "propagationNeeds": "Stratification"
+},
+{
   "scientificNames": ["Salix sitchensis"],
   "commonNames": ["Sitka Willow"],
-  "type": "Tree",
+  "type": ["Small Tree"],
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Wet"],
   "flowerColor": ["Green","Yellow"],
@@ -344,7 +366,7 @@
 {
   "scientificNames": ["Taxus brevifolia"],
   "commonNames": ["Pacific Yew"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "foodUses": ["Fruits edible"],
@@ -361,7 +383,7 @@
 {
   "scientificNames": ["Thuja plicata"],
   "commonNames": ["Western Red Cedar","Giant Cedar","Incense Cedar"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": ["Moist"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Pitch for gum"],
@@ -377,9 +399,10 @@
 {
   "scientificNames": ["Tsuga heterophylla"],
   "commonNames": ["Western Hemlock"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist"],
+  "wildlifeSupport": ["Deer resistant"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Inner bark as sweetner and flavoring","Leaves and shoot tips for tea"],
   "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Wood for various uses","Slow burning wood","Bark for brown dye"],
   "images": {
@@ -395,9 +418,10 @@
 {
   "scientificNames": ["Tsuga mertensiana"],
   "commonNames": ["Mountain Hemlock"],
-  "type": "Tree",
+  "type": ["Large Tree"],
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist"],
+  "wildlifeSupport": ["Deer resistant"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Leaves and shoot tips for tea"],
   "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Fragrant","Bark for brown dye"],
   "images": {
@@ -407,44 +431,6 @@
   "toxic": "No",
   "spreadsVigorously": "No",
   "evergreen": "Yes",
-  "propagationNeeds": "Stratification"
-},
-{
-  "scientificNames": ["Crataegus douglasii","Crataegus suksdorfii"],
-  "commonNames": ["Black Hawthorn","Douglas' Thornapple"],
-  "type": "Tree",
-  "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
-  "waterNeeds": ["Dry","Moist"],
-  "flowerColor": ["White"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUses": ["Fruit edible raw or cooked"],
-  "otherUses": ["Erosion control","Various medicinal uses reported","Windbreak","Fragrant","Spines used as needle","Wood for carving","Tolerates pollution","Tolerates wind"],
-  "images": {
-    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23880_1558124641_tn.jpg",
-    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG23880.jpg"
-  },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "otherWarnings": ["Thicket-forming","Thorns","Grows slowly"],
-  "evergreen": "No",
-  "propagationNeeds": "Stratification"
-},
-{
-  "scientificNames": ["Salix lasiandra"],
-  "commonNames": ["Pacific Willow","Shining Willow"],
-  "type": "Tree",
-  "lightNeeds": ["Full Sun","Part Sun"],
-  "waterNeeds": ["Moist","Wet"],
-  "wildlifeSupport": ["Bees"],
-  "otherUses": ["Erosion control","Various medicinal uses reported","Stems, branches,  twigs for basketry"],
-  "images": {
-    "small": "https://oregonflora.org/imglib/OF_FP/202106/DIG51622_1623464300_tn.jpg",
-    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG51622.jpg"
-  },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "otherWarnings": ["Grows quickly"],
-  "evergreen": "No",
   "propagationNeeds": "Stratification"
 }
 ]

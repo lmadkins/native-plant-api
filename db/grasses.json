@@ -19,7 +19,7 @@
     "type": "Grass",
     "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
     "waterNeeds": ["Moist","Wet","Drought tolerant"],
-    "otherUses": ["Erosion control"],
+    "otherUses": ["Green infrastructure","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11723_1558124761_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11723.jpg"
@@ -29,11 +29,11 @@
   },
   {
     "scientificNames": "Deschampsia cespitosa",
-    "commonNames": ["Tufted hairgrass"],
+    "commonNames": ["Tufted hairgrass","Hair Grass"],
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": ["Moist","Dry"],
-    "otherUses": ["Erosion control"],
+    "otherUses": ["Green infrastructure","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14915_1558125744_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14915.jpg"
@@ -63,7 +63,7 @@
     "type": "Grass",
     "lightNeeds": ["Part Sun","Part Shade"],
     "waterNeeds": ["Moist","Dry","Drought tolerant"],
-    "otherUses": ["Green Roofs"],
+    "otherUses": ["Green infrastructure"],
     "images": {
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG12491_1492398816_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1251/DIG12491.jpg"
@@ -77,7 +77,7 @@
     "type": "Grass",
     "lightNeeds": ["Full Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
-    "otherUses": ["Erosion control"],
+    "otherUses": ["Green infrastructure","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG38912_1492398378_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/DIG38912.jpg"
@@ -91,7 +91,7 @@
     "type": "Grass",
     "lightNeeds": ["Full Sun","Part Sun"],
     "waterNeeds": ["Dry","Moist","Wet"],
-    "otherUses": ["Erosion control"],
+    "otherUses": ["Green infrastructure","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG2790_1492399365_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1116/DIG2790.jpg"
@@ -107,7 +107,7 @@
     "type": "Grass",
     "lightNeeds": ["Full Sun","Part Sun"],
     "waterNeeds": ["Moist","Wet"],
-    "otherUses": ["Erosion control"],
+    "otherUses": ["Green infrastructure","Erosion control"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG24641_1558125639_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG24641.jpg"
@@ -123,7 +123,7 @@
     "type": "Grass",
     "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
     "waterNeeds": "Moist",
-    "otherUses": ["Erosion control"],
+    "otherUses": ["Erosion control","Green infrastructure"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG41751_1558125732_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG41751.jpg"
@@ -141,7 +141,7 @@
     "waterNeeds": "Dry",
     "flowerColor": ["Yellow"],
     "wildlifeSupport": ["Bees"],
-    "otherUses": ["Green Roofs","Grazing","Rangeland revegetation"],
+    "otherUses": ["Green infrastructure","Grazing","Rangeland revegetation"],
       "images": {
         "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG12792_1558124777_tn.jpg",
         "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG12792_1558124777_tn.jpg"

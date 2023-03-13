@@ -6,7 +6,7 @@
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Drought tolerant"],
   "flowerColors": ["White"],
-  "wildlifeSupport": ["Bees","Butterflies"],
+  "wildlifeSupport": ["Bees","Butterflies","Deer resistant"],
   "foodUses": ["Leaves, stems, flowers are edible"],
   "otherUses": ["Various medicinal uses reported","Fragrant"],
   "images": {
@@ -17,8 +17,8 @@
   "spreadsVigorously": "Yes",
   "otherWarnings": "Potentially toxic to pets",
   "plantingSeason": ["Spring","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Achlys triphylla",
   "commonNames": ["Vanilla Leaf","Deer's Foot"],
   "type": "Perennial",
@@ -34,8 +34,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Actaea rubra",
   "commonNames": ["Baneberry","Western Red Baneberry"],
   "type": "Perennial",
@@ -52,8 +52,8 @@
   "otherWarnings": ["All parts of the plant are toxic to humans and pets"],
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Allium accuminatum",
   "commonNames": ["Hooker’s Onion","Taper-Tip Onion"],
   "type": "Perennial",
@@ -70,8 +70,8 @@
   "otherWarnings": "Potentially toxic to pets",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Allium cernuum",
   "commonNames": ["Nodding Onion","Lady's Leek"],
   "type": "Perennial",
@@ -80,7 +80,7 @@
   "flowerColors": ["Pink"],
   "wildlifeSupport": ["Bees", "Hummingbirds", "Butterflies"],
   "foodUses": ["Leaves and bulbs edible raw, or cooked"],
-  "otherUses": ["Green Roofs","Leaves repel insects","Various medicinal uses reported","Fragrant"],
+  "otherUses": ["Green infrastructure","Leaves repel insects","Various medicinal uses reported","Fragrant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/09ALLCER_HAL87328_FL_1558124850_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1381/09ALLCER_HAL87328_FL.jpg"
@@ -90,9 +90,8 @@
   "otherWarnings": "Potentially toxic to pets",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-  
-},
-{
+  },
+  {
   "scientificNames": "Anaphalis margaritacea",
   "commonNames": ["Pearly Everlasting"],
   "type": "Perennial",
@@ -109,15 +108,15 @@
   "toxic": "No",
   "spreadsVigorously": "Yes",
   "plantingSeason": ["Spring","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Aquilegia formosa",
   "commonNames": ["Red Columbine","Western Columbine","Sitka Columbine","Crimson Columbine"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist"],
   "flowerColors": ["Red","Orange"],
-  "wildlifeSupport": ["Bees","Butterflies","Hummingbirds"],
+  "wildlifeSupport": ["Bees","Butterflies","Hummingbirds","Deer resistant"],
   "foodUses": ["Flowers edible raw"],
   "otherUses": ["Various medicinal uses reported"],
   "images": {
@@ -127,8 +126,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Asarum caudatum",
   "commonNames": ["Wild Ginger","Western Wild Ginger","Long-Tailed Wild Ginger"],
   "type": "Perennial",
@@ -136,6 +135,7 @@
   "waterNeeds": "Moist",
   "flowerColors": ["Red","Purple"],
   "foodUses": ["Roots edible"],
+  "wildlifeSupport": ["Deer resistant"],
   "otherUses": ["Various medicinal uses reported"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11469_1558125727_tn.jpg",
@@ -145,8 +145,8 @@
   "otherWarnings": ["May be toxic in large amounts", "Difficult to grow from seed"],
   "propagationNeeds": "Stratification",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Asclepias speciosa",
   "commonNames": ["Showy Milkweed"],
   "type": "Perennial",
@@ -164,11 +164,10 @@
   "propagationNeeds": "Stratification",
   "otherWarnings": ["Potentially toxic in large amounts.","Direct sowing not recommended."],
   "plantingSeason": ["Winter","Fall"]
-},
-
-{
+  },
+  {
   "scientificNames": "Boykinia major",
-  "commonNames": ["Large Boykinia","Tall Boykinia"],
+  "commonNames": ["Large Boykinia","Stream Boykinia","Mountain Brookfoam","Tall Boykinia"],
   "type": "Perennial",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": "Moist",
@@ -181,8 +180,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": ["Camassia leichtlinii","Cammasia leichtlinii"],
   "commonNames": ["Great Camas","Tall Camas"],
   "type": "Perennial",
@@ -191,7 +190,7 @@
   "flowerColors": ["Purple","Blue","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "foodUses": ["Bulbs edible raw, or cooked"],
-  "otherUses": ["Green Roofs"],
+  "otherUses": ["Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG3596_1558125759_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1127/DIG3596.jpg"
@@ -200,8 +199,8 @@
   "otherWarnings": "May take a few years to bloom if established from seed.",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
-},
-{
+  },
+  {
   "scientificNames": ["Camassia quamash","Cammasia quamash"],
   "commonNames": ["Common Camas"],
   "type": "Perennial",
@@ -210,7 +209,7 @@
   "flowerColors": ["Purple","Blue","White"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
   "foodUses": ["Bulbs edible raw, or cooked"],
-  "otherUses": ["Green Roofs"],
+  "otherUses": ["Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN3222_1558124568_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN3222.jpg"
@@ -219,8 +218,8 @@
   "otherWarnings": "May take a few years to bloom if established from seed.",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
-},
-{
+  },
+  {
   "scientificNames": "Campanula rotundifolia",
   "commonNames": ["Common Harebell","Harebell","Bluebell Bellflower"],
   "type": "Perennial",
@@ -236,8 +235,8 @@
   },
   "toxic": "No",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": ["Aster subspicatus","Canadanthus modestus"],
   "commonNames": ["Great Northern Aster","Few-Flowered Aster"],
   "type": "Perennial",
@@ -249,11 +248,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14782_1558124890_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14782.jpg"
   },
-
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Chamaenerion angustifolium",
   "commonNames": ["Fireweed","Willow Herb"],
   "type": "Perennial",
@@ -271,10 +269,10 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": ["Circaea alpina","Circaea alpina ssp. pacifica"],
-  "commonNames": ["Enchanter’s Nightshade"],
+  "commonNames": ["Enchanter’s Nightshade","Small Enchanter's Nightshade"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": "Moist",
@@ -284,9 +282,10 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/CIR_ALP_PAC_4165B_1492398912_tn.jpg",
     "original": "https://oregonflora.org/imglib/_OFPFP/201704/CIR_ALP_PAC_4165B_1492398912_tn.jpg"
   },
+  "toxic": "No",
   "spreadsVigorously": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Clarkia amoena",
   "commonNames": ["Farewell-to-Spring","Satin Flower"],
   "type": "Annual",
@@ -300,8 +299,8 @@
   },
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter","Spring"]
-},
-{
+  },
+  {
   "scientificNames": "Collinsia parviflora",
   "commonNames": ["Small Blue-Eyed Mary"],
   "type": "Annual",
@@ -315,10 +314,10 @@
   },
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
-  "scientificNames": ["Collomia grandiflora","Collimia grandiflorum"],
-  "commonNames": ["Collomia","Large-Flowered Collomia","Grand collomia"],
+  },
+  {
+  "scientificNames": ["Collomia grandiflora","Collomia grandiflorum"],
+  "commonNames": ["Collomia","Large-Flowered Collomia","Grand Collomia"],
   "type": "Annual",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry","Drought tolerant"],
@@ -331,9 +330,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter","Spring"]
-},
-
-{
+  },
+  {
   "scientificNames": "Cornus unalaschkensis",
   "commonNames": ["Bunchberry"],
   "type": "Perennial",
@@ -348,8 +346,8 @@
     },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Corydalis scouleri",
   "commonNames": ["Scouler’s Corydalis"],
   "type": "Perennial",
@@ -364,15 +362,15 @@
   "toxic": "No",
   "otherWarnings":["Potentially toxic to pets in large quanitities"],
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Dicentra formosa",
   "commonNames": ["Pacific Bleeding Heart","Woodland Bleeding Heart","Oregon Bleeding Heart"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": "Moist",
   "flowerColors": ["Pink","Purple"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
   "otherUses":["Various medicinal uses reported"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30127_1558124664_tn.jpg",
@@ -382,8 +380,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
-},
-{
+  },
+  {
   "scientificNames": "Dichelostemma congestum",
   "commonNames": ["Cluster Lily","Ookow","Clustered Ookow"],
   "type": "Perennial",
@@ -397,8 +395,8 @@
   },
   "propagationNeeds": "Stratification",
   "plantingSeason": "Fall"
-},
-{
+  },
+  {
   "scientificNames": "Dodecatheon hendersonii",
   "commonNames": ["Henderson’s Shooting Star","Sailor-Caps"],
   "type": "Perennial",
@@ -414,17 +412,17 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
-},
-{
+  },
+  {
   "scientificNames": "Erigeron speciosus",
   "commonNames": ["Showy Fleabane"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Yellow","Purple"],
-  "wildlifeSupport": ["Bees","Butterflies"],
+  "wildlifeSupport": ["Bees","Butterflies","Deer resistant"],
   "foodUses": ["Edible when boiled"],
-  "otherUses": ["Green Roofs"],
+  "otherUses": ["Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG43199_1558124972_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG43199.jpg"
@@ -432,8 +430,8 @@
   "toxic": ["No"],
   "otherWarnings": "Should not be consumed if pregnant- may cause miscarriages.",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Eriophyllum lanatum",
   "commonNames": ["Oregon Sunshine","Wooly Sunflower"],
   "type": "Perennial",
@@ -441,7 +439,7 @@
   "waterNeeds": "Dry",
   "flowerColors": ["Yellow"],
   "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUses": ["Erosion control","Green Roofs"],
+  "otherUses": ["Erosion control","Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30654_1558124591_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30654.jpg"
@@ -451,8 +449,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
-},
-{
+  },
+  {
   "scientificNames": ["Erythranthe guttata","Mimulus guttatus"],
   "commonNames": ["Seep Monkeyflower","Yellow Monkeyflower","Monkeyflower"],
   "type": "Perennial",
@@ -470,8 +468,8 @@
   "spreadsVigorously": "Yes",
   "otherWarnings": "Spreads aggressively in its preferred conditions",
   "plantingSeason": ["Spring","Winter"]
-},
-{
+  },
+  {
   "scientificNames": "Erythronium oregonum",
   "commonNames": ["White Fawn Lily", "Oregon Fawn Lily","Giant White Fawn Lily"],
   "type": "Perennial",
@@ -486,15 +484,15 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": "Fall"
-},
-{
+  },
+  {
   "scientificNames": "Fragaria vesca",
   "commonNames": ["Woodland Strawberry"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["White","Yellow"],
-  "wildlifeSupport": ["Bees","Butterflies"],
+  "wildlifeSupport": ["Bees","Butterflies","Deer resistant"],
   "foodUses": ["Edible berries"],
   "otherUses": ["Erosion control"],
   "images": {
@@ -504,15 +502,15 @@
   "toxic": "No",
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Fragaria virginiana",
   "commonNames": ["Wild Strawberry","Broad Petal Strawberry"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["White","Yellow"],
-  "wildlifeSupport": ["Bees","Butterflies"],
+  "wildlifeSupport": ["Bees","Butterflies","Deer resistant"],
   "foodUses": ["Edible berries"],
   "otherUses": ["Erosion control"],
   "images": {
@@ -521,8 +519,8 @@
   },
   "toxic": "No",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Fritillaria affinis",
   "commonNames": ["Checker Lily","Chocolate Lily"],
   "type": "Perennial",
@@ -537,8 +535,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": ["Gilia capitata","Gilia capitate"],
   "commonNames": ["Globe Gilia","Bluehead Gilia"],
   "type": "Annual",
@@ -546,7 +544,7 @@
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Blue","Purple"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUses": ["Green Roofs"],
+  "otherUses": ["Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG12591_1492398461_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1251/DIG12591.jpg"
@@ -554,9 +552,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter","Spring"]
-},
-
-{
+  },
+  {
   "scientificNames": "Goodyera oblongifolia",
   "commonNames": ["Rattlesnake Plantain"],
   "type": "Perennial",
@@ -571,8 +568,8 @@
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Heracleum maximum",
   "commonNames": ["Cow Parsnip"],
   "type": "Perennial",
@@ -589,8 +586,8 @@
   "toxic": "No",
   "otherWarnings": "Can cause dermatitis when touched",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Heuchera micrantha",
   "commonNames": ["Small-Flowered Alumroot", "Alumroot","Heuchera"],
   "type": "Perennial",
@@ -607,8 +604,8 @@
   "otherWarnings": "May be mildly toxic to pets",
   "evergreen": "Yes",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Hydrophyllum tenuipes",
   "commonNames": ["Pacific Waterleaf"],
   "type": "Perennial",
@@ -626,15 +623,15 @@
   "spreadsVigorously": "Yes",
   "otherWarnings": "Spreads aggressively in its preferred conditions",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Iris tenax",
   "commonNames": ["Oregon Iris","Tough-Leaf Iris"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Purple","White","Yellow"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
   "otherUses": ["Erosion control","Strong Fibers from leaves can be used for weaving and rope-making"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG43580_1558124852_tn.jpg",
@@ -643,9 +640,9 @@
   "otherWarnings": ["Not reported as toxic, but use caution, as many plants in this genus are toxic or can cause skin irritation"],
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
-},
+  },
 
-{
+  {
   "scientificNames": "Lilium columbianum",
   "commonNames": ["Tiger Lily","Columbia Lily"],
   "type": "Perennial",
@@ -661,8 +658,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Linnaea borealis",
   "commonNames": ["Twinflower","Western Twinflower"],
   "type": "Perennial",
@@ -678,15 +675,15 @@
     },
   "toxic": "No",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Lupinus polyphyllus",
   "commonNames": ["Large-Leaved Lupine","Bigleaf Lupine"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Purple","Blue"],
-  "wildlifeSupport": ["Bees","Hummingbirds"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Deer resistant"],
   "otherUses": ["Erosion control","Soil restoration"],
     "images": {
       "small": "https://oregonflora.org/imglib/OF_FP/201905/08AL00606_1558125764_tn.jpg",
@@ -697,15 +694,15 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Scarification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Lupinus rivularis",
   "commonNames": ["Riverbank Lupine","Streambank Lupine"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Purple","Blue"],
-  "wildlifeSupport": ["Bees","Hummingbirds"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Deer resistant"],
   "otherUses": ["Erosion control","Soil restoration","Fragrant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/LUP_RIV_0783B_1558124993_tn.jpg",
@@ -716,8 +713,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Scarification",
   "plantingSeason": ["Fall","Winter","Spring"]
-},
-{
+  },
+  {
   "scientificNames": "Lysichiton americanus",
   "commonNames": ["Skunk Cabbage","Swamp Lantern"],
   "type": "Perennial",
@@ -735,8 +732,8 @@
   "otherWarnings": "Unpleasant odor",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Maianthemum dilatatum",
   "commonNames": ["Wild Lily-of-the-Valley","False Lily-of-the-Valley","Beadruby"],
   "type": "Perennial",
@@ -754,8 +751,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": ["Maianthemum racemosum","Smilacina Maianthemum racemosum"],
   "commonNames": ["False Solomon’s Seal","Large False Solomon's Seal","Star-Flowered Solomon's Seal"],
   "type": "Perennial",
@@ -772,8 +769,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": ["Maianthemum stellatum","Smilacina Maianthemum stellata"],
   "commonNames": ["Starry False Solomon’s Seal","Small False Solomon's Seal"],
   "type": "Perennial",
@@ -790,8 +787,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Mitella caulescens",
   "commonNames": ["Leafy Mitrewort","Creeping Mitrewort","Star-Shaped Mitrewort"],
   "type": "Perennial",
@@ -802,8 +799,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN0975_1492398686_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/39/DSCN0975.jpg"
   }
-},
-{
+  },
+  {
   "scientificNames": "Olsynium douglasii",
   "commonNames": ["Grasswidow","Grass Widow"],
   "type": "Perennial",
@@ -815,15 +812,15 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/AL04953_1492398415_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1149/AL04953.jpg"
   }
-},
-{
+  },
+  {
   "scientificNames": "Oxalis oregana",
   "commonNames": ["Oregon Redwood Sorrel","Oregon Oxalis"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["White","Pink"],
-  "wildlifeSupport": ["Bees","Butterflies"],
+  "wildlifeSupport": ["Bees","Butterflies","Deer resistant"],
   "otherUses": ["Erosion control"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/OXA_ORE_2333B_1558125714_tn.jpg",
@@ -831,8 +828,8 @@
   },
   "toxic": "No",
   "spreadsVigorously": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Penstemon richardsonii",
   "commonNames": ["Richardson’s Penstemon","Cut-Leaved Penstemon","Cutleaf Beardtongue"],
   "type": "Perennial",
@@ -847,8 +844,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall","Spring"]
-},
-{
+  },
+  {
   "scientificNames": "Penstemon serrulatus",
   "commonNames": ["Cascade Penstemon","Cascades Penstemon"],
   "type": "Perennial",
@@ -865,8 +862,8 @@
   "otherWarnings": "Unpleasant odor When moist",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall","Spring"]
-},
-{
+  },
+  {
   "scientificNames": "Potentilla gracilis",
   "commonNames": ["Graceful Cinquefoil","Slender Cinquefoil"],
   "type": "Perennial",
@@ -881,8 +878,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": ["Prosartes hookeri","Prosartes Disporumhookeri"],
   "commonNames": ["Hooker's Fairybells","Hooker's Bells","Drops-of-Gold"],
   "type": "Perennial",
@@ -898,8 +895,8 @@
   "toxic": "No",
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": ["Prosartes smithii","Prosartes Disporumsmithii"],
   "commonNames": ["Smith’s Fairy Lantern","Fairy lanterns","Smith's Bells"],
   "type": "Perennial",
@@ -913,8 +910,8 @@
   },
   "toxic": "No",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Prunella vulgaris",
   "commonNames": ["Self-Heal","Heal-All"],
   "type": "Perennial",
@@ -932,8 +929,8 @@
   "otherWarnings": ["Spreads aggressively in its preferred conditions","May take a few years to bloom if established from seed."],
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Spring","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Sagittaria latifolia",
   "commonNames": ["Broadleaf Arrowhead","Wapato","Common Arrowhead"],
   "type": "Perennial",
@@ -941,7 +938,7 @@
   "waterNeeds": "Wet",
   "flowerColors": ["White","Yellow"],
   "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUses":["Roots and tubers edible when cooked"],
+  "foodUses":["Roots edible when cooked"],
   "otherUses": ["Erosion control","Improves water quality"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21964_1558125747_tn.jpg",
@@ -949,40 +946,40 @@
   },
   "toxic": "No",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Sedum oreganum",
   "commonNames": ["Oregon Stonecrop"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun"],
   "waterNeeds": ["Dry"],
   "flowerColors": ["Yellow"],
-  "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUses": ["Green Roofs"],
+  "wildlifeSupport": ["Bees","Butterflies","Deer resistant"],
+  "otherUses": ["Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/SED_OREGA_6735B_1558125724_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SED_OREGA_6735B.jpg"
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Sedum spathulifolium",
   "commonNames": ["Broadleaf Stonecrop"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": "Dry",
   "flowerColors": ["Yellow","Red"],
-  "wildlifeSupport": ["Bees","Butterflies"],
-  "otherUses": ["Various medicinal uses reported","Green Roofs"],
+  "wildlifeSupport": ["Bees","Butterflies","Deer resistant"],
+  "otherUses": ["Various medicinal uses reported","Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30409_1558124766_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30409.jpg"
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Sidalcea campestris",
   "commonNames": ["Meadow Checkermallow","Willamette Valley Checkermallow"],
   "type": "Perennial",
@@ -997,15 +994,15 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Sisyrinchium bellum",
   "commonNames": ["Western Blue-Eyed Grass","Blue-Eyed Grass"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist"],
   "flowerColors": ["Blue","Purple"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14196_1558124694_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1254/DIG14196.jpg"
@@ -1013,15 +1010,15 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Sisyrinchium californicum",
   "commonNames": ["Golden-Eyed Grass"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["Orange","Yellow"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22105_1558124625_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG22105_1558124625_tn.jpg"
@@ -1030,16 +1027,16 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Sisyrinchium idahoense",
   "commonNames": ["Idaho Blue-Eyed Grass"],
   "type": "Perennial",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist"],
   "flowerColors": ["Blue","Purple"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "otherUses": ["Erosion control","Green Roofs"],
+  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
+  "otherUses": ["Erosion control","Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/SIS_SAR_2822B_1558125737_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SIS_SAR_2822B.jpg"
@@ -1047,8 +1044,8 @@
   "toxic": "No",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Solidago elongata",
   "commonNames": ["Canada Goldenrod","Narrow Goldenrod"],
   "type": "Perennial",
@@ -1066,8 +1063,8 @@
   "spreadsVigorously": "Yes",
   "otherWarnings": "Spreads aggressively in its preferred conditions",
   "plantingSeason": ["Spring"]
-},
-{
+  },
+  {
   "scientificNames": ["Symphyotrichum subspicatum","Aster subspicatus"],
   "commonNames": ["Douglas’ Aster"],
   "type": "Perennial",
@@ -1082,8 +1079,8 @@
   },
   "toxic": "No",
   "spreadsVigorously": "Yes"
-},
-{
+  },
+  {
   "scientificNames": ["Synthyris reniformis","Veronica regina-nivalis"],
   "commonNames": ["Spring Queen","Native Figwort","Snow Queen"],
   "type": "Perennial",
@@ -1097,8 +1094,8 @@
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Tellima grandiflora",
   "commonNames": ["Fringe Cup","Fringecups"],
   "type": "Perennial",
@@ -1114,8 +1111,8 @@
   "toxic": "No",
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Thalictrum occidentale",
   "commonNames": ["Western Meadow Rue","Western Meadowrue"],
   "type": "Perennial",
@@ -1131,8 +1128,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Tiarella trifoliata",
   "commonNames": ["Foam Flower","Sugar-Scoop","Three-Leaf Foamflower","Cut-leaved Foamflower"],
   "type": "Perennial",
@@ -1140,14 +1137,14 @@
   "waterNeeds": ["Moist","Dry"],
   "flowerColors": ["White","Pink"],
   "wildlifeSupport": ["Bees"],
-  "otherUses": ["Various medicinal uses reported"],
+  "otherUses": ["Various medicinal uses reported","Fragrant"],
   "images": {
     "small": "https://oregonflora.org/imglib/misc/201905/TIA_TRI_UNI_5941B_1558125913_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/TIA_TRI_UNI_5941B.jpg"
   },
   "toxic": "No"
-},
-{
+  },
+  {
   "scientificNames": "Tolmiea menziesii",
   "commonNames": ["Piggyback Plant","Piggy-Back Plant","Youth-On-Age"],
   "type": "Perennial",
@@ -1162,15 +1159,15 @@
   "toxic": "No",
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Trillium albidum",
   "commonNames": ["Sweet Trillium","Giant Trillium"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": "Moist",
   "flowerColors": ["White"],
-  "wildlifeSupport": ["Bees"],
+  "wildlifeSupport": ["Bees","Deer resistant"],
   "images": {
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14417_1492399373_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1254/DIG14417.jpg"
@@ -1179,15 +1176,15 @@
   "otherWarnings": "Toxic to pets, may cause digestive issues in humans",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Trillium ovatum",
   "commonNames": ["Western Trillium","White Trillium"],
   "type": "Perennial",
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": ["Moist"],
   "flowerColors": ["White"],
-  "wildlifeSupport": ["Bees"],
+  "wildlifeSupport": ["Bees","Deer resistant"],
   "otherUses": ["Various medicinal uses reported"],
   "images": {
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN0458_1492398770_tn.jpg",
@@ -1196,8 +1193,8 @@
   "toxic": "Yes",
   "otherWarnings": "Toxic to pets, may cause digestive issues in humans",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Vancouveria hexandra",
   "commonNames": ["Inside-Out Flower"],
   "type": "Perennial",
@@ -1213,8 +1210,8 @@
   "spreadsVigorously": "Yes",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
-},
-{
+  },
+  {
   "scientificNames": "Veronica americana",
   "commonNames": ["American Brooklime","American Speedwell"],
   "type": "Perennial",
@@ -1229,8 +1226,8 @@
   },
   "toxic": "No",
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Viola adunca",
   "commonNames": ["Early Blue Violet"],
   "type": "Perennial",
@@ -1247,8 +1244,8 @@
   "toxic": "No",
   "otherWarnings": ["May cause stomach upset in large quantities."],
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Viola glabella",
   "commonNames": ["Yellow Wood Violet","Pioneer Violet","Stream Violet"],
   "type": "Perennial",
@@ -1265,8 +1262,8 @@
   "spreadsVigorously": "Yes",
   "otherWarnings": ["May cause stomach upset in large quantities."],
   "propagationNeeds": "Stratification"
-},
-{
+  },
+  {
   "scientificNames": "Viola sempervirens",
   "commonNames": ["Evergreen Violet","Redwood Violet"],
   "type": "Perennial",
@@ -1283,5 +1280,5 @@
   "otherWarnings": ["May cause stomach upset in large quantities."],
   "evergreen": "Yes",
   "propagationNeeds": "Stratification"
-}
+  }
 ]

@@ -12,8 +12,8 @@
   },
   "evergreen": "Yes",
   "toxic": "No"
-},
-{
+  },
+  {
   "scientificNames": "Asplenium trichomanes",
   "commonNames": ["Maidenhair Spleenwort"],
   "type": "Fern",
@@ -25,8 +25,8 @@
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Athyrium filix-femina",
   "commonNames": ["Lady Fern"],
   "type": "Fern",
@@ -41,8 +41,8 @@
   "toxic": "No",
   "spreadsVigorously": "Yes",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Dryopteris expansa",
   "commonNames": ["Northern Wood Fern","Spreading Wood Fern","Wood Fern"],
   "type": "Fern",
@@ -55,8 +55,8 @@
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7366.jpg"
   },
   "toxic": "No"
-},
-{
+  },
+  {
   "scientificNames": ["Gymnocarpium disjunctum","Gymnocarpium dryopteris"],
   "commonNames": ["Western Oak Fern","Oak Fern"],
   "type": "Fern",
@@ -68,38 +68,38 @@
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Polypodium glycyrrhiza",
   "commonNames": ["Licorice Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "foodUses": ["Edible roots"],
-  "otherUse": ["Various medicinal uses reported","Green Roofs"],
+  "otherUse": ["Various medicinal uses reported","Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21767_1558125647_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21767.jpg"
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Polystichum munitum",
   "commonNames": ["Sword Fern","Common Sword Fern","Western Sword Fern"],
   "type": "Fern",
   "lightNeeds": ["Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist"],
   "foodUses": "Roots edible when cooked",
-  "otherUses": ["Various medicinal uses reported","Erosion control", "Green Roofs"],
+  "otherUses": ["Various medicinal uses reported","Erosion control", "Green infrastructure"],
   "images": {
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7331_1558125720_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7331.jpg"
   },
   "toxic": "No",
   "evergreen": "Yes"
-},
-{
+  },
+  {
   "scientificNames": "Struthiopteris spicant",
   "commonNames": ["Deer Fern"],
   "type": "Fern",
@@ -113,5 +113,5 @@
   },
   "toxic": "No",
   "evergreen": "Yes"
-}
+  }
 ]
