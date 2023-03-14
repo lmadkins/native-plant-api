@@ -4,7 +4,7 @@ const mongoose = require('../connection')
 const PlantSchema = new mongoose.Schema({
   scientificNames: [String],
   commonNames: [String],
-  type: [String],
+  type: String,
   lightNeeds: [String],
   waterNeeds: [String],
   flowerColors:  {

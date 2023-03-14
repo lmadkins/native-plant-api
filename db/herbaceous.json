@@ -427,7 +427,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG43199_1558124972_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG43199.jpg"
   },
-  "toxic": ["No"],
+  "toxic": "No",
   "otherWarnings": "Should not be consumed if pregnant- may cause miscarriages.",
   "propagationNeeds": "Stratification"
   },

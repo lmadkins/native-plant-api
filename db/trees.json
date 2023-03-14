@@ -2,7 +2,7 @@
   {
     "scientificNames": ["Abies grandis"],
     "commonNames": ["Grand Fir","Giant Fir"],
-    "type": ["Large Tree"],
+    "type": "Large Tree",
     "lightNeeds": ["Sun,","Part Sun","Part Shade"],
     "waterNeeds": ["Dry","Moist"],
     "wildlifeSupport": ["Deer resistant"],
@@ -21,7 +21,7 @@
 {
   "scientificNames": ["Acer circinatum"],
   "commonNames": ["Vine Maple","Multi-Trunked Vine Maple"],
-  "type": ["Small Tree"],
+  "type": "Small Tree",
   "lightNeeds": ["Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColor": ["White"],
@@ -40,7 +40,7 @@
 {
   "scientificNames": ["Acer macrophyllum"],
   "commonNames": ["Bigleaf Maple","Oregon Maple"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColor": ["White","Green"],
@@ -58,7 +58,7 @@
 {
   "scientificNames": ["Alnus rubra"],
   "commonNames": ["Red Alder","Oregon Alder"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Wet"],
   "foodUses": ["Catkins edible raw or cooked","Inner bark dried and ground for thickening and baking"],
@@ -75,7 +75,7 @@
 {
   "scientificNames": ["Arbutus menziesii"],
   "commonNames": ["Pacific Madrone","Madrona"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Drought tolerant"],
   "flowerColor": ["White"],
@@ -93,7 +93,7 @@
 {
   "scientificNames": ["Calocedrus decurrens"],
   "commonNames": ["Incense Cedar"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist","Drought tolerant"],
   "otherUses": ["Fragrant","Erosion control","Various medicinal uses reported","Windbreak","Boughs and twigs for brooms","Roots and barks for basketry and weaving","Wood for various uses"],
@@ -110,7 +110,7 @@
 {
   "scientificNames": ["Cornus nuttallii"],
   "commonNames": ["Pacific Dogwood","Western Dogwood","Mountain Dogwood"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "flowerColor": ["White"],
@@ -127,8 +127,8 @@
 },
 {
   "scientificNames": ["Crataegus douglasii","Crataegus suksdorfii"],
-  "commonNames": ["Black Hawthorn","Douglas' Thornapple"],
-  "type": ["Small Tree","Shrub"],
+  "commonNames": ["Black Hawthorn","Douglas Hawthorne","Douglas' Thornapple"],
+  "type": "Small Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist"],
   "flowerColor": ["White"],
@@ -148,7 +148,7 @@
 {
   "scientificNames": ["Fraxinus latifolia"],
   "commonNames": ["Oregon Ash"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Wet"],
   "flowerColor": ["Green"],
@@ -166,7 +166,7 @@
 {
   "scientificNames": ["Malus fusca"],
   "commonNames": ["Western Crabapple","Oregon Crabapple","Pacific Crabapple"],
-  "type": ["Small Tree"],
+  "type": "Small Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Wet"],
   "flowerColor": ["White"],
@@ -186,7 +186,7 @@
 {
   "scientificNames": ["Pinus ponderosa"],
   "commonNames": ["Ponderosa Pine","Washoe Pine","Lodgepole Pine"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Dry","Moist","Drought tolerant"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Seeds crushed into meal","Resin used as gum","Resin used for flavoring","Branches as stewing herb"],
@@ -203,7 +203,7 @@
 {
   "scientificNames": ["Populus tremuloides"],
   "commonNames": ["Quaking Aspen","American Aspen"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun"],
   "waterNeeds": ["Moist","Drought tolerant"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Catkins edible raw or cooked"],
@@ -221,7 +221,7 @@
 {
 "scientificNames": ["Populus trichocarpa"],
 "commonNames": ["Black Cottonwood","Western Basalm Poplar"],
-"type": ["Large Tree"],
+"type": "Large Tree",
 "lightNeeds": ["Full Sun","Part Sun"],
 "waterNeeds": ["Moist"],
 "foodUses": ["Inner bark edible raw or dried"],
@@ -239,7 +239,7 @@
 {
   "scientificNames": ["Prunus emarginata"],
   "commonNames": ["Bitter Cherry"],
-  "type": ["Small Tree"],
+  "type": "Small Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist"],
   "flowerColor": ["White"],
@@ -258,7 +258,7 @@
 {
   "scientificNames": ["Pseudotsuga menziesii"],
   "commonNames": ["Douglas Fir","Douglas-Fir"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Dry"],
   "foodUses": ["Resin for gum","Leaves for tea","Young shoot tips edible"],
@@ -275,7 +275,7 @@
 {
   "scientificNames": ["Quercus garryana"],
   "commonNames": ["Oregon White Oak","Garry Oak"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist","Drought tolerant"],
   "wildlifeSupport": ["Deer resistant"],
@@ -294,7 +294,7 @@
 {
   "scientificNames": ["Rhamnus purshiana"],
   "commonNames": ["Cascara","Cascara Sagrada"],
-  "type": ["Small Tree"],
+  "type": "Small Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Drought tolerant"],
   "flowerColor": ["Green"],
@@ -313,7 +313,7 @@
 {
   "scientificNames": ["Salix scouleriana"],
   "commonNames": ["Scouler's Willow"],
-  "type": ["Small Tree"],
+  "type": "Small Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry","Drought tolerant"],
   "flowerColor": ["Yellow","Green"],
@@ -330,7 +330,7 @@
 {
   "scientificNames": ["Salix lasiandra"],
   "commonNames": ["Pacific Willow","Shining Willow"],
-  "type": ["Small Tree","Large Tree"],
+  "type": "Small Tree",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Wet"],
   "wildlifeSupport": ["Bees"],
@@ -348,7 +348,7 @@
 {
   "scientificNames": ["Salix sitchensis"],
   "commonNames": ["Sitka Willow"],
-  "type": ["Small Tree"],
+  "type": "Small Tree",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": ["Moist","Wet"],
   "flowerColor": ["Green","Yellow"],
@@ -366,7 +366,7 @@
 {
   "scientificNames": ["Taxus brevifolia"],
   "commonNames": ["Pacific Yew"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist","Dry"],
   "foodUses": ["Fruits edible"],
@@ -383,7 +383,7 @@
 {
   "scientificNames": ["Thuja plicata"],
   "commonNames": ["Western Red Cedar","Giant Cedar","Incense Cedar"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Part Shade","Full Shade"],
   "waterNeeds": ["Moist"],
   "foodUses": ["Inner bark dried and ground for thickening and baking","Pitch for gum"],
@@ -399,7 +399,7 @@
 {
   "scientificNames": ["Tsuga heterophylla"],
   "commonNames": ["Western Hemlock"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
   "waterNeeds": ["Moist"],
   "wildlifeSupport": ["Deer resistant"],
@@ -418,7 +418,7 @@
 {
   "scientificNames": ["Tsuga mertensiana"],
   "commonNames": ["Mountain Hemlock"],
-  "type": ["Large Tree"],
+  "type": "Large Tree",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist"],
   "wildlifeSupport": ["Deer resistant"],

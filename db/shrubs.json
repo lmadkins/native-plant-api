@@ -114,7 +114,7 @@
   {
   "scientificNames": ["Ceanothus sanguineus"],
   "commonNames": ["Oregon Tea Tree, Red Stem Ceanothus"],
-  "type": ["Small Shrub","Large Shrub"],
+  "type": "Large Shrub",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": "Dry",
   "flowerColors": ["White"],
@@ -151,7 +151,7 @@
   {
   "scientificNames": ["Ceanothus velutinus"],
   "commonNames": ["Sticky Laurel","Snowbrush"],
-  "type": ["Small Shrub","Large Shrub"],
+  "type": "Large Shrub",
   "lightNeeds": ["Full Sun","Part Sun"],
   "waterNeeds": "Dry",
   "flowerColors": ["White"],
@@ -225,7 +225,39 @@
   "propagationNeeds": "Stratification"
   },
   {
-  "scientificNames": ["Lonicera involucrate"],
+    "scientificNames": "Lonicera ciliosa",
+    "commonNames": ["Orange Honeysuckle","Trumpet Honeysuckle","Orange Honeysuckle Vine","Western Trumpet Honeysuckle"],
+    "type": "Small Shrub",
+    "lightNeeds": ["Part Sun","Part Shade","Full Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["Red","Orange"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
+    "foodUses": ["Fruit, nectar, and leaves are edible"],
+    "otherUses": ["Fragrant","Various medicinal uses reported"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG15075_1558124758_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1418/DIG15075.jpg"
+    },
+    "propagationNeeds": "Stratification"
+  },
+  {
+    "scientificNames": "Lonicera hispidulaa",
+    "commonNames": ["Pink Honeysuckle","Hairy Honeysuckle","California Honeysuckle"],
+    "type": "Small Shrub",
+    "lightNeeds": ["Part Sun","Part Shade"],
+    "waterNeeds": ["Dry"],
+    "flowerColors": ["Pink","Purple"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
+    "otherUses": ["Erosion control","Fragrant"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7859_1558125639_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7859.jpg"
+    },
+    "spreadsVigorously": "No",
+    "propagationNeeds": "Stratification"
+  },
+  {
+  "scientificNames": ["Lonicera involucrata"],
   "commonNames": ["Black Twinberry","Bearberry Honeysuckle","Twinberry Honeysuckle"],
   "type": "Large Shrub",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
@@ -299,7 +331,7 @@
   {
   "scientificNames": ["Physocarpus capitatus"],
   "commonNames": ["Pacific Ninebark"],
-  "type": ["Small Shrub","Large Shrub"],
+  "type": "Large Shrub",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": "Moist",
   "flowerColors": ["White","Yellow"],
@@ -317,7 +349,7 @@
   {
     "scientificNames": ["Prunus virginiana"],
     "commonNames": ["Chokecherry","Western Chokecherry"],
-    "type": ["Large Shrub"],
+    "type": "Large Shrub",
     "lightNeeds": ["Full Sun","Part Sun"],
     "waterNeeds": "Moist",
     "flowerColors": ["White"],
@@ -412,13 +444,13 @@
   {
     "scientificNames": ["Ribes sanguineum"],
     "commonNames": ["Red-Flowering Currant","Blood Currant"],
-    "type":  ["Small Shrub","Large Shrub"],
+    "type":  "Large Shrub",
     "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
     "waterNeeds": "Dry",
     "flowerColors": ["Pink"],
     "wildlifeSupport": ["Bees","Hummingbirds","Butterflies","Deer resistant"],
     "foodUses": ["Edible berries"],
-    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control"],
+    "otherUses": ["Fragrant","Various medicinal uses reported","Erosion control","Tolerates poor soil"],
     "images": {
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/CIMG2892_1492398749_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1280/CIMG2892.jpg"
@@ -451,7 +483,7 @@
   {
   "scientificNames": ["Rosa nutkana"],
   "commonNames": ["Nootka Rose"],
-  "type":  ["Small Shrub","Large Shrub"],
+  "type":  "Large Shrub",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": "Dry",
   "flowerColors": ["Pink"],
@@ -464,7 +496,7 @@
   },
   "toxic": "No",
   "spreadsVigorously": "No",
-  "otherWarnings": ["Thicket-forming","Thorns"],
+  "otherWarnings": ["Thicket-forming","Thorns","Grows fast"],
   "evergreen": "No",
   "propagationNeeds": ["Stratification","Scarification"]
   },
@@ -484,7 +516,7 @@
   },
   "toxic": "No",
   "spreadsVigorously": "No",
-  "otherWarnings": ["Thorns","Thicket-forming"],
+  "otherWarnings": ["Thorns","Thicket-forming","Grows fast"],
   "evergreen": "No",
   "propagationNeeds": ["Stratification","Scarification"]
   },
@@ -504,34 +536,54 @@
   },
   "toxic": "No",
   "spreadsVigorously": "Yes",
-  "otherWarnings": ["Thicket-forming"],
+  "otherWarnings": ["Thicket-forming","Grows fast"],
   "evergreen": "No",
   "propagationNeeds": "Stratification"
   },
   {
-  "scientificNames": ["Rubus spectabilis"],
-  "commonNames": ["Salmonberry"],
-  "type": "Large Shrub",
-  "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
-  "waterNeeds": ["Moist","Dry"],
-  "flowerColors": ["Pink"],
-  "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
-  "foodUses": ["Fruits, young shoots, petals edible raw or cooked"],
-  "otherUses": ["Various medicinal uses reported","Erosion control"],
-  "images": {
-    "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21949_1558124729_tn.jpg",
-    "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21949.jpg"
+    "scientificNames": ["Rubus spectabilis"],
+    "commonNames": ["Salmonberry"],
+    "type": "Large Shrub",
+    "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["Pink"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUses": ["Fruits, young shoots, petals edible raw or cooked"],
+    "otherUses": ["Various medicinal uses reported","Erosion control"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21949_1558124729_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21949.jpg"
+    },
+    "toxic": "No",
+    "spreadsVigorously": "Yes",
+    "otherWarnings": ["Thicket-forming","Thorns"],
+    "evergreen": "No",
+    "propagationNeeds": "Stratification"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
-  "otherWarnings": ["Thicket-forming"],
-  "evergreen": "No",
-  "propagationNeeds": "Stratification"
+  {
+    "scientificNames": "Rubus ursinus",
+    "commonNames": ["Dewberry","Pacific Blackberry"],
+    "type": "Small Shrub",
+    "lightNeeds": ["Full Sun","Part Sun","Part Shade","Full Shade"],
+    "waterNeeds": ["Moist","Dry"],
+    "flowerColors": ["White"],
+    "wildlifeSupport": ["Bees","Hummingbirds","Butterflies"],
+    "foodUse": ["Edible berries"],
+    "otherUses": ["Various medicinal uses reported"],
+    "images": {
+      "small": "https://oregonflora.org/imglib/OF_FP/202107/DIG29916_ROT_1627520219_tn.jpg",
+      "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG29916_ROT.jpg"
+    },
+    "spreadsVigorously": "Yes",
+    "otherWarnings": "Adaptable and spreads aggressively",
+    "evergreen": "Yes",
+    "toxic": "No",
+    "propagationNeeds": "Stratification"
   },
   {
   "scientificNames": ["Sambucus mexicana","Sambucus cerulean"],
   "commonNames": ["Blue Elderberry"],
-  "type": ["Large Shrub","Small Tree"],
+  "type": "Large Shrub",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Moist","Dry","Drought tolerant"],
   "flowerColors": ["White"],
@@ -567,7 +619,7 @@
   {
   "scientificNames": ["Spiraea betulifolia","Spiraea lucida"],
   "commonNames": ["Birchleaf Spirea","Birch-Leaved Spirea"],
-  "type": ["Small Shrub"],
+  "type": "Small Shrub",
   "lightNeeds": ["Part Sun","Part Shade"],
   "waterNeeds": ["Dry","Moist"],
   "flowerColors": ["White"],
@@ -584,7 +636,7 @@
   {
   "scientificNames": ["Spiraea douglasii"],
   "commonNames": ["Douglas' Spirea","Hardhack"],
-  "type": ["Small Shrub","Large Shrub"],
+  "type": "Small Shrub",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": "Moist",
   "flowerColors": ["Pink"],
@@ -622,7 +674,7 @@
   {
   "scientificNames": ["Vaccinium ovatum"],
   "commonNames": ["Evergreen Huckleberry","California Huckleberry"],
-  "type":  ["Small Shrub","Large Shrub"],
+  "type":  "Small Shrub",
   "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
   "waterNeeds": ["Dry"],
   "flowerColors": ["White","Pink"],

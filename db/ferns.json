@@ -54,7 +54,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7366_1558125743_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7366.jpg"
   },
-  "toxic": "No"
+  "toxic": "No",
+  "evergreen": "No"
   },
   {
   "scientificNames": ["Gymnocarpium disjunctum","Gymnocarpium dryopteris"],

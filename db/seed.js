@@ -4,40 +4,49 @@ const mongoose = require('./connection')
 const Plant = require('./models/Plant')
 
 // Seed Data
-const vinesData = require('./vines.json')
 const fernsData = require('./ferns.json')
 const grassesData = require('./grasses.json')
 const herbaceousData = require('./herbaceous.json')
 const shrubsData = require('./shrubs.json')
 const treesData =  require('./trees.json')
 
-// Plant.insertMany(vinesData)
-//       .then(function () {
-//         console.log(vinesData);
-//       })
-//       .catch(function (err) {
-//         console.log(err);
-//       });
 
 // Plant.insertMany(fernsData)
 // .then(function () {
-//   console.log(vinesData);
+//   console.log(fernsData);
 // })
 // .catch(function (err) {
 //   console.log(err);
 // });
 
+
 // Plant.insertMany(grassesData)
 //   .then(function () {
-//     console.log('Success!')
+//     console.log(grassesData)
 //   })
 //   .catch(function (err) {
 //     console.log(err)
 //   })
 
-// Plant.insertMany(grassesData)
+// Plant.insertMany(herbaceousData)
 //   .then(function () {
-//     console.log('Success!')
+//     console.log(herbaceousData)
+//   })
+//   .catch(function (err) {
+//     console.log(err)
+//   })
+
+// Plant.insertMany(shrubsData)
+//   .then(function () {
+//     console.log(shrubsData)
+//   })
+//   .catch(function (err) {
+//     console.log(err)
+//   })
+
+//   Plant.insertMany(treesData)
+//   .then(function () {
+//     console.log(treesData)
 //   })
 //   .catch(function (err) {
 //     console.log(err)
