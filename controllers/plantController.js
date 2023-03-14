@@ -16,9 +16,6 @@ router.get('/plants', async(req, res, next) => {
   }
 })
 
-// 
-
-
 // SHOW
 // GET one of the plants by its id
 // localhost:4000/api/plants/:id
@@ -48,7 +45,7 @@ router.post('/', async (req, res, next) => {
 // localhost:4000/api/plants/:id
 router.patch('/:id', async(req, res, next) => {
   try {
-    const updatedPlant = await Plant.findOneAndUpdate(
+    const updatedPlant = await Plant.findByIdAndUpdate(
       req.params.id,
       req.body,
       { new: true }

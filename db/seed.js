@@ -61,16 +61,3 @@ const treesData =  require('./trees.json')
 //     }
 // )
 
-Plant.deleteMany({})
-	.then(() => {
-		return User.create({ email: 'fake@email.com', name: 'Fake Person' })
-			.then((user) =>
-				bookmarkseeds.map((bookmark) => ({ ...bookmark, owner: user._id }))
-			)
-			.then((bookmarks) => Plant.insertMany(bookmarks));
-	})
-	.then(console.log)
-	.catch(console.error)
-	.finally(() => {
-		process.exit();
-	});
