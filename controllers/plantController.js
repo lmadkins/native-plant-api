@@ -16,6 +16,8 @@ router.get('/plants', async(req, res, next) => {
   }
 })
 
+// 
+
 
 // SHOW
 // GET one of the plants by its id

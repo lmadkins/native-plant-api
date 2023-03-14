@@ -37,7 +37,7 @@ const PlantSchema = new mongoose.Schema({
   },
   otherWarnings:  {
     type: [String],
-    default: 'Not listed'
+    default: 'No listed'
   },
   evergreen:  {
     type: [String],

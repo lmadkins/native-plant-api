@@ -51,3 +51,26 @@ const treesData =  require('./trees.json')
 //   .catch(function (err) {
 //     console.log(err)
 //   })
+
+// Plant.updateMany(
+//   { otherWarnings : 'Not listed'},
+//   { $set: { otherWarnings: 'None Listed'}},
+//   { new: true},
+//     (err, plants) => {
+//       console.log(plants)
+//     }
+// )
+
+Plant.deleteMany({})
+	.then(() => {
+		return User.create({ email: 'fake@email.com', name: 'Fake Person' })
+			.then((user) =>
+				bookmarkseeds.map((bookmark) => ({ ...bookmark, owner: user._id }))
+			)
+			.then((bookmarks) => Plant.insertMany(bookmarks));
+	})
+	.then(console.log)
+	.catch(console.error)
+	.finally(() => {
+		process.exit();
+	});
