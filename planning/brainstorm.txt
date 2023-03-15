@@ -68,6 +68,27 @@ README on Repo:
 - Resources used/more reading 
 - Why local plants
 
+Get by type
+router.get('/plants/:type', (req, res) => {
+  Plant.find({
+    type: req.params.type
+  })
+  .then((plant) => {
+    res.json(plant)
+  })
+})
+
+router.get('/plants/:type', async (req, res, next) => {
+  try {
+    const foundPlants = await Plant.find({
+      type: req.params.type
+    })
+    res.status(200).json(foundPlants)
+  } catch(err) {
+    next(err)
+  }
+})
+
 
 
 Filtering
@@ -76,7 +97,12 @@ enter the query key and query value
 (to string? to json? stringify?)
 find/return where obj.key.value = query's obj.key.value
 
-
+router.get('/:type', async (req, res, next) => {
+  try {
+    const type = req.params.type
+    console.log(type)
+  }
+})
 
 // router.get('*', (req, res) => {
 //   req.query; // { a: '1', b: '2' }
@@ -104,3 +130,18 @@ find/return where obj.key.value = query's obj.key.value
 //     next(err)
 //   }
 // })
+
+
+
+
+
+router.get('/plants/:type', async (req, res, next) => {
+  try {
+    Plant.find({
+      type: req.params.type
+    })
+    res.status(200).json(foundPlants)
+  } catch(err) {
+    next(err)
+  }
+})

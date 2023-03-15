@@ -28,6 +28,30 @@ router.get('/:id', async (req, res, next) => {
   }
 })
 
+// SHOW
+// GET one of the plants by type
+// localhost:4000/api/plants/:filter
+// router.get('/plants/:type', (req, res) => {
+//   Plant.find({
+//     type: req.params.type
+//   })
+//   .then((plant) => {
+//     res.json(plant)
+//   })
+// })
+
+router.get('/plants/:type', async (req, res, next) => {
+  try {
+    const foundPlants = await Plant.find({
+      type: req.params.type
+    })
+    res.status(200).json(foundPlants)
+  } catch(err) {
+    next(err)
+  }
+})
+
+
 // CREATE
 // POST a new plant
 // localhost:4000/api/plants/

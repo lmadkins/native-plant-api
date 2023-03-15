@@ -7,8 +7,7 @@ const db = mongoose.connection;
 
 
 // Connect to Mongo
-mongoose.connect('mongodb+srv://lmadkins:dviXiDFMIeyTne88@cluster0.vlqtr.mongodb.net/Native-Plants?retryWrites=true&w=majority'
-);
+mongoose.connect(mongoURI);
 
 // Connection Error/Success
 db.on('error', (err) => console.log(err.message + ' is Mongod not running?'));
