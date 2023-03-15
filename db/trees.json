@@ -12,10 +12,10 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7590_1558125738_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7590.jpg"
     },
-    "toxic": "No",
-    "spreadsVigorously": "No",
+    "toxic": false,
+    "spreadsVigorously": false,
     "otherWarnings": ["Low pollution tolerance"],
-    "evergreen": "Yes",
+    "evergreen": true,
     "propagationNeeds": "Stratification"
 },
 {
@@ -32,9 +32,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/ACE_CIR_1270B_1558125653_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ACE_CIR_1270B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -50,9 +50,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7599_1558125719_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7599.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
-  "evergreen": "No",
+  "toxic": false,
+  "spreadsVigorously": true,
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -67,9 +67,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/09SL017FEB1603_1558124949_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1389/09SL017FEB1603.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
-  "evergreen": "No",
+  "toxic": false,
+  "spreadsVigorously": true,
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -85,9 +85,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG46238_1558124596_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2017/DIG46238.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "Yes",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": true,
   "propagationNeeds": "Stratification"
 },
 {
@@ -101,10 +101,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7615_1558125697_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7615.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
   "otherWarnings": ["Mature trees often infected by dry rot"],
-  "evergreen": "Yes",
+  "evergreen": true,
   "propagationNeeds": "Stratification"
 },
 {
@@ -119,10 +119,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14883_1558124878_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14883.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
   "otherWarnings": ["Can be difficult to establish"],
-  "evergreen": "No",
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -139,10 +139,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23880_1558124641_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG23880.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
   "otherWarnings": ["Thicket-forming","Thorns","Grows slowly"],
-  "evergreen": "No",
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -158,9 +158,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/FRA_LAT_5873B_1558125640_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/FRA_LAT_5873B_1558125640_tn.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -177,10 +177,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG13103_1558124702_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1252/DIG13103.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
   "otherWarnings": ["Don't eat seeds in large quantities"],
-  "evergreen": "No",
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -195,9 +195,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/AL03171_1558124810_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/AL03171_1558124810_tn.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "Yes",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": true,
   "propagationNeeds": "Stratification"
 },
 {
@@ -212,10 +212,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG34440_1558124855_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2014/DIG34440.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": ["Root systems grow aggressively"],
-  "evergreen": "No",
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -230,10 +230,10 @@
   "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7647_1558125692_tn.jpg",
   "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7647.jpg"
 },
-"toxic": "No",
-"spreadsVigorously": "No",
+"toxic": false,
+"spreadsVigorously": false,
 "otherWarnings": ["Brittle branches","Grows quickly"],
-"evergreen": "No",
+"evergreen": false,
 "propagationNeeds": "Stratification"
 },
 {
@@ -250,9 +250,9 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG28886_1492399696_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1539/DIG28886.jpg"
   },
-  "spreadsVigorously": "No",
+  "spreadsVigorously": false,
   "otherWarnings": ["No specific mention for this species, Some members of this genus are mildly toxic.","Avoid consuming in large quantities"],
-  "evergreen": "No",
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -267,9 +267,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7653_1558124952_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7653.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "Yes",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": true,
   "propagationNeeds": "Stratification"
 },
 {
@@ -286,9 +286,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN3032_1558124636_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN3032.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -304,9 +304,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG39421_1558125693_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/DIG39421.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": false,
   "otherWarnings": ["Consumption in excess causes cramps, diarrhea"],
   "propagationNeeds": "Stratification"
 },
@@ -322,10 +322,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG36245_1558124796_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2014/DIG36245.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": ["Grows quickly"],
-  "evergreen": "No"
+  "evergreen": false
 },
 {
   "scientificNames": ["Salix lasiandra"],
@@ -339,10 +339,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/202106/DIG51622_1623464300_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG51622.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
   "otherWarnings": ["Grows quickly"],
-  "evergreen": "No",
+  "evergreen": false,
   "propagationNeeds": "Stratification"
 },
 {
@@ -359,9 +359,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/15SALSIT_F_32807010_1558125642_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15SALSIT_F_32807010.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
-  "evergreen": "No"
+  "toxic": false,
+  "spreadsVigorously": true,
+  "evergreen": false
 },
 {
   "scientificNames": ["Taxus brevifolia"],
@@ -375,9 +375,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7677_1558125663_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1152/DIG7677.jpg"
   },
-  "toxic": "Yes",
-  "spreadsVigorously": "No",
-  "evergreen": "Yes",
+  "toxic": true,
+  "spreadsVigorously": false,
+  "evergreen": true,
   "propagationNeeds": "Stratification"
 },
 {
@@ -392,9 +392,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22255_1558125652_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22255.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": true
 },
 {
   "scientificNames": ["Tsuga heterophylla"],
@@ -409,10 +409,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22339_1558125693_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22339.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
+  "toxic": false,
+  "spreadsVigorously": false,
   "otherWarnings": ["Shallow roots","Succeptible to winds","Low pollution tolerance"],
-  "evergreen": "Yes",
+  "evergreen": true,
   "propagationNeeds": "Stratification"
 },
 {
@@ -428,9 +428,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22340_1558125649_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22340.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "No",
-  "evergreen": "Yes",
+  "toxic": false,
+  "spreadsVigorously": false,
+  "evergreen": true,
   "propagationNeeds": "Stratification"
 }
 ]

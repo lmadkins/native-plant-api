@@ -68,6 +68,20 @@ README on Repo:
 - Resources used/more reading 
 - Why local plants
 
+
+
+router.get('/plants/:key.:value', async (req, res, next) => {
+  try {
+    const foundPlants = await Plant.find({
+      req.params.key: req.params.value
+    })
+    res.status(200).json(foundPlants)
+  } catch(err) {
+    next(err)
+  }
+})
+
+
 Get by type
 router.get('/plants/:type', (req, res) => {
   Plant.find({
@@ -77,6 +91,7 @@ router.get('/plants/:type', (req, res) => {
     res.json(plant)
   })
 })
+
 
 router.get('/plants/:type', async (req, res, next) => {
   try {
@@ -89,7 +104,17 @@ router.get('/plants/:type', async (req, res, next) => {
   }
 })
 
-
+router.get('/plants/:filter/:value', async (req, res, next) => {
+  try {
+    const foundPlants = await Plant.find({
+      filter: req.params.filter},
+      {value: req.params.value
+    })
+    res.status(200).json(foundPlants)
+  } catch(err) {
+    next(err)
+  }
+})
 
 Filtering
 GET request:

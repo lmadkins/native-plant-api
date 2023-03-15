@@ -51,6 +51,16 @@ router.get('/plants/:type', async (req, res, next) => {
   }
 })
 
+router.get('/plants/:name', async (req, res, next) => {
+  try {
+    const foundPlant = await Plant.find({
+      commonName: req.params.name
+    })
+    res.status(200).json(foundPlant)
+  } catch(err) {
+    next(err)
+  }
+})
 
 // CREATE
 // POST a new plant

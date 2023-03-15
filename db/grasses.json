@@ -10,7 +10,7 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/CAR_DEN_1790B_1558125638_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/CAR_DEN_1790B.jpg"
     },
-    "toxic": "No",
+    "toxic": false,
     "propagationNeeds": "Stratification"
   },
   {
@@ -24,12 +24,12 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11723_1558124761_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11723.jpg"
     },
-    "toxic": "No",
+    "toxic": false,
     "propagationNeeds": "Stratification"
   },
   {
     "scientificNames": "Deschampsia cespitosa",
-    "commonNames": ["Tufted hairgrass","Hair Grass"],
+    "commonNames": ["Tufted Hairgrass","Hair Grass"],
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": ["Moist","Dry"],
@@ -38,13 +38,13 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14915_1558125744_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14915.jpg"
     },
-    "toxic": "No",
-    "evergreen": "Yes",
+    "toxic": false,
+    "evergreen": true,
     "plantingSeason": ["Fall"]
   },
   {
     "scientificNames": "Elymus glaucus",
-    "commonNames": ["Blue wildrye","Bunchgrass","Blue Wild Rye"],
+    "commonNames": ["Blue Wildrye","Bunchgrass","Blue Wild Rye"],
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": ["Dry","Moist"],
@@ -53,8 +53,8 @@
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN1591_1492399034_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN1591.jpg"
     },
-    "toxic": "No",
-    "evergreen": "Yes",
+    "toxic": false,
+    "evergreen": true,
     "plantingSeason": ["Winter","Spring"]
   },
   {
@@ -68,7 +68,7 @@
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG12491_1492398816_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1251/DIG12491.jpg"
     },
-    "toxic": "No",
+    "toxic": false,
     "plantingSeason": ["Spring, Fall"]
   },
   {
@@ -82,7 +82,7 @@
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG38912_1492398378_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/DIG38912.jpg"
     },
-    "toxic": "No",
+    "toxic": false,
     "propagationNeeds": "Stratification"
   },
   {
@@ -96,9 +96,9 @@
       "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG2790_1492399365_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1116/DIG2790.jpg"
     },
-    "toxic": "No",
-    "spreadsVigorously": "Yes",
-    "evergreen": "Yes",
+    "toxic": false,
+    "spreadsVigorously": true,
+    "evergreen": true,
     "propagationNeeds": "Stratification"
   },
   {
@@ -112,9 +112,9 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG24641_1558125639_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG24641.jpg"
     },
-    "toxic": "No",
-    "spreadsVigorously": "Yes",
-    "evergreen": "Yes",
+    "toxic": false,
+    "spreadsVigorously": true,
+    "evergreen": true,
     "propagationNeeds": "Stratification"
   },
   {
@@ -128,14 +128,14 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG41751_1558125732_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG41751.jpg"
     },
-    "toxic": "No",
-    "spreadsVigorously": "Yes",
-    "evergreen": "Yes",
+    "toxic": false,
+    "spreadsVigorously": true,
+    "evergreen": true,
     "propagationNeeds": "Stratification"
   },
   {
     "scientificNames": "Koeleria macrantha",
-    "commonNames": ["Prairie junegrass","Junegrass"],
+    "commonNames": ["Prairie Junegrass","Junegrass"],
     "type": "Grass",
     "lightNeeds": ["Full Sun"],
     "waterNeeds": "Dry",
@@ -146,12 +146,12 @@
         "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG12792_1558124777_tn.jpg",
         "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG12792_1558124777_tn.jpg"
       },
-    "toxic": "No",
+    "toxic": false,
     "plantingSeason": "Spring"
   },
   {
     "scientificNames": "Typha latifolia",
-    "commonNames": ["Common cattail","Cattail","Broad-leaf cat-tail"],
+    "commonNames": ["Common Cattail","Cattail","Broad-Leaf Cat-Tail"],
     "type": "Grass",
     "lightNeeds": ["Full Sun","Part Sun","Part Shade"],
     "waterNeeds": "Wet",
@@ -161,9 +161,9 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG4892_1558125719_tn.jpg",
       "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG4892_1558125719_tn.jpg"
     },
-    "toxic": "No",
-    "spreadsVigorously": "Yes",
-    "evergreen": "Yes",
+    "toxic": false,
+    "spreadsVigorously": true,
+    "evergreen": true,
     "propagationNeeds": "Stratification"
   }
 ]

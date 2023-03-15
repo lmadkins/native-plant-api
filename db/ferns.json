@@ -10,8 +10,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7326_1558125740_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7326.jpg"
   },
-  "evergreen": "Yes",
-  "toxic": "No"
+  "evergreen": true,
+  "toxic": false
   },
   {
   "scientificNames": "Asplenium trichomanes",
@@ -23,8 +23,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/ASPTRICH_ANGORAPEAK_1492398511_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1497/ASPTRICH_ANGORAPEAK.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Athyrium filix-femina",
@@ -38,9 +38,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG23352_1558124728_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1527/DIG23352.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
-  "evergreen": "Yes"
+  "toxic": false,
+  "spreadsVigorously": true,
+  "evergreen": true
   },
   {
   "scientificNames": "Dryopteris expansa",
@@ -54,8 +54,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7366_1558125743_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7366.jpg"
   },
-  "toxic": "No",
-  "evergreen": "No"
+  "toxic": false,
+  "evergreen": false
   },
   {
   "scientificNames": ["Gymnocarpium disjunctum","Gymnocarpium dryopteris"],
@@ -67,8 +67,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG32087_1492399259_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1540/DIG32087.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Polypodium glycyrrhiza",
@@ -82,8 +82,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21767_1558125647_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21767.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Polystichum munitum",
@@ -97,8 +97,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7331_1558125720_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7331.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Struthiopteris spicant",
@@ -112,7 +112,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7331_1558125720_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1129/DIG7331.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   }
 ]

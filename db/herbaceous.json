@@ -13,8 +13,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN9159_1558124797_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN9159.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": "Potentially toxic to pets",
   "plantingSeason": ["Spring","Fall"]
   },
@@ -31,7 +31,7 @@
     "small": "https://oregonflora.org/imglib/misc/201905/ACH_TRI_1677B_1558125847_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/ACH_TRI_1677B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -48,7 +48,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/ACT_RUB_2745B_1558125746_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ACT_RUB_2745B.jpg"
   },
-  "toxic": "Yes",
+  "toxic": true,
   "otherWarnings": ["All parts of the plant are toxic to humans and pets"],
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
@@ -66,7 +66,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/ALL_ACU_2909B_1558125725_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ALL_ACU_2909B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "Potentially toxic to pets",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
@@ -85,8 +85,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/09ALLCER_HAL87328_FL_1558124850_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1381/09ALLCER_HAL87328_FL.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": "Potentially toxic to pets",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
@@ -105,8 +105,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11354_1558124785_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11354.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "plantingSeason": ["Spring","Fall"]
   },
   {
@@ -123,7 +123,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30613_1558125701_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30613.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -141,10 +141,10 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG11469_1558125727_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1249/DIG11469.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": ["May be toxic in large amounts", "Difficult to grow from seed"],
   "propagationNeeds": "Stratification",
-  "evergreen": "Yes"
+  "evergreen": true
   },
   {
   "scientificNames": "Asclepias speciosa",
@@ -160,7 +160,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/ASC_SPE_2386B_1558125660_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/ASC_SPE_2386B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "otherWarnings": ["Potentially toxic in large amounts.","Direct sowing not recommended."],
   "plantingSeason": ["Winter","Fall"]
@@ -177,7 +177,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/202107/DIG33546_APPCROP_1627520179_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2021/DIG33546_APPCROP.jpg"
   },
-  "spreadsVigorously": "Yes",
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -195,7 +195,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG3596_1558125759_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1127/DIG3596.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "May take a few years to bloom if established from seed.",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
@@ -214,7 +214,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN3222_1558124568_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN3222.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "May take a few years to bloom if established from seed.",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
@@ -233,7 +233,7 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN1612B_1492399067_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN1612B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "plantingSeason": ["Winter","Fall"]
   },
   {
@@ -265,8 +265,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG3685_1492399250_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1127/DIG3685.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -282,8 +282,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/CIR_ALP_PAC_4165B_1492398912_tn.jpg",
     "original": "https://oregonflora.org/imglib/_OFPFP/201704/CIR_ALP_PAC_4165B_1492398912_tn.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes"
+  "toxic": false,
+  "spreadsVigorously": true
   },
   {
   "scientificNames": "Clarkia amoena",
@@ -297,7 +297,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/CIMG5780_1492399145_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1280/CIMG5780.jpg"
   },
-  "propagationNeeds": "Stratification",
+  "propagationNeeds":  ["Stratification",
+  "Annual"],
   "plantingSeason": ["Fall","Winter","Spring"]
   },
   {
@@ -312,7 +313,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/COL_PAR_4696B_1492398798_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/COL_PAR_4696B.jpg"
   },
-  "propagationNeeds": "Stratification",
+  "propagationNeeds":  ["Stratification",
+  "Annual"],
   "plantingSeason": ["Winter","Fall"]
   },
   {
@@ -327,8 +329,9 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14870_1492399167_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1417/DIG14870.jpg"
   },
-  "spreadsVigorously": "Yes",
-  "propagationNeeds": "Stratification",
+  "spreadsVigorously": true,
+  "propagationNeeds":  ["Stratification",
+  "Annual"],
   "plantingSeason": ["Fall","Winter","Spring"]
   },
   {
@@ -344,8 +347,8 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/COR_UNA_5122B_1558124687_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/COR_UNA_5122B.jpg"
     },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Corydalis scouleri",
@@ -359,7 +362,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/COR_SCO_0878B_1558125703_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/COR_SCO_0878B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings":["Potentially toxic to pets in large quanitities"],
   "propagationNeeds": "Stratification"
   },
@@ -376,8 +379,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30127_1558124664_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30127.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
   },
@@ -409,7 +412,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DOD_HEN_0535B_1558124923_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/DOD_HEN_0535B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
   },
@@ -427,7 +430,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG43199_1558124972_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2016/DIG43199.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "Should not be consumed if pregnant- may cause miscarriages.",
   "propagationNeeds": "Stratification"
   },
@@ -444,9 +447,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30654_1558124591_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30654.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "May take a few years to bloom if established from seed.",
-  "spreadsVigorously": "Yes",
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall","Winter"]
   },
@@ -464,8 +467,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/09SL048MAR0903_1558124913_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1401/09SL048MAR0903.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": "Spreads aggressively in its preferred conditions",
   "plantingSeason": ["Spring","Winter"]
   },
@@ -481,7 +484,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG46333_1558125705_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2017/DIG46333.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": "Fall"
   },
@@ -499,8 +502,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/FRA_VES_BRA_1757B_1558124643_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/FRA_VES_BRA_1757B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification"
   },
   {
@@ -517,7 +520,7 @@
     "small": "https://oregonflora.org/imglib/misc/201905/FRA_VIR_PLA_7288B_1558125929_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/FRA_VIR_PLA_7288B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification"
   },
   {
@@ -532,7 +535,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/09FRILAN_HAL88369_FL_1558124821_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1384/09FRILAN_HAL88369_FL.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
   },
@@ -549,8 +552,9 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG12591_1492398461_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1251/DIG12591.jpg"
   },
-  "toxic": "No",
-  "propagationNeeds": "Stratification",
+  "toxic": false,
+  "propagationNeeds": ["Stratification",
+"Annual"],
   "plantingSeason": ["Fall","Winter","Spring"]
   },
   {
@@ -566,8 +570,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/GOODYERA_OBLONGIFOLIA1_1492399681_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/91/GOODYERA_OBLONGIFOLIA1.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Heracleum maximum",
@@ -583,7 +587,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/HER_LAN_4239B_1558124913_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/HER_LAN_4239B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "Can cause dermatitis when touched",
   "propagationNeeds": "Stratification"
   },
@@ -600,9 +604,9 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/15HEU_MIC_MIC_2679B_1492398856_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15HEU_MIC_MIC_2679B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "May be mildly toxic to pets",
-  "evergreen": "Yes",
+  "evergreen": true,
   "propagationNeeds": "Stratification"
   },
   {
@@ -619,8 +623,8 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/HYD_TEN_2072B_1558124777_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/HYD_TEN_2072B.jpg"
     },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": "Spreads aggressively in its preferred conditions",
   "propagationNeeds": "Stratification"
   },
@@ -655,7 +659,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG4160_1558124749_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1128/DIG4160.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
   },
@@ -673,7 +677,7 @@
       "small": "https://oregonflora.org/imglib/misc/201905/LIN_BOR_LON_5105B_1558125853_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/LIN_BOR_LON_5105B.jpg"
     },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification"
   },
   {
@@ -689,9 +693,9 @@
       "small": "https://oregonflora.org/imglib/OF_FP/201905/08AL00606_1558125764_tn.jpg",
       "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1279/08AL00606.jpg"
     },
-  "toxic": "Yes",
+  "toxic": true,
   "otherWarnings": "Toxic to pets, may cause digestive issues in humans",
-  "spreadsVigorously": "Yes",
+  "spreadsVigorously": true,
   "propagationNeeds": "Scarification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -708,9 +712,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/LUP_RIV_0783B_1558124993_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1455/LUP_RIV_0783B.jpg"
   },
-  "toxic": "Yes",
+  "toxic": true,
   "otherWarnings": "Toxic to pets, may cause digestive issues in humans",
-  "spreadsVigorously": "Yes",
+  "spreadsVigorously": true,
   "propagationNeeds": "Scarification",
   "plantingSeason": ["Fall","Winter","Spring"]
   },
@@ -728,7 +732,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG7716_1558124654_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1170/DIG7716.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "Unpleasant odor",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
@@ -747,8 +751,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/MAI_DIL_3225B_1558125742_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/MAI_DIL_3225B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -766,7 +770,7 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/MAI_RAC_2076B_1492399170_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/MAI_RAC_2076B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -784,7 +788,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG4328_1558125753_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1128/DIG4328.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -826,8 +830,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/OXA_ORE_2333B_1558125714_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/OXA_ORE_2333B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes"
+  "toxic": false,
+  "spreadsVigorously": true
   },
   {
   "scientificNames": "Penstemon richardsonii",
@@ -841,7 +845,7 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/PEN_RIC_3644B_1492399029_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PEN_RIC_3644B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall","Spring"]
   },
@@ -858,7 +862,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/PEN_SER_3496B_1558124640_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PEN_SER_3496B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": "Unpleasant odor When moist",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall","Spring"]
@@ -875,7 +879,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/AL02927_1558124808_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1149/AL02927.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -892,8 +896,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/PRO_HOO_2353B_1558125025_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/PRO_HOO_2353B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification"
   },
   {
@@ -908,7 +912,7 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/PRO_SMI_4554B_1492399712_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/PRO_SMI_4554B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification"
   },
   {
@@ -924,8 +928,8 @@
     "small": "https://oregonflora.org/imglib/misc/201905/PRU_VUL_LAN_3119B_1558125859_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/PRU_VUL_LAN_3119B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": ["Spreads aggressively in its preferred conditions","May take a few years to bloom if established from seed."],
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Spring","Fall"]
@@ -944,7 +948,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG21964_1558125747_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG21964.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification"
   },
   {
@@ -960,8 +964,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/SED_OREGA_6735B_1558125724_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SED_OREGA_6735B.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Sedum spathulifolium",
@@ -976,8 +980,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG30409_1558124766_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1538/DIG30409.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Sidalcea campestris",
@@ -991,7 +995,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/09SIDCAM_HAL9685_FL2_1558124847_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1385/09SIDCAM_HAL9685_FL2.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Winter","Fall"]
   },
@@ -1007,7 +1011,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG14196_1558124694_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1254/DIG14196.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
   },
@@ -1023,8 +1027,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22105_1558124625_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG22105_1558124625_tn.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
   },
@@ -1041,7 +1045,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/SIS_SAR_2822B_1558125737_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SIS_SAR_2822B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
   },
@@ -1059,8 +1063,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/SOL_ELO_7944B_1492398927_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/SOL_ELO_7944B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": "Spreads aggressively in its preferred conditions",
   "plantingSeason": ["Spring"]
   },
@@ -1077,8 +1081,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg",
     "original": "https://oregonflora.org/imglib/OF_FP/201905/DIG39606_1558124743_tn.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes"
+  "toxic": false,
+  "spreadsVigorously": true
   },
   {
   "scientificNames": ["Synthyris reniformis","Veronica regina-nivalis"],
@@ -1092,8 +1096,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN0406_1558124661_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN0406.jpg"
   },
-  "toxic": "No",
-  "evergreen": "Yes"
+  "toxic": false,
+  "evergreen": true
   },
   {
   "scientificNames": "Tellima grandiflora",
@@ -1108,8 +1112,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DSCN0641_1558125023_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/39/DSCN0641.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification"
   },
   {
@@ -1124,8 +1128,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/15THA_OCC_0884B_1558125734_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15THA_OCC_0884B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
   },
@@ -1156,8 +1160,8 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/TOL_MEN_2387B_1492398350_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/TOL_MEN_2387B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification"
   },
   {
@@ -1172,7 +1176,7 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DIG14417_1492399373_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1254/DIG14417.jpg"
   },
-  "toxic": "Yes",
+  "toxic": true,
   "otherWarnings": "Toxic to pets, may cause digestive issues in humans",
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
@@ -1190,7 +1194,7 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/DSCN0458_1492398770_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1148/DSCN0458.jpg"
   },
-  "toxic": "Yes",
+  "toxic": true,
   "otherWarnings": "Toxic to pets, may cause digestive issues in humans",
   "propagationNeeds": "Stratification"
   },
@@ -1206,8 +1210,8 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/VAN_HEX_2669B_1558125682_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1167/VAN_HEX_2669B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "propagationNeeds": "Stratification",
   "plantingSeason": ["Fall"]
   },
@@ -1224,7 +1228,7 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/DIG22360_1558125742_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1522/DIG22360.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "propagationNeeds": "Stratification"
   },
   {
@@ -1241,7 +1245,7 @@
     "small": "https://oregonflora.org/imglib/_OFPFP/201704/15VIO_ADU_3195B_1492399219_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/2015/15VIO_ADU_3195B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": ["May cause stomach upset in large quantities."],
   "propagationNeeds": "Stratification"
   },
@@ -1258,8 +1262,8 @@
     "small": "hhttps://oregonflora.org/imglib/OF_FP/201905/VIO_GLA_0887B_1558124689_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/VIO_GLA_0887B.jpg"
   },
-  "toxic": "No",
-  "spreadsVigorously": "Yes",
+  "toxic": false,
+  "spreadsVigorously": true,
   "otherWarnings": ["May cause stomach upset in large quantities."],
   "propagationNeeds": "Stratification"
   },
@@ -1276,9 +1280,9 @@
     "small": "https://oregonflora.org/imglib/OF_FP/201905/VIO_SEM_3139B_1558125688_tn.jpg",
     "original": "https://oregonflora.org/dbimages/OFPimages/OFPImages_big/1456/VIO_SEM_3139B.jpg"
   },
-  "toxic": "No",
+  "toxic": false,
   "otherWarnings": ["May cause stomach upset in large quantities."],
-  "evergreen": "Yes",
+  "evergreen": true,
   "propagationNeeds": "Stratification"
   }
 ]

@@ -28,20 +28,20 @@ const PlantSchema = new mongoose.Schema({
     original: String
   },
   toxic:  {
-    type: String,
+    type: Boolean,
     default: 'Not listed'
   },
   spreadsVigorously:  {
-    type: String,
-    default: "No"
+    type: Boolean,
+    default: "Not Listed"
   },
   otherWarnings:  {
     type: [String],
     default: 'None listed'
   },
   evergreen:  {
-    type: [String],
-    default: "No"
+    type: Boolean,
+    default: false
   },
   propagationNeeds:  {
     type: [String],
@@ -51,7 +51,8 @@ const PlantSchema = new mongoose.Schema({
     type: [String],
     default: 'Not listed'
   }
-})
+},
+{ timestamps: true })
 
 // instantiate the model, calling it "Bookmark" and with the schema just made
 const Plant = mongoose.model('Plant', PlantSchema)

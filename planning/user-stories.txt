@@ -1,5 +1,10 @@
 USER STORIES
 
+I want to be able to look up/search for a plant by name- scientific or common name
+I want to be able to see all plants at once
+I want to be able to see all plants of just a certain type (Small Tree, Perennial, Fern, etc.)
+I want to be able to filter by certain parameters- toxic/non-toxic, vigorous spreader or not, evergreen, light needs, water needs 
+
 
 I want the photos to be standard dimensions, and small file size (as much as possible)
 
