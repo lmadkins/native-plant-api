@@ -29,20 +29,12 @@ router.get('/:id', async (req, res, next) => {
 })
 
 // SHOW
-// GET one of the plants by type
-// localhost:4000/api/plants/:filter
-// router.get('/plants/:type', (req, res) => {
-//   Plant.find({
-//     type: req.params.type
-//   })
-//   .then((plant) => {
-//     res.json(plant)
-//   })
-// })
+// GET one of the plants by type of plant
+// localhost:4000/api/plants/:type
 
 router.get('/plants/:type', async (req, res, next) => {
   try {
-    const foundPlants = await Plant.find({
+    let foundPlants = await Plant.find({
       type: req.params.type
     })
     res.status(200).json(foundPlants)
@@ -51,21 +43,36 @@ router.get('/plants/:type', async (req, res, next) => {
   }
 })
 
-router.get('/plants/:name', async (req, res, next) => {
+// Filter plants by toxicity/ if toxic is true or false whether toxic is true or false
+
+router.get('/plants/toxic/:bool', async (req, res, next) => {
   try {
-    const foundPlant = await Plant.find({
-      commonName: req.params.name
+    let foundPlants = await Plant.find({
+      toxic: req.params.bool
     })
-    res.status(200).json(foundPlant)
+    res.status(200).json(foundPlants)
   } catch(err) {
     next(err)
   }
 })
 
-// CREATE
-// POST a new plant
-// localhost:4000/api/plants/
-router.post('/', async (req, res, next) => {
+router.get('/plants/spreads/:bool', async (req, res, next) => {
+  try {
+    let foundPlants = await Plant.find({
+      spreadsVigorously: req.params.bool
+    })
+    res.status(200).json(foundPlants)
+  } catch(err) {
+    next(err)
+  }
+})
+
+
+
+
+// ADMIN ROUTES
+
+router.post('/new', async (req, res, next) => {
   try {
     const newPlant = await Plant.create(req.body)
     res.status(201).json(newPlant)
@@ -74,9 +81,6 @@ router.post('/', async (req, res, next) => {
   }
 })
 
-// UPDATE
-// PATCH update a plant, after locating it by id
-// localhost:4000/api/plants/:id
 router.patch('/:id', async(req, res, next) => {
   try {
     const updatedPlant = await Plant.findByIdAndUpdate(
@@ -94,10 +98,6 @@ router.patch('/:id', async(req, res, next) => {
   }
 })
 
-// DESTROY
-// DELETE a plant, after locating it by id
-// localhost:4000/api/plants/:id
-
 router.delete('/:id', async (req, res, next) => {
   try {
     const deletedPlant = await Plant.findByIdAndDelete(req.params.id)
@@ -106,6 +106,5 @@ router.delete('/:id', async (req, res, next) => {
     next(err)
   }
 })
-
 
 module.exports = router

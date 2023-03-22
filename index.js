@@ -15,12 +15,13 @@ app.use(express.urlencoded({extended: true}))
 // app.use(cors());
 // Redirect
 app.get('/', (req, res) => {
-	res.redirect('/api/plants');
+	res.redirect('/api');
 });
 
 // Controllers
 const plantController = require('./controllers/plantController')
 app.use(plantController)
+const adminController = require('./controllers/adminplantController')
 
 app.use((err, req, res, next) => {
   const statusCode = res.statusCode || 500;

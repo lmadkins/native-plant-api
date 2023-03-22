@@ -29,11 +29,11 @@ const PlantSchema = new mongoose.Schema({
   },
   toxic:  {
     type: Boolean,
-    default: 'Not listed'
+    default: false
   },
   spreadsVigorously:  {
     type: Boolean,
-    default: "Not Listed"
+    default: false
   },
   otherWarnings:  {
     type: [String],
