@@ -34,7 +34,7 @@ router.get('/:id', async (req, res, next) => {
 
 router.get('/plants/:type', async (req, res, next) => {
   try {
-    let foundPlants = await Plant.find({
+    let foundPlants = await Plant.findOne({
       type: req.params.type
     })
     res.status(200).json(foundPlants)
@@ -66,9 +66,6 @@ router.get('/plants/spreads/:bool', async (req, res, next) => {
     next(err)
   }
 })
-
-
-
 
 // ADMIN ROUTES
 
